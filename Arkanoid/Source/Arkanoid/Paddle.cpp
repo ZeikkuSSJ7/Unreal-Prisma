@@ -42,3 +42,8 @@ void APaddle::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 
 }
 
+void APaddle::MoveHorizontal(float Axisvalue)
+{
+	AddMovementInput(FVector(Axisvalue, 0, 0), 1.0f, false);
+}
+

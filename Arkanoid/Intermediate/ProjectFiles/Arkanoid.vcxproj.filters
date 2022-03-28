@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Arkanoid.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{BCE7C0CB-A040-4ED4-AE75-ECFE5299CE29}</UniqueIdentifier>
+      <UniqueIdentifier>{65D8F572-61D4-4992-9D52-A3387F686E7C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Arkanoid.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{453F29DF-B98F-4445-BDDD-351DFB198D30}</UniqueIdentifier>
+      <UniqueIdentifier>{D30D71B1-E8C7-4E55-9CCB-9168264ABCF8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Arkanoid">
-      <UniqueIdentifier>{31D69F8F-3847-4135-9233-D386BEB3B273}</UniqueIdentifier>
+      <UniqueIdentifier>{AEC548E0-AEBE-4D26-A2ED-C735220B2E54}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Arkanoid\Arkanoid.Build.cs">
       <Filter>Source\Arkanoid</Filter>
@@ -45,6 +45,12 @@
       <Filter>Source\Arkanoid</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Arkanoid\Paddle.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\Paddle_Player_Controller.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Paddle_Player_Controller.h">
       <Filter>Source\Arkanoid</Filter>
     </ClInclude>
   </ItemGroup>
