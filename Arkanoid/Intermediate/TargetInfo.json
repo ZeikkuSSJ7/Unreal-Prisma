@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "Arkanoid",
-			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Arkanoid\\Source\\Arkanoid.Target.cs",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\Arkanoid\\Source\\Arkanoid.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ArkanoidEditor",
-			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Arkanoid\\Source\\ArkanoidEditor.Target.cs",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\Arkanoid\\Source\\ArkanoidEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

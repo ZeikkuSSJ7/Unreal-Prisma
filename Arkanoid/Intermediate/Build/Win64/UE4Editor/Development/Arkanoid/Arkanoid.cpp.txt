@@ -1,2 +1,2 @@
-C:\Users\Administrador\Documents\Unreal Projects\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
-C:\Users\Administrador\Documents\Unreal Projects\Arkanoid\Source\Arkanoid\Arkanoid.h
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\Definitions.Arkanoid.h
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Source\Arkanoid\Arkanoid.h
