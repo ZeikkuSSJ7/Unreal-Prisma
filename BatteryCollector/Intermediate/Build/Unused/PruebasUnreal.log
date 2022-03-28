@@ -1,0 +1,18 @@
+﻿  Parsing headers for PruebasUnrealEditor
+    Running UnrealHeaderTool "C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\PruebasUnreal.uproject" "C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Intermediate\Build\Win64\PruebasUnrealEditor\Development\PruebasUnrealEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrador\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for PruebasUnrealEditor in 8,2419442 seconds
+  Building PruebasUnrealEditor...
+  Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 12 processes...
+    [1/7] PruebasUnreal.init.gen.cpp
+    [2/7] BatteryMan_GameMode.cpp
+    [3/7] BatteryMan_GameMode.gen.cpp
+    [4/7] BatteryMan.cpp
+    [5/7] UE4Editor-PruebasUnreal-0021.lib
+       Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Intermediate\Build\Win64\UE4Editor\Development\PruebasUnreal\UE4Editor-PruebasUnreal-0021.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Intermediate\Build\Win64\UE4Editor\Development\PruebasUnreal\UE4Editor-PruebasUnreal-0021.exp
+    [6/7] UE4Editor-PruebasUnreal-0021.dll
+       Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Intermediate\Build\Win64\UE4Editor\Development\PruebasUnreal\UE4Editor-PruebasUnreal-0021.suppressed.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Intermediate\Build\Win64\UE4Editor\Development\PruebasUnreal\UE4Editor-PruebasUnreal-0021.suppressed.exp
+    [7/7] PruebasUnrealEditor.target
+  Total time in Parallel executor: 6,01 seconds
+  Total execution time: 14,94 seconds

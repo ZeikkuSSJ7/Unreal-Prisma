@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Arkanoid.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9E7CA642-3BEF-4E22-95D3-FE50C4E5AD86}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arkanoid.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArkanoidEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0BC8FBAF-38BB-488A-BDDF-25A3837B660C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Arkanoid">
+      <UniqueIdentifier>{E2EFDEBA-0B15-49FD-AB21-3F0C3E7712D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arkanoid\Arkanoid.Build.cs">
+      <Filter>Source\Arkanoid</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Arkanoid\Arkanoid.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\Arkanoid.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkanoid\ArkanoidGameModeBase.cpp">
+      <Filter>Source\Arkanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkanoid\ArkanoidGameModeBase.h">
+      <Filter>Source\Arkanoid</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

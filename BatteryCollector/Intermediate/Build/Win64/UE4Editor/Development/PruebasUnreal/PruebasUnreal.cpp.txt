@@ -1,0 +1,2 @@
+C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Intermediate\Build\Win64\UE4Editor\Development\PruebasUnreal\Definitions.PruebasUnreal.h
+C:\Users\Administrador\Documents\Unreal Projects\PruebasUnreal\Source\PruebasUnreal\PruebasUnreal.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PruebasUnreal",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\PruebasUnreal\\Source\\PruebasUnreal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PruebasUnrealEditor",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\PruebasUnreal\\Source\\PruebasUnrealEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
