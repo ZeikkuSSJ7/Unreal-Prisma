@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Pacman.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{DE9C7259-AAA9-4CAE-B5AD-B163A87C97E4}</UniqueIdentifier>
+      <UniqueIdentifier>{3FA5A5B6-B1E7-4AFC-8BA5-119EA47AF27E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Pacman.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B458B920-63F5-453C-9221-D36627C695DF}</UniqueIdentifier>
+      <UniqueIdentifier>{DB912562-3A21-4F83-A57C-F2F7CAF53D00}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Pacman">
-      <UniqueIdentifier>{9FEEE399-4CDE-4C9D-A4F7-9C738B17363C}</UniqueIdentifier>
+      <UniqueIdentifier>{B9062BC2-A90A-496F-AB32-868AC34AE03A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Pacman\Pacman.Build.cs">
       <Filter>Source\Pacman</Filter>
@@ -33,6 +33,12 @@
       <Filter>Source\Pacman</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Pacman\Pacman.h">
+      <Filter>Source\Pacman</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pacman\PacmanController.cpp">
+      <Filter>Source\Pacman</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pacman\PacmanController.h">
       <Filter>Source\Pacman</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Pacman\PacmanGameModeBase.cpp">

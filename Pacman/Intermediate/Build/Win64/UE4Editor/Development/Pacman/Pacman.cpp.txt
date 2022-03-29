@@ -1,2 +1,2 @@
-C:\Users\Administrador\Documents\Unreal Projects\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Definitions.Pacman.h
-C:\Users\Administrador\Documents\Unreal Projects\Pacman\Source\Pacman\Pacman.h
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Definitions.Pacman.h
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Source\Pacman\Pacman.h
