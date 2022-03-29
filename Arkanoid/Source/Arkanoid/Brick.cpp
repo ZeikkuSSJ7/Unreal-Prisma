@@ -25,7 +25,8 @@ void ABrick::BeginPlay()
 {
 	Super::BeginPlay();
 
-	boxCollision-> OnComponentBeginOverlap.AddDynamic(this, &ABrick::OnOverlapBegin);
+	//boxCollision->OnComponentBeginOverlap.AddDynamic(this, &ABrick::OnOverlapBegin);
+	boxCollision->OnComponentHit.AddDynamic(this, &ABrick::OnHit);
 }
 
 // Called every frame
@@ -35,15 +36,28 @@ void ABrick::Tick(float DeltaTime)
 
 }
 
-void ABrick::OnOverlapBegin(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp,
-	int32 OtherBodyIndexType, bool bFromSweep, const FHitResult& SweepResult)
+void ABrick::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, FVector NormalImpulse, const FHitResult& Hit)
 {
+	if (GetWorldTimerManager().IsTimerActive(TimerHandle)) return;
 	
+	if (OtherActor->ActorHasTag("Ball"))
+	{
+		ABall* myBall = Cast<ABall>(OtherActor);
+
+		FVector ballVelocity = myBall->GetVelocity();
+		ballVelocity *= (speedModifierOnBounce - 0.97f);
+
+		myBall->GetBall()->SetPhysicsLinearVelocity(ballVelocity, true);
+		
+		GetWorldTimerManager().SetTimer(TimerHandle, this, &ABrick::DestroyBrick, 0.1f, false);
+		
+	}
 }
 
 void ABrick::DestroyBrick()
 {
 	
+	this->ConditionalBeginDestroy();
 }
 
 

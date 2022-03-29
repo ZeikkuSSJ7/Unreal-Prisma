@@ -27,13 +27,15 @@ protected:
 
 	float speedModifierOnBounce = 1.01f;
 
+	
 	UFUNCTION()
-		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor,
-			class UPrimitiveComponent* OtherComp, int32 OtherBodyIndexType,
-			bool bFromSweep, const FHitResult& SweepResult);
+		void OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp,
+			FVector NormalImpulse, const FHitResult& Hit);
 	void DestroyBrick(); 
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+private:
+	FTimerHandle TimerHandle;
 };

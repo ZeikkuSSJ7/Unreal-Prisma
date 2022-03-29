@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeArkanoid_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB1AA3D96,
+				0x31E71008,
 				0x719DF3AE,
 				METADATA_PARAMS(nullptr, 0)
 			};

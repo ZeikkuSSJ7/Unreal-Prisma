@@ -10,6 +10,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class UPrimitiveComponent;
 class AActor;
+struct FVector;
 struct FHitResult;
 #ifdef ARKANOID_Brick_generated_h
 #error "Brick.generated.h already included, missing '#pragma once' in Brick.h"
@@ -19,12 +20,12 @@ struct FHitResult;
 #define Arkanoid_Source_Arkanoid_Brick_h_13_SPARSE_DATA
 #define Arkanoid_Source_Arkanoid_Brick_h_13_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execOnOverlapBegin);
+	DECLARE_FUNCTION(execOnHit);
 
 
 #define Arkanoid_Source_Arkanoid_Brick_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execOnOverlapBegin);
+	DECLARE_FUNCTION(execOnHit);
 
 
 #define Arkanoid_Source_Arkanoid_Brick_h_13_INCLASS_NO_PURE_DECLS \
