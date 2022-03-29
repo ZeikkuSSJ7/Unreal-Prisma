@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Components/BoxComponent.h"
 #include "GameFramework/Actor.h"
 #include "Brick.generated.h"
 
@@ -18,7 +19,19 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+		UStaticMeshComponent* smBrick;
 
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+		UBoxComponent* boxCollision;
+
+	float speedModifierOnBounce = 1.01f;
+
+	UFUNCTION()
+		void OnOverlapBegin(class UPrimitiveComponent* OverlappedComp, class AActor* OtherActor,
+			class UPrimitiveComponent* OtherComp, int32 OtherBodyIndexType,
+			bool bFromSweep, const FHitResult& SweepResult);
+	void DestroyBrick(); 
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
