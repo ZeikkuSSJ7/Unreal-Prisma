@@ -1163,3 +1163,219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.29-08.35.00:314][968]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.29-08.35.00:314][968]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Mapa_BuiltData.Mapa_BuiltData
 [2022.03.29-08.35.00:314][968]LogContentValidation: Display: Validating World /Game/Maps/Mapa.Mapa
+[2022.03.29-08.35.33:417][473]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.29-08.35.47:182][559]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Arkanoid.uproject" -game -rocket -progress
+[2022.03.29-08.35.47:487][559]Discovering modules, targets and source code for project...
+[2022.03.29-08.35.48:895][559]Binding IntelliSense data...
+[2022.03.29-08.35.51:014][559]Binding IntelliSense data... 100%
+[2022.03.29-08.35.51:015][559]Writing project files...
+[2022.03.29-08.35.54:235][559]Writing project files... 100%
+[2022.03.29-08.35.54:346][559]Candidate modules for hot reload:
+[2022.03.29-08.35.54:346][559]  Arkanoid
+[2022.03.29-08.35.54:346][559]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Arkanoid,1733 ArkanoidEditor Win64 Development -Project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Arkanoid.uproject" "C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Arkanoid.uproject"  -IgnoreJunk]
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: New page: Compilation - 29 mar. 2022 12:36:01
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma).
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Creating makefile for ArkanoidEditor (no existing makefile)
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Parsing headers for ArkanoidEditor
+[2022.03.29-08.36.01:151][559]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Arkanoid.uproject" "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Intermediate\Build\Win64\ArkanoidEditor\Development\ArkanoidEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrador\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Reflection code generated for ArkanoidEditor in 3,3107894 seconds
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Building ArkanoidEditor...
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.29-08.36.01:151][559]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.03.29-08.36.01:151][559]CompilerResultsLog:   [1/6] Ball.cpp
+[2022.03.29-08.36.01:151][559]CompilerResultsLog:   [2/6] Arkanoid.init.gen.cpp
+[2022.03.29-08.36.01:151][559]CompilerResultsLog:   [3/6] Ball.gen.cpp
+[2022.03.29-08.36.01:151][559]CompilerResultsLog:   [4/6] UE4Editor-Arkanoid-1733.lib
+[2022.03.29-08.36.01:152][559]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-1733.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-1733.exp
+[2022.03.29-08.36.01:152][559]CompilerResultsLog:   [5/6] UE4Editor-Arkanoid-1733.dll
+[2022.03.29-08.36.01:152][559]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-1733.suppressed.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Intermediate\Build\Win64\UE4Editor\Development\Arkanoid\UE4Editor-Arkanoid-1733.suppressed.exp
+[2022.03.29-08.36.01:152][559]CompilerResultsLog:   [6/6] ArkanoidEditor.target
+[2022.03.29-08.36.01:152][559]CompilerResultsLog: Total time in Parallel executor: 1,37 seconds
+[2022.03.29-08.36.01:152][559]CompilerResultsLog: Total execution time: 6,74 seconds
+[2022.03.29-08.36.01:152][559]LogMainFrame: MainFrame: Module compiling took 6.815 seconds
+[2022.03.29-08.36.01:173][559]LogClass: Could not find existing class Ball in package /Script/Arkanoid for HotReload, assuming new class
+[2022.03.29-08.36.01:182][559]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Arkanoid' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2022.03.29-08.36.01:189][559]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.03.29-08.36.01:265][559]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3826 classes and 930 folders.
+[2022.03.29-08.36.01:270][559]Display: HotReload took  6.9s.
+[2022.03.29-08.36.01:270][559]Warning: HotReload operation took  6.9s.
+[2022.03.29-08.36.01:312][559]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.03.29-08.36.01:696][560]LogHotReload: New module detected: UE4Editor-Arkanoid-1733.dll
+[2022.03.29-08.36.01:785][561]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.29-08.36.01:875][561]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Arkanoid' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2022.03.29-08.36.01:887][561]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.03.29-08.36.01:903][561]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0157 seconds. Added 3826 classes and 930 folders.
+[2022.03.29-08.36.01:914][561]Display: HotReload took  0.1s.
+[2022.03.29-08.48.32:300][303]LogHotReload: New module detected: UE4Editor-Arkanoid-0005.dll
+[2022.03.29-08.48.32:985][306]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.29-08.48.33:039][306]LogClass: Could not find existing class Ball in package /Script/Arkanoid for HotReload, assuming new class
+[2022.03.29-08.48.33:039][306]LogClass: Function GetBall is new.
+[2022.03.29-08.48.33:053][306]LogHotReload: Re-instancing Ball after hot-reload.
+[2022.03.29-08.48.33:075][306]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Arkanoid' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2022.03.29-08.48.33:083][306]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.03.29-08.48.33:206][306]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0125 seconds. Added 3826 classes and 930 folders.
+[2022.03.29-08.48.33:215][306]Display: HotReload took  0.2s.
+[2022.03.29-08.48.40:782][389]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-08.48.40:787][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-08.48.40:787][389]PIE: New page: PIE session: Mapa (29 mar. 2022 12:48:40)
+[2022.03.29-08.48.40:820][389]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mapa
+[2022.03.29-08.48.40:823][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003116s)
+[2022.03.29-08.48.40:829][389]LogAIModule: Creating AISystem for world Mapa
+[2022.03.29-08.48.40:829][389]LogPlayLevel: PIE: World Init took: (0.006210s)
+[2022.03.29-08.48.40:829][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mapa.Mapa to /Game/Maps/UEDPIE_0_Mapa.Mapa (0.009650s)
+[2022.03.29-08.48.40:983][389]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2022.03.29-08.48.40:985][389]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-08.48.40:985][389]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-08.48.40:985][389]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-08.48.40:985][389]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-08.48.40:985][389]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-08.48.40:985][389]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-08.48.40:988][389]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-08.48.40:988][389]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-08.48.40:996][389]LogAudioMixer: Display: Using Audio Device 27B1 (NVIDIA High Definition Audio)
+[2022.03.29-08.48.40:997][389]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-08.48.40:997][389]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-08.48.40:997][389]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-08.48.40:997][389]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-08.48.40:997][389]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-08.48.40:997][389]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-08.48.40:999][389]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-08.48.40:999][389]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-08.48.40:999][389]LogInit: FAudioDevice initialized.
+[2022.03.29-08.48.40:999][389]LogAudio: Display: Audio Device (ID: 6) registered with world 'Mapa'.
+[2022.03.29-08.48.41:007][389]LogLoad: Game class is 'Arkanoid_Gamemode_BP_C'
+[2022.03.29-08.48.41:008][389]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2022.03.29-10.48.41
+[2022.03.29-08.48.41:008][389]LogWorld: Bringing up level for play took: 0.000493
+[2022.03.29-08.48.41:008][389]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.29-08.48.41:010][389]PIE: Server logged in
+[2022.03.29-08.48.41:011][389]PIE: Play in editor total start time 0,225 seconds.
+[2022.03.29-08.48.45:280][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.48.45:280][894]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mapa
+[2022.03.29-08.48.45:280][894]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.48.45:281][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.48.45:291][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-08.48.45:304][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.48.45:315][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.48.45:335][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.48.45:336][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.48.45:380][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.03.29-08.48.45:406][895]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.29-08.48.53:179][666]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.29-08.48.53:182][666]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.29-08.49.13:591][666]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.29-08.49.13:600][666]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.29-08.49.13:612][666]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.29-08.49.17:620][133]LogContentBrowser: Attempting asset rename: NewBlueprint -> Ball_BP
+[2022.03.29-08.49.17:625][133]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.29-08.49.18:075][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Ball_BP.Ball_BP
+[2022.03.29-08.49.18:549][186]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2022.03.29-08.49.31:248][188]LogLinker: Warning: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Content\Meshes\SM_Ball.uasset: Failed to load '/Game/Materials/CollisionMaterial': Can't find file.
+[2022.03.29-08.49.31:248][188]LogLinker: Warning: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Content\Meshes\SM_Ball.uasset: Failed to load '/Game/Materials/CollisionMaterial': Can't find file.
+[2022.03.29-08.49.31:248][188]LogLinker: Warning: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Content\Meshes\SM_Ball.uasset: Failed to load '/Game/Materials/CollisionMaterial': Can't find file.
+[2022.03.29-08.49.31:249][188]LogLinker: Warning: [AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Arkanoid\Content\Meshes\SM_Ball.uasset: Failed to load '/Game/Materials/CollisionMaterial': Can't find file.
+[2022.03.29-08.49.31:250][188]LogMaterial: Display: Missing cached shadermap for M_Ball in PCD3D_SM5, Default, SM5 (DDC key hash: 202D7976D146CE9439CBE19BE259C5A6D75C9A3D), compiling. 
+[2022.03.29-08.49.31:290][188]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.03.29-08.49.31:292][188]LogStaticMesh: Building static mesh SM_Ball...
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.03.29-08.49.31:293][188]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2022.03.29-08.49.31:328][188]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/SM_Ball.SM_Ball
+[2022.03.29-08.49.32:391][223]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.29-08.49.32:391][223]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.03.29-08.49.32:391][223]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.03.29-08.49.32:391][223]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.29-08.49.32:391][223]LogShaderCompilers: Display: ================================================
+[2022.03.29-08.49.34:825][277]BlueprintLog: New page: Compile Ball_BP
+[2022.03.29-08.49.34:891][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.03.29-08.49.35:321][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Blueprints/Ball_BP.uasset" SILENT=true
+[2022.03.29-08.49.35:331][304]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Saved/Ball_BP4B8A7756413AD0E1980E24A959B19221.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Blueprints/Ball_BP.uasset'
+[2022.03.29-08.49.35:343][304]AssetCheck: New page: Asset Save: Ball_BP
+[2022.03.29-08.49.35:343][304]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball_BP.Ball_BP
+[2022.03.29-08.49.36:218][396]LogSlate: Window 'Ball_BP' being destroyed
+[2022.03.29-08.49.36:223][396]LogSlate: Window 'Ball_BP' being destroyed
+[2022.03.29-08.49.36:260][396]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.49.36:260][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.49.47:340][605]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.29-08.49.47:346][605]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.29-08.49.47:346][605]PIE: New page: PIE session: Mapa (29 mar. 2022 12:49:47)
+[2022.03.29-08.49.47:381][605]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mapa
+[2022.03.29-08.49.47:383][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001702s)
+[2022.03.29-08.49.47:384][605]LogAIModule: Creating AISystem for world Mapa
+[2022.03.29-08.49.47:384][605]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2022.03.29-08.49.47:384][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mapa.Mapa to /Game/Maps/UEDPIE_0_Mapa.Mapa (0.003344s)
+[2022.03.29-08.49.47:437][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.29-08.49.47:442][605]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.29-08.49.47:442][605]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.29-08.49.47:442][605]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.29-08.49.47:442][605]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.29-08.49.47:442][605]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.29-08.49.47:442][605]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.29-08.49.47:445][605]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.29-08.49.47:446][605]LogAudioMixer: Display: 1: FrontRight
+[2022.03.29-08.49.47:454][605]LogAudioMixer: Display: Using Audio Device 27B1 (NVIDIA High Definition Audio)
+[2022.03.29-08.49.47:454][605]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.29-08.49.47:454][605]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.29-08.49.47:454][605]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.29-08.49.47:455][605]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.29-08.49.47:455][605]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.29-08.49.47:455][605]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.29-08.49.47:456][605]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.29-08.49.47:456][605]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.29-08.49.47:456][605]LogInit: FAudioDevice initialized.
+[2022.03.29-08.49.47:456][605]LogAudio: Display: Audio Device (ID: 7) registered with world 'Mapa'.
+[2022.03.29-08.49.47:464][605]LogLoad: Game class is 'Arkanoid_Gamemode_BP_C'
+[2022.03.29-08.49.47:464][605]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mapa.Mapa up for play (max tick rate 0) at 2022.03.29-10.49.47
+[2022.03.29-08.49.47:465][605]LogWorld: Bringing up level for play took: 0.000534
+[2022.03.29-08.49.47:465][605]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.29-08.49.47:467][605]PIE: Server logged in
+[2022.03.29-08.49.47:468][605]PIE: Play in editor total start time 0,123 seconds.
+[2022.03.29-08.49.49:501][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.49.49:501][844]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Mapa
+[2022.03.29-08.49.49:501][844]LogWorld: UWorld::CleanupWorld for Mapa, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.49.49:501][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.49.49:509][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.29-08.49.49:528][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.49.49:544][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.29-08.49.49:548][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.49.49:549][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.29-08.49.49:551][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.29-08.49.49:579][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.03.29-08.49.49:612][845]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.29-08.49.55:026][433]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Ball_BP.Ball_BP
+[2022.03.29-08.50.09:177][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ball_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Blueprints/Ball_BP.uasset" SILENT=true
+[2022.03.29-08.50.09:187][961]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Saved/Ball_BPA8B7B80745C8832B37914D8F78F6BB65.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Blueprints/Ball_BP.uasset'
+[2022.03.29-08.50.09:213][961]AssetCheck: New page: Asset Save: Ball_BP
+[2022.03.29-08.50.09:213][961]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Ball_BP.Ball_BP
+[2022.03.29-08.50.10:185][ 62]LogSlate: Window 'Ball_BP' being destroyed
+[2022.03.29-08.50.10:189][ 62]LogSlate: Window 'Ball_BP' being destroyed
+[2022.03.29-08.50.10:221][ 62]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.29-08.50.10:221][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.29-08.50.11:143][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Backdrop)
+[2022.03.29-08.50.11:976][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Backdrop)
+[2022.03.29-08.50.12:494][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Backdrop)
+[2022.03.29-08.50.19:391][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.03.29-08.50.19:400][128]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Saved/Mapa9D0B7B65445B0135CC7F51BA6E95DF28.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Maps/Mapa.umap'
+[2022.03.29-08.50.19:405][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa_BuiltData" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Maps/Mapa_BuiltData.uasset" SILENT=true
+[2022.03.29-08.50.19:415][128]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Saved/Mapa_BuiltData3D8A79BD4EBD6228617301B4F3859FBB.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Arkanoid/Content/Maps/Mapa_BuiltData.uasset'
+[2022.03.29-08.50.19:426][128]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.29-08.50.19:426][128]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Mapa_BuiltData.Mapa_BuiltData
+[2022.03.29-08.50.19:426][128]LogContentValidation: Display: Validating World /Game/Maps/Mapa.Mapa
