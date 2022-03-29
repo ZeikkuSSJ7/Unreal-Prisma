@@ -13,18 +13,18 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ARKANOID_Paddle_Player_Controller_generated_h
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_SPARSE_DATA
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_RPC_WRAPPERS \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_SPARSE_DATA
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execSetupInputComponent);
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execSetupInputComponent);
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_INCLASS_NO_PURE_DECLS \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPaddle_Player_Controller(); \
 	friend struct Z_Construct_UClass_APaddle_Player_Controller_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(APaddle_Player_Controller)
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_INCLASS \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_INCLASS \
 private: \
 	static void StaticRegisterNativesAPaddle_Player_Controller(); \
 	friend struct Z_Construct_UClass_APaddle_Player_Controller_Statics; \
@@ -42,7 +42,7 @@ public: \
 	DECLARE_SERIALIZER(APaddle_Player_Controller)
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_STANDARD_CONSTRUCTORS \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API APaddle_Player_Controller(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(APaddle_Player_Controller) \
@@ -55,7 +55,7 @@ private: \
 public:
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_ENHANCED_CONSTRUCTORS \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API APaddle_Player_Controller(APaddle_Player_Controller&&); \
@@ -66,28 +66,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(APaddle_Player_Controller)
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_PRIVATE_PROPERTY_OFFSET
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_13_PROLOG
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_GENERATED_BODY_LEGACY \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_PRIVATE_PROPERTY_OFFSET
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_14_PROLOG
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_PRIVATE_PROPERTY_OFFSET \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_SPARSE_DATA \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_RPC_WRAPPERS \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_INCLASS \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_STANDARD_CONSTRUCTORS \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_PRIVATE_PROPERTY_OFFSET \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_SPARSE_DATA \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_RPC_WRAPPERS \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_INCLASS \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_GENERATED_BODY \
+#define Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_PRIVATE_PROPERTY_OFFSET \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_SPARSE_DATA \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_INCLASS_NO_PURE_DECLS \
-	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_16_ENHANCED_CONSTRUCTORS \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_PRIVATE_PROPERTY_OFFSET \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_SPARSE_DATA \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_INCLASS_NO_PURE_DECLS \
+	Arkanoid_Source_Arkanoid_Paddle_Player_Controller_h_17_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

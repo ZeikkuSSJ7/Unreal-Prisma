@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Paddle.h"
 #include "GameFramework/PlayerController.h"
 #include "Paddle_Player_Controller.generated.h"
 
@@ -20,6 +21,8 @@ public:
 	
 	UFUNCTION()
 	virtual void SetupInputComponent() override;
+	UPROPERTY()
+		APaddle* myPawn;
 protected:
 	virtual void BeginPlay() override;
 	void MoveHorizontal(float AxisValue);
