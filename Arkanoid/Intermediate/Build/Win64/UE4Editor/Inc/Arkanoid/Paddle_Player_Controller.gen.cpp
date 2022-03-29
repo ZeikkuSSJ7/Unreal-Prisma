@@ -18,6 +18,8 @@ void EmptyLinkFunctionForGeneratedCodePaddle_Player_Controller() {}
 	ENGINE_API UClass* Z_Construct_UClass_APlayerController();
 	UPackage* Z_Construct_UPackage__Script_Arkanoid();
 	ARKANOID_API UClass* Z_Construct_UClass_APaddle_NoRegister();
+	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	ARKANOID_API UClass* Z_Construct_UClass_ABall_NoRegister();
 // End Cross Module References
 	DEFINE_FUNCTION(APaddle_Player_Controller::execSetupInputComponent)
 	{
@@ -71,6 +73,10 @@ void EmptyLinkFunctionForGeneratedCodePaddle_Player_Controller() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_myPawn_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_myPawn;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ballObj_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FClassPropertyParams NewProp_ballObj;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -84,7 +90,6 @@ void EmptyLinkFunctionForGeneratedCodePaddle_Player_Controller() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APaddle_Player_Controller_Statics::Class_MetaDataParams[] = {
-		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "Paddle_Player_Controller.h" },
 		{ "ModuleRelativePath", "Paddle_Player_Controller.h" },
@@ -96,8 +101,16 @@ void EmptyLinkFunctionForGeneratedCodePaddle_Player_Controller() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_myPawn = { "myPawn", nullptr, (EPropertyFlags)0x0010000000000000, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APaddle_Player_Controller, myPawn), Z_Construct_UClass_APaddle_NoRegister, METADATA_PARAMS(Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_myPawn_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_myPawn_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_ballObj_MetaData[] = {
+		{ "Category", "Paddle_Player_Controller" },
+		{ "ModuleRelativePath", "Paddle_Player_Controller.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_ballObj = { "ballObj", nullptr, (EPropertyFlags)0x0024080000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(APaddle_Player_Controller, ballObj), Z_Construct_UClass_ABall_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_ballObj_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_ballObj_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_APaddle_Player_Controller_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_myPawn,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_APaddle_Player_Controller_Statics::NewProp_ballObj,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_APaddle_Player_Controller_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<APaddle_Player_Controller>::IsAbstract,
@@ -126,7 +139,7 @@ void EmptyLinkFunctionForGeneratedCodePaddle_Player_Controller() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(APaddle_Player_Controller, 1841997480);
+	IMPLEMENT_CLASS(APaddle_Player_Controller, 4201614339);
 	template<> ARKANOID_API UClass* StaticClass<APaddle_Player_Controller>()
 	{
 		return APaddle_Player_Controller::StaticClass();
