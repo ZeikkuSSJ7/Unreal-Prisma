@@ -1,0 +1,3 @@
+C:\Users\Administrador\Documents\Unreal Projects\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Definitions.Pacman.h
+C:\Users\Administrador\Documents\Unreal Projects\Pacman\Source\Pacman\PacmanPawn.h
+C:\Users\Administrador\Documents\Unreal Projects\Pacman\Intermediate\Build\Win64\UE4Editor\Inc\Pacman\PacmanPawn.generated.h
