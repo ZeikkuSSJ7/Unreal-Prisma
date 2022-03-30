@@ -2310,3 +2310,127 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-14.38.55:193][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2022.03.30-14.38.55:229][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
 [2022.03.30-14.38.55:258][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.03.30-14.39.24:710][616]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Monster_Shooter.uproject" -game -rocket -progress
+[2022.03.30-14.39.25:013][616]Discovering modules, targets and source code for project...
+[2022.03.30-14.39.26:420][616]Binding IntelliSense data...
+[2022.03.30-14.39.28:462][616]Binding IntelliSense data... 100%
+[2022.03.30-14.39.28:462][616]Writing project files...
+[2022.03.30-14.39.31:683][616]Writing project files... 100%
+[2022.03.30-14.39.31:788][616]Candidate modules for hot reload:
+[2022.03.30-14.39.31:788][616]  Monster_Shooter
+[2022.03.30-14.39.31:788][616]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Monster_Shooter,9880 Monster_ShooterEditor Win64 Development -Project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Monster_Shooter.uproject" "C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Monster_Shooter.uproject"  -IgnoreJunk]
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: New page: Compilation - 30 mar. 2022 18:39:38
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma).
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Creating makefile for Monster_ShooterEditor (no existing makefile)
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Parsing headers for Monster_ShooterEditor
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Monster_Shooter.uproject" "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Monster_ShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrador\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Reflection code generated for Monster_ShooterEditor in 3,3982501 seconds
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Building Monster_ShooterEditor...
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   [1/6] Monster_Shooter.init.gen.cpp
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   [2/6] Projectile.cpp
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   [3/6] Projectile.gen.cpp
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   [4/6] UE4Editor-Monster_Shooter-9880.lib
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-9880.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-9880.exp
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   [5/6] UE4Editor-Monster_Shooter-9880.dll
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-9880.suppressed.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-9880.suppressed.exp
+[2022.03.30-14.39.38:594][616]CompilerResultsLog:   [6/6] Monster_ShooterEditor.target
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Total time in Parallel executor: 1,34 seconds
+[2022.03.30-14.39.38:594][616]CompilerResultsLog: Total execution time: 6,74 seconds
+[2022.03.30-14.39.38:594][616]LogMainFrame: MainFrame: Module compiling took 6.809 seconds
+[2022.03.30-14.39.38:635][616]LogClass: Could not find existing class Projectile in package /Script/Monster_Shooter for HotReload, assuming new class
+[2022.03.30-14.39.38:646][616]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Monster_Shooter' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2022.03.30-14.39.38:655][616]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.03.30-14.39.38:806][616]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0121 seconds. Added 3829 classes and 930 folders.
+[2022.03.30-14.39.38:806][616]Display: HotReload took  7.0s.
+[2022.03.30-14.39.38:815][616]Warning: HotReload operation took  7.0s.
+[2022.03.30-14.39.38:876][616]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.03.30-14.39.39:339][617]LogHotReload: New module detected: UE4Editor-Monster_Shooter-9880.dll
+[2022.03.30-14.39.39:494][618]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-14.39.39:530][618]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Monster_Shooter' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2022.03.30-14.39.39:549][618]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.03.30-14.39.39:567][618]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0119 seconds. Added 3829 classes and 930 folders.
+[2022.03.30-14.39.39:570][618]Display: HotReload took  0.1s.
+[2022.03.30-14.47.37:702][ 43]LogHotReload: New module detected: UE4Editor-Monster_Shooter-0010.dll
+[2022.03.30-14.47.38:381][ 46]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-14.47.38:482][ 46]LogClass: Could not find existing class Projectile in package /Script/Monster_Shooter for HotReload, assuming new class
+[2022.03.30-14.47.38:482][ 46]LogClass: Function OnHit is new.
+[2022.03.30-14.47.38:505][ 46]LogHotReload: Re-instancing Projectile after hot-reload.
+[2022.03.30-14.47.38:541][ 46]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Monster_Shooter' in 0.0006 seconds. Added 7 classes and 2 folders.
+[2022.03.30-14.47.38:555][ 46]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.03.30-14.47.38:751][ 46]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3829 classes and 930 folders.
+[2022.03.30-14.47.38:754][ 46]Display: HotReload took  0.4s.
+[2022.03.30-14.47.41:142][260]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-14.47.41:146][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-14.47.41:146][260]PIE: New page: PIE session: FirstPersonExampleMap (30 mar. 2022 18:47:41)
+[2022.03.30-14.47.41:146][260]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.47.41:169][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022370s)
+[2022.03.30-14.47.41:170][260]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.30-14.47.41:170][260]LogPlayLevel: PIE: World Init took: (0.001702s)
+[2022.03.30-14.47.41:171][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024392s)
+[2022.03.30-14.47.41:351][260]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2022.03.30-14.47.41:353][260]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-14.47.41:353][260]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-14.47.41:353][260]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-14.47.41:354][260]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-14.47.41:354][260]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-14.47.41:354][260]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-14.47.41:354][260]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-14.47.41:379][260]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-14.47.41:379][260]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-14.47.41:399][260]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-14.47.41:400][260]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-14.47.41:400][260]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-14.47.41:400][260]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-14.47.41:400][260]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-14.47.41:400][260]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-14.47.41:400][260]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-14.47.41:402][260]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-14.47.41:402][260]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-14.47.41:402][260]LogInit: FAudioDevice initialized.
+[2022.03.30-14.47.41:402][260]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonExampleMap'.
+[2022.03.30-14.47.41:412][260]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.30-14.47.41:414][260]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.30-16.47.41
+[2022.03.30-14.47.41:415][260]LogWorld: Bringing up level for play took: 0.001538
+[2022.03.30-14.47.41:415][260]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.30-14.47.41:417][260]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.47.41:417][260]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.47.41:417][260]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.47.41:418][260]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.47.41:418][260]PIE: Server logged in
+[2022.03.30-14.47.41:419][260]PIE: Play in editor total start time 0,274 seconds.
+[2022.03.30-14.47.43:773][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.47.43:773][530]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.47.43:773][530]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-14.47.43:773][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.47.43:786][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-14.47.43:824][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.47.43:853][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.47.43:853][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.47.43:854][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.47.43:919][530]LogUObjectHash: Compacting FUObjectHashTables data took  10.60ms
+[2022.03.30-14.47.43:957][531]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.30-14.47.48:280][963]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-14.47.48:283][963]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-14.47.53:602][963]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.30-14.47.53:610][963]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.30-14.47.53:624][963]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.30-14.48.00:282][748]LogContentBrowser: Attempting asset rename: NewBlueprint -> Projectile_BP
+[2022.03.30-14.48.00:286][748]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.30-14.48.01:445][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Projectile_BP.Projectile_BP
+[2022.03.30-14.49.21:807][ 52]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Projectile_BP58B751C44A8285990A61B9AE4FE036A0.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Projectile_BP.uasset'
+[2022.03.30-14.49.21:831][ 52]AssetCheck: New page: Asset Save: Projectile_BP
+[2022.03.30-14.49.21:831][ 52]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectile_BP.Projectile_BP
+[2022.03.30-14.49.22:503][126]BlueprintLog: New page: Compile Projectile_BP
+[2022.03.30-14.49.22:602][126]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2022.03.30-14.49.23:023][162]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Projectile_BPF427CBB24F4D2C27E6196EAA8A8B68E2.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Projectile_BP.uasset'
+[2022.03.30-14.49.23:037][162]AssetCheck: New page: Asset Save: Projectile_BP
+[2022.03.30-14.49.23:037][162]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Projectile_BP.Projectile_BP
