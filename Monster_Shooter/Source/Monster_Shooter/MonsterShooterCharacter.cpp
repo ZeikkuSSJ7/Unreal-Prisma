@@ -7,6 +7,7 @@
 
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
+#include "Kismet/GameplayStatics.h"
 
 
 // Sets default values
@@ -51,6 +52,10 @@ void AMonsterShooterCharacter::BeginPlay()
 	Super::BeginPlay();
 
 	gunMesh->AttachToComponent(handsMesh, FAttachmentTransformRules::SnapToTargetNotIncludingScale, TEXT("GripPoint"));
+
+	world = GetWorld();
+
+	animInstance = handsMesh->GetAnimInstance();
 	
 }
 
@@ -84,6 +89,29 @@ void AMonsterShooterCharacter::SetupPlayerInputComponent(UInputComponent* Player
 
 void AMonsterShooterCharacter::OnFire()
 {
+	if (world != nullptr)
+	{
+		spawnRotation = GetControlRotation();
+
+		spawnLocation = ((muzzleLocation != nullptr) ?
+			muzzleLocation->GetComponentLocation() : GetActorLocation()) + spawnRotation.RotateVector(gunOffset);
+
+		FActorSpawnParameters actorSpawnParams;
+		actorSpawnParams.SpawnCollisionHandlingOverride =
+			ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButAlwaysSpawn; // tema de aparecer si no colisiona
+
+		world->SpawnActor<AProjectile>(projectile, spawnLocation, spawnRotation, actorSpawnParams);
+
+		if (fireSound != nullptr)
+		{
+			UGameplayStatics::PlaySoundAtLocation(this, fireSound, GetActorLocation(), 0.3f);
+		}
+
+		if (fireAnimation != nullptr && animInstance != nullptr)
+		{
+			animInstance-> Montage_Play(fireAnimation, 3.0f);
+		}
+	}
 }
 
 void AMonsterShooterCharacter::Jump()

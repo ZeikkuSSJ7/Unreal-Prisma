@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Projectile.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/Character.h"
 #include "MonsterShooterCharacter.generated.h"
@@ -45,6 +46,23 @@ public:
 	
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Gameplay)
 		FVector gunOffset;
+
+	UPROPERTY(EditDefaultsOnly, Category = Projectile)
+		TSubclassOf<AProjectile> projectile;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+		USoundBase*  fireSound;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = Gameplay)
+		UAnimMontage* fireAnimation;
+
+	UAnimInstance* animInstance;
+
+	UWorld* world;
+
+	FRotator spawnRotation;
+	FVector spawnLocation;
+	
 
 protected:
 	void OnFire();
