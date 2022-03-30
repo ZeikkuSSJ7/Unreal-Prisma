@@ -3,6 +3,8 @@
 
 #include "Enemy.h"
 #include "Monster_ShooterCharacter.h"
+#include "Perception/AIPerceptionComponent.h"
+#include "Perception/AISenseConfig_Sight.h"
 
 // Sets default values
 AEnemy::AEnemy()
@@ -12,7 +14,25 @@ AEnemy::AEnemy()
 
 	damageCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Damage Collision"));
 	damageCollision->SetupAttachment(RootComponent);
-	
+
+	aiPerpComp = CreateDefaultSubobject<UAIPerceptionComponent>(TEXT("AI Perception Component"));
+	sightConfig = CreateDefaultSubobject<UAISenseConfig_Sight>(TEXT("Sight Config"));
+
+	sightConfig->SightRadius = 1250.0f;
+	sightConfig->LoseSightRadius = 1280.0f;
+	sightConfig->PeripheralVisionAngleDegrees = 90.0f;
+	sightConfig->DetectionByAffiliation.bDetectEnemies = true;
+	sightConfig->DetectionByAffiliation.bDetectFriendlies = true;
+	sightConfig->DetectionByAffiliation.bDetectNeutrals = true;
+	sightConfig->SetMaxAge(0.1f);
+
+	aiPerpComp->ConfigureSense(*sightConfig);
+	aiPerpComp->SetDominantSense(sightConfig->GetSenseImplementation());
+	aiPerpComp->OnPerceptionUpdated.AddDynamic(this, &AEnemy::OnSensed);
+
+	currentVelocity = FVector::ZeroVector;
+	movementSpeed = 375.0f;
+	distanceSquared = BIG_NUMBER;
 
 }
 
@@ -22,6 +42,8 @@ void AEnemy::BeginPlay()
 	Super::BeginPlay();
 
 	damageCollision->OnComponentBeginOverlap. AddDynamic(this, &AEnemy::OnHit);
+
+	baseLocation = this->GetActorLocation();
 	
 }
 
@@ -43,5 +65,18 @@ void AEnemy::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimi
 	int32 OtherBodyIndex, bool bFromSweep, const FHitResult& Hit)
 {
 	
+}
+
+void AEnemy::OnSensed(const TArray<AActor*>& UpdatedActors)
+{
+	
+}
+
+void AEnemy::SetNewRotation(FVector targetPosition, FVector CurrentPosition)
+{
+}
+
+void AEnemy::DealDamage(float DamageAmount)
+{
 }
 
