@@ -48,6 +48,8 @@ public:
 
 protected:
 	void OnFire();
+	void Jump();
+	void StopJumping();
 	void MoveForward(float Value);
 	void MoveRight(float value);
 
