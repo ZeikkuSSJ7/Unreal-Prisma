@@ -1175,3 +1175,335 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-09.00.20:389][651]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01CE4E020E42EF47F51FD19896FE6199D1.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
 [2022.03.30-09.00.20:411][651]AssetCheck: New page: Asset Save: Level_01
 [2022.03.30-09.00.20:411][651]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-09.00.56:764][113]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.00.56:765][113]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/FunctionalTestGameMode.FunctionalTestGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.00.56:765][113]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/LevelGameMode.LevelGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.01.04:810][ 34]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Pacman.uproject" -game -rocket -progress
+[2022.03.30-09.01.05:115][ 34]Discovering modules, targets and source code for project...
+[2022.03.30-09.01.06:723][ 34]Binding IntelliSense data...
+[2022.03.30-09.01.11:878][ 34]Binding IntelliSense data... 100%
+[2022.03.30-09.01.11:878][ 34]Writing project files...
+[2022.03.30-09.01.14:997][ 34]Writing project files... 100%
+[2022.03.30-09.01.15:221][ 34]Candidate modules for hot reload:
+[2022.03.30-09.01.15:221][ 34]  Pacman
+[2022.03.30-09.01.15:221][ 34]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman,1329 PacmanEditor Win64 Development -Project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Pacman.uproject" "C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Pacman.uproject"  -IgnoreJunk]
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: New page: Compilation - 30 mar. 2022 13:01:27
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma).
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Creating makefile for PacmanEditor (no existing makefile)
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Parsing headers for PacmanEditor
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Pacman.uproject" "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\PacmanEditor\Development\PacmanEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrador\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Reflection code generated for PacmanEditor in 7,8759667 seconds
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Building PacmanEditor...
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   [1/6] Foodie.cpp
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   [2/6] Pacman.init.gen.cpp
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   [3/6] Foodie.gen.cpp
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   [4/6] UE4Editor-Pacman-1329.lib
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1329.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1329.exp
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   [5/6] UE4Editor-Pacman-1329.dll
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1329.suppressed.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1329.suppressed.exp
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog:   [6/6] PacmanEditor.target
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Total time in Parallel executor: 2,30 seconds
+[2022.03.30-09.01.27:527][ 34]CompilerResultsLog: Total execution time: 12,23 seconds
+[2022.03.30-09.01.27:527][ 34]LogMainFrame: MainFrame: Module compiling took 12.326 seconds
+[2022.03.30-09.01.27:557][ 34]LogClass: Could not find existing class Foodie in package /Script/Pacman for HotReload, assuming new class
+[2022.03.30-09.01.27:570][ 34]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0003 seconds. Added 4 classes and 2 folders.
+[2022.03.30-09.01.27:586][ 34]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.01.27:718][ 34]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3826 classes and 930 folders.
+[2022.03.30-09.01.27:718][ 34]Display: HotReload took 12.5s.
+[2022.03.30-09.01.27:738][ 34]Warning: HotReload operation took 12.5s.
+[2022.03.30-09.01.27:796][ 34]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.03.30-09.01.28:255][ 35]LogHotReload: New module detected: UE4Editor-Pacman-1329.dll
+[2022.03.30-09.01.28:353][ 36]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-09.01.28:446][ 36]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2022.03.30-09.01.28:460][ 36]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.01.28:480][ 36]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0125 seconds. Added 3826 classes and 930 folders.
+[2022.03.30-09.01.28:484][ 36]Display: HotReload took  0.1s.
+[2022.03.30-09.15.24:769][244]LogHotReload: New module detected: UE4Editor-Pacman-0005.dll
+[2022.03.30-09.15.25:447][247]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-09.15.25:510][247]LogClass: Could not find existing class Foodie in package /Script/Pacman for HotReload, assuming new class
+[2022.03.30-09.15.25:526][247]LogClass: Could not find existing type EFoodieType for HotReload. Assuming new
+[2022.03.30-09.15.25:535][247]LogHotReload: Re-instancing Foodie after hot-reload.
+[2022.03.30-09.15.25:575][247]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2022.03.30-09.15.25:588][247]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.15.25:759][247]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3826 classes and 930 folders.
+[2022.03.30-09.15.25:761][247]Display: HotReload took  0.3s.
+[2022.03.30-09.18.27:355][121]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.18.27:355][121]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/FunctionalTestGameMode.FunctionalTestGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.18.27:355][121]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/LevelGameMode.LevelGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.18.27:358][121]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-09.18.34:941][121]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.30-09.18.34:948][121]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.30-09.18.34:967][121]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.30-09.18.46:371][477]LogContentBrowser: Attempting asset rename: NewBlueprint -> Foodie_BP
+[2022.03.30-09.18.46:388][477]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.30-09.18.48:026][671]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Foodie_BP.Foodie_BP
+[2022.03.30-09.18.52:824][169]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-09.18.52:824][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.19.02:085][ 55]LogContentBrowser: Attempting asset rename: Foodie_BP -> Foodie_Regular_BP
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.SKEL_Foodie_Regular_BP_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.SKEL_Foodie_Regular_BP_C' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP_C' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:117][ 55]LogMetaData: Removing '/Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Foodie_BP.PackageMetaData'
+[2022.03.30-09.19.02:154][ 55]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BP92C303E44700060A63002BBA05189522.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-09.19.02:355][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.03.30-09.19.02:430][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.03.30-09.19.02:464][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.30-09.19.02:501][ 55]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-09.19.02:501][ 55]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.19.03:617][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.19.06:713][282]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-09.19.06:713][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.19.06:774][282]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.19.28:271][784]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AS_EatRegular...
+[2022.03.30-09.19.28:271][784]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Pacman/Audio/AS_EatRegular.AS_EatRegular will be modified from 40 to 40.
+[2022.03.30-09.19.28:291][784]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 13398 while cooking SoundWave /Game/Pacman/Audio/AS_EatRegular.AS_EatRegular.
+[2022.03.30-09.20.14:154][841]LogMaterial: Display: Missing cached shadermap for M_Foodie_Regular in PCD3D_SM5, Default, SM5 (DDC key hash: 2712488B63548BA0D109B7642C20F97B9AE479D4), compiling. 
+[2022.03.30-09.20.14:213][841]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.03.30-09.20.14:218][841]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: Total job queries 25, among them cache hits 0 (0.00%)
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.30-09.20.15:445][942]LogShaderCompilers: Display: ================================================
+[2022.03.30-09.20.15:779][965]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.03.30-09.20.15:779][965]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.30-09.20.16:041][985]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.03.30-09.20.16:041][985]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.30-09.20.16:620][ 11]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.03.30-09.20.16:620][ 11]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.30-09.20.16:806][ 20]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.30-09.20.16:806][ 20]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.30-09.20.16:973][ 32]BlueprintLog: New page: Compile Foodie_Regular_BP
+[2022.03.30-09.20.17:108][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   7.83ms
+[2022.03.30-09.20.17:757][ 85]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BP58C9E1724A2EF1CF052C9890E077173A.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-09.20.17:774][ 85]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-09.20.17:774][ 85]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.20.57:023][280]BlueprintLog: New page: Compile Foodie_Regular_BP
+[2022.03.30-09.20.57:092][280]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2022.03.30-09.20.57:568][323]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BP50D995A1495601C90C3B09AF0DB8ECD6.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-09.20.57:585][323]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-09.20.57:586][323]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.21.07:716][433]BlueprintLog: New page: Compile Foodie_Regular_BP
+[2022.03.30-09.21.07:779][433]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2022.03.30-09.21.08:387][492]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BPD91E148B4670772EA719CB8F6C46B97D.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-09.21.08:402][492]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-09.21.08:402][492]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.22.04:451][512]Cmd: TRANSACTION UNDO
+[2022.03.30-09.22.04:451][512]LogEditorTransaction: Undo Create Actors
+[2022.03.30-09.23.09:751][721]BlueprintLog: New page: Compile Foodie_Regular_BP
+[2022.03.30-09.23.09:828][721]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.03.30-09.23.10:320][767]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BP6B8BF7F94C28E191B458C4BA5CF5D1A9.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-09.23.10:334][767]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-09.23.10:334][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-09.25.36:795][418]LogHotReload: New module detected: UE4Editor-Pacman-0006.dll
+[2022.03.30-09.25.37:477][421]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-09.25.37:540][421]LogClass: Could not find existing class Foodie in package /Script/Pacman for HotReload, assuming new class
+[2022.03.30-09.25.37:557][421]LogClass: EFoodieType HotReload.
+[2022.03.30-09.25.37:566][421]LogHotReload: Re-instancing Foodie after hot-reload.
+[2022.03.30-09.25.37:661][421]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0005 seconds. Added 4 classes and 2 folders.
+[2022.03.30-09.25.37:673][421]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.25.37:862][421]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0102 seconds. Added 3826 classes and 930 folders.
+[2022.03.30-09.25.37:865][421]Display: HotReload took  0.4s.
+[2022.03.30-09.25.50:179][962]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-09.25.50:186][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-09.25.50:186][962]PIE: New page: PIE session: Level_01 (30 mar. 2022 13:25:50)
+[2022.03.30-09.25.50:186][962]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-09.25.50:192][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006001s)
+[2022.03.30-09.25.50:193][962]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-09.25.50:193][962]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2022.03.30-09.25.50:193][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.007234s)
+[2022.03.30-09.25.50:285][962]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.03.30-09.25.50:287][962]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-09.25.50:287][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-09.25.50:287][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-09.25.50:287][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-09.25.50:288][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-09.25.50:288][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-09.25.50:288][962]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-09.25.50:288][962]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-09.25.50:289][962]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-09.25.50:309][962]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-09.25.50:309][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-09.25.50:309][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-09.25.50:309][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-09.25.50:310][962]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-09.25.50:310][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-09.25.50:310][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-09.25.50:311][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-09.25.50:311][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-09.25.50:311][962]LogInit: FAudioDevice initialized.
+[2022.03.30-09.25.50:311][962]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level_01'.
+[2022.03.30-09.25.50:320][962]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-09.25.50:322][962]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-11.25.50
+[2022.03.30-09.25.50:322][962]LogWorld: Bringing up level for play took: 0.001564
+[2022.03.30-09.25.50:322][962]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.30-09.25.50:324][962]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-09.25.50:324][962]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-09.25.50:324][962]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-09.25.50:325][962]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-09.25.50:325][962]PIE: Server logged in
+[2022.03.30-09.25.50:326][962]PIE: Play in editor total start time 0,143 seconds.
+[2022.03.30-09.26.05:633][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-09.26.05:633][786]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-09.26.05:633][786]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-09.26.05:633][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.26.05:640][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-09.26.05:654][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.26.05:693][786]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-09.26.05:693][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-09.26.05:694][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-09.26.05:699][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-09.26.05:706][786]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2022.03.30-09.26.05:741][787]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.03.30-09.28.24:540][ 54]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP14)
+[2022.03.30-09.28.33:503][105]Cmd: TRANSACTION UNDO
+[2022.03.30-09.28.33:503][105]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.28.49:130][881]LogEditorViewport: Clicking on Actor (LMB): BP_Wall_Thick_C (BrickBP192)
+[2022.03.30-09.28.49:217][888]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2022.03.30-09.28.50:452][ 33]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP20)
+[2022.03.30-09.28.57:911][915]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP16)
+[2022.03.30-09.29.02:748][491]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP18)
+[2022.03.30-09.29.04:760][724]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.29.05:322][788]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP18)
+[2022.03.30-09.29.10:090][333]Cmd: TRANSACTION UNDO
+[2022.03.30-09.29.10:090][333]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.29.10:914][373]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP20)
+[2022.03.30-09.29.11:622][455]Cmd: DELETE
+[2022.03.30-09.29.11:622][455]Cmd: ACTOR DELETE
+[2022.03.30-09.29.11:634][455]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.29.11:686][455]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.30-09.29.11:689][455]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2022.03.30-09.29.14:683][814]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP16)
+[2022.03.30-09.29.15:829][948]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.29.16:415][ 15]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP18)
+[2022.03.30-09.29.22:510][718]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP16)
+[2022.03.30-09.29.23:390][821]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP14)
+[2022.03.30-09.29.26:086][131]Cmd: TRANSACTION UNDO
+[2022.03.30-09.29.26:086][131]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.29.27:402][230]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP15)
+[2022.03.30-09.29.28:488][357]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.29.29:284][449]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP14)
+[2022.03.30-09.29.38:558][532]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP22)
+[2022.03.30-09.29.51:127][989]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP21)
+[2022.03.30-09.29.52:493][149]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.29.53:267][238]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP22)
+[2022.03.30-09.30.04:629][571]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP25)
+[2022.03.30-09.30.05:774][704]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP32)
+[2022.03.30-09.30.17:322][  8]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP14)
+[2022.03.30-09.30.19:026][208]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP23)
+[2022.03.30-09.30.19:935][313]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP16)
+[2022.03.30-09.30.25:316][932]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP33)
+[2022.03.30-09.30.33:159][852]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP13)
+[2022.03.30-09.30.34:488][  7]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP16)
+[2022.03.30-09.30.35:154][ 83]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP14)
+[2022.03.30-09.30.43:997][864]Cmd: TRANSACTION UNDO
+[2022.03.30-09.30.43:997][864]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.30.50:474][555]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP13)
+[2022.03.30-09.30.54:869][ 58]Cmd: TRANSACTION UNDO
+[2022.03.30-09.30.54:869][ 58]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.31.33:738][493]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP13)
+[2022.03.30-09.31.41:052][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.03.30-09.31.42:897][918]LogSlate: Window 'Save Content' being destroyed
+[2022.03.30-09.31.44:254][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.30-09.31.44:283][ 68]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01DBAF44B440276DE7717CCC9436A62326.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-09.31.44:311][ 68]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-09.31.44:312][ 68]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-09.31.50:469][776]Cmd: TRANSACTION UNDO
+[2022.03.30-09.31.50:469][776]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.32.00:726][912]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP13)
+[2022.03.30-09.32.14:372][511]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP61)
+[2022.03.30-09.32.27:562][ 33]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP57)
+[2022.03.30-09.32.36:181][  3]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP5)
+[2022.03.30-09.32.42:361][715]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP69)
+[2022.03.30-09.32.47:240][297]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP73)
+[2022.03.30-09.32.52:757][939]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP72)
+[2022.03.30-09.32.58:711][638]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP69)
+[2022.03.30-09.33.15:761][641]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.33.16:933][778]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP46)
+[2022.03.30-09.34.09:931][973]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP90)
+[2022.03.30-09.35.06:353][624]Cmd: TRANSACTION UNDO
+[2022.03.30-09.35.06:353][624]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.35.12:150][259]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP79)
+[2022.03.30-09.35.17:418][870]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP85)
+[2022.03.30-09.35.22:357][445]Cmd: TRANSACTION UNDO
+[2022.03.30-09.35.22:357][445]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.35.22:493][447]Cmd: TRANSACTION UNDO
+[2022.03.30-09.35.22:493][447]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.30-09.35.23:259][496]Cmd: TRANSACTION UNDO
+[2022.03.30-09.35.23:259][496]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.30-09.35.23:539][527]Cmd: TRANSACTION UNDO
+[2022.03.30-09.35.23:539][527]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.30-09.36.08:869][925]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP94)
+[2022.03.30-09.36.10:344][ 98]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP79)
+[2022.03.30-09.36.16:971][854]Cmd: DELETE
+[2022.03.30-09.36.16:971][854]Cmd: ACTOR DELETE
+[2022.03.30-09.36.16:991][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:992][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:992][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:993][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:993][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:994][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:994][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:994][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:995][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.16:995][854]LogEditorActor: Deleted Actor: Foodie_Regular_BP_C
+[2022.03.30-09.36.17:059][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.03.30-09.36.17:063][854]LogEditorActor: Deleted 10 Actors (0.092 secs)
+[2022.03.30-09.36.18:243][994]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP93)
+[2022.03.30-09.36.19:294][116]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP75)
+[2022.03.30-09.36.21:178][330]Cmd: TRANSACTION UNDO
+[2022.03.30-09.36.21:178][330]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.30-09.36.26:905][928]Cmd: TRANSACTION UNDO
+[2022.03.30-09.36.26:905][928]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.30-09.36.27:216][933]Cmd: TRANSACTION UNDO
+[2022.03.30-09.36.27:216][933]LogEditorTransaction: Undo Move Actors
+[2022.03.30-09.36.39:590][298]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP86)
+[2022.03.30-09.37.07:107][495]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP79)
+[2022.03.30-09.37.26:760][742]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP113)
+[2022.03.30-09.38.27:680][836]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP113)
+[2022.03.30-09.38.28:951][984]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.38.29:909][ 95]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP111)
+[2022.03.30-09.38.42:289][522]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP111)
+[2022.03.30-09.39.01:058][716]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP135)
+[2022.03.30-09.39.02:610][897]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP132)
+[2022.03.30-09.39.03:807][ 37]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP135)
+[2022.03.30-09.39.18:835][789]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP132)
+[2022.03.30-09.39.28:736][945]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-09.39.30:251][123]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP104)
+[2022.03.30-09.39.42:422][498]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP99)
+[2022.03.30-09.39.50:478][431]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP131)
+[2022.03.30-09.39.51:766][582]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP124)
+[2022.03.30-09.39.57:970][322]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP134)
+[2022.03.30-09.40.27:257][804]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP109)
+[2022.03.30-09.40.31:417][279]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP118)
+[2022.03.30-09.40.47:778][183]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP146)
+[2022.03.30-09.40.50:709][530]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP135)
+[2022.03.30-09.40.58:065][377]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP135)
+[2022.03.30-09.41.11:378][916]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP132)
+[2022.03.30-09.41.18:664][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.03.30-09.41.18:720][738]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01CDE726194E34CE5EDF79769959D5F701.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-09.41.18:748][738]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-09.41.18:749][738]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
