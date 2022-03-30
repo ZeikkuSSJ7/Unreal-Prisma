@@ -1507,3 +1507,230 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-09.41.18:720][738]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01CDE726194E34CE5EDF79769959D5F701.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
 [2022.03.30-09.41.18:748][738]AssetCheck: New page: Asset Save: Level_01
 [2022.03.30-09.41.18:749][738]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-09.42.12:372][ 16]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Pacman.uproject" -game -rocket -progress
+[2022.03.30-09.42.12:676][ 16]Discovering modules, targets and source code for project...
+[2022.03.30-09.42.14:083][ 16]Binding IntelliSense data...
+[2022.03.30-09.42.16:127][ 16]Binding IntelliSense data... 100%
+[2022.03.30-09.42.16:127][ 16]Writing project files...
+[2022.03.30-09.42.19:348][ 16]Writing project files... 100%
+[2022.03.30-09.42.19:454][ 16]Candidate modules for hot reload:
+[2022.03.30-09.42.19:454][ 16]  Pacman
+[2022.03.30-09.42.19:454][ 16]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Pacman,1493 PacmanEditor Win64 Development -Project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Pacman.uproject" "C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Pacman.uproject"  -IgnoreJunk]
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: New page: Compilation - 30 mar. 2022 13:42:26
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma).
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Creating makefile for PacmanEditor (no existing makefile)
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Parsing headers for PacmanEditor
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Pacman.uproject" "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\PacmanEditor\Development\PacmanEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrador\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Reflection code generated for PacmanEditor in 3,5630795 seconds
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Building PacmanEditor...
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   [1/6] Pacman.init.gen.cpp
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   [2/6] EnemyPawn.cpp
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   [3/6] EnemyPawn.gen.cpp
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   [4/6] UE4Editor-Pacman-1493.lib
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1493.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1493.exp
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   [5/6] UE4Editor-Pacman-1493.dll
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1493.suppressed.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-1493.suppressed.exp
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog:   [6/6] PacmanEditor.target
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Total time in Parallel executor: 1,33 seconds
+[2022.03.30-09.42.26:356][ 16]CompilerResultsLog: Total execution time: 6,84 seconds
+[2022.03.30-09.42.26:356][ 16]LogMainFrame: MainFrame: Module compiling took 6.904 seconds
+[2022.03.30-09.42.26:391][ 16]LogClass: Could not find existing class EnemyPawn in package /Script/Pacman for HotReload, assuming new class
+[2022.03.30-09.42.26:410][ 16]LogClass: EFoodieType HotReload.
+[2022.03.30-09.42.26:417][ 16]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.03.30-09.42.26:427][ 16]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.42.26:615][ 16]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0112 seconds. Added 3827 classes and 930 folders.
+[2022.03.30-09.42.26:615][ 16]Display: HotReload took  7.2s.
+[2022.03.30-09.42.26:643][ 16]Warning: HotReload operation took  7.2s.
+[2022.03.30-09.42.26:697][ 16]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.03.30-09.42.27:004][ 16]LogHotReload: New module detected: UE4Editor-Pacman-1493.dll
+[2022.03.30-09.42.27:138][ 17]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-09.42.27:420][ 17]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2022.03.30-09.42.27:445][ 17]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.42.27:480][ 17]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0190 seconds. Added 3827 classes and 930 folders.
+[2022.03.30-09.42.27:483][ 17]Display: HotReload took  0.3s.
+[2022.03.30-09.43.24:259][782]LogUObjectHash: Compacting FUObjectHashTables data took   6.60ms
+[2022.03.30-09.43.24:313][782]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_017E2D203143B8955FB3EB49B1B2071751.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-09.43.24:337][782]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-09.43.24:337][782]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-09.51.06:143][123]LogHotReload: New module detected: UE4Editor-Pacman-0010.dll
+[2022.03.30-09.51.06:821][126]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-09.51.06:880][126]LogClass: Could not find existing class EnemyPawn in package /Script/Pacman for HotReload, assuming new class
+[2022.03.30-09.51.06:880][126]LogClass: Function Hunt is new.
+[2022.03.30-09.51.06:880][126]LogClass: Function Idle is new.
+[2022.03.30-09.51.06:896][126]LogClass: Could not find existing type EEnemyState for HotReload. Assuming new
+[2022.03.30-09.51.06:897][126]LogClass: EFoodieType HotReload.
+[2022.03.30-09.51.06:905][126]LogHotReload: Re-instancing EnemyPawn after hot-reload.
+[2022.03.30-09.51.06:947][126]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2022.03.30-09.51.06:959][126]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2022.03.30-09.51.07:177][126]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 3827 classes and 930 folders.
+[2022.03.30-09.51.07:179][126]Display: HotReload took  0.4s.
+[2022.03.30-09.52.25:292][177]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.52.25:292][177]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/FunctionalTestGameMode.FunctionalTestGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.52.25:292][177]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/LevelGameMode.LevelGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-09.52.25:295][177]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-09.52.30:566][177]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.30-09.52.30:576][177]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.30-09.52.30:595][177]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.30-09.52.34:630][651]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy_BP
+[2022.03.30-09.52.34:634][651]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.30-09.52.35:151][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-09.55.09:616][280]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-09.55.09:780][280]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2022.03.30-09.55.10:125][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-09.55.10:132][313]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BPABFA690143D8044B436623A622AB30C0.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-09.55.10:148][313]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-09.55.10:148][313]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-09.56.43:733][267]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2022.03.30-09.56.43:785][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-09.56.43:793][267]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP684FA1C8419603F911FBF5BFF7DFF238.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-09.56.43:810][267]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-09.56.43:810][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-09.57.22:429][708]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-09.57.22:501][708]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.03.30-09.57.23:251][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-09.57.23:259][781]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP2E7941A84D30229EF93B6EBE8CC68615.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-09.57.23:274][781]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-09.57.23:274][781]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-09.57.44:467][281]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-09.57.44:537][281]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2022.03.30-09.57.45:251][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-09.57.45:259][351]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP2A891F524EED37404181DBA1BD8DC94A.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-09.57.45:273][351]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-09.57.45:273][351]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-09.58.06:132][748]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-09.58.06:140][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-09.58.06:140][748]PIE: New page: PIE session: Level_01 (30 mar. 2022 13:58:06)
+[2022.03.30-09.58.06:140][748]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-09.58.06:157][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016359s)
+[2022.03.30-09.58.06:157][748]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-09.58.06:158][748]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2022.03.30-09.58.06:158][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017749s)
+[2022.03.30-09.58.06:205][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2022.03.30-09.58.06:208][748]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-09.58.06:208][748]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-09.58.06:208][748]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-09.58.06:209][748]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-09.58.06:209][748]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-09.58.06:209][748]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-09.58.06:209][748]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-09.58.06:218][748]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-09.58.06:218][748]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-09.58.06:237][748]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-09.58.06:237][748]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-09.58.06:237][748]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-09.58.06:237][748]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-09.58.06:237][748]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-09.58.06:237][748]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-09.58.06:237][748]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-09.58.06:239][748]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-09.58.06:239][748]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-09.58.06:239][748]LogInit: FAudioDevice initialized.
+[2022.03.30-09.58.06:239][748]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level_01'.
+[2022.03.30-09.58.06:248][748]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-09.58.06:253][748]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-11.58.06
+[2022.03.30-09.58.06:255][748]LogWorld: Bringing up level for play took: 0.006229
+[2022.03.30-09.58.06:255][748]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.30-09.58.06:257][748]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-09.58.06:257][748]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-09.58.06:257][748]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-09.58.06:258][748]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-09.58.06:259][748]PIE: Server logged in
+[2022.03.30-09.58.06:260][748]PIE: Play in editor total start time 0,123 seconds.
+[2022.03.30-09.58.23:964][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-09.58.23:964][864]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-09.58.23:965][864]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-09.58.23:966][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.58.23:978][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-09.58.23:995][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.58.24:037][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-09.58.24:037][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-09.58.24:038][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-09.58.24:043][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-09.58.24:049][864]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.03.30-09.58.24:085][865]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.30-09.58.35:665][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-09.58.35:673][196]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BP33335B8A4D65E092DC5821AF7700CBD3.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-09.58.35:690][196]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-09.58.35:690][196]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-09.58.37:073][329]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-09.58.37:144][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.03.30-09.58.37:624][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-09.58.37:631][375]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BPEFE0FCB9438D2C3C5096C38ECFDCB513.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-09.58.37:649][375]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-09.58.37:649][375]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-09.58.39:728][586]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2022.03.30-09.58.39:782][586]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01223DE95349F09AA8E542DCBA576512B6.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-09.58.39:807][586]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-09.58.39:807][586]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-09.58.40:404][647]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-09.58.40:409][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-09.58.40:409][647]PIE: New page: PIE session: Level_01 (30 mar. 2022 13:58:40)
+[2022.03.30-09.58.40:409][647]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-09.58.40:427][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017712s)
+[2022.03.30-09.58.40:428][647]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-09.58.40:428][647]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2022.03.30-09.58.40:428][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.018973s)
+[2022.03.30-09.58.40:475][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2022.03.30-09.58.40:475][647]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-09.58.40:475][647]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-09.58.40:475][647]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-09.58.40:476][647]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-09.58.40:476][647]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-09.58.40:476][647]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-09.58.40:476][647]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-09.58.40:476][647]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-09.58.40:476][647]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-09.58.40:494][647]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-09.58.40:495][647]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-09.58.40:495][647]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-09.58.40:495][647]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-09.58.40:495][647]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-09.58.40:495][647]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-09.58.40:495][647]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-09.58.40:497][647]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-09.58.40:497][647]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-09.58.40:497][647]LogInit: FAudioDevice initialized.
+[2022.03.30-09.58.40:497][647]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level_01'.
+[2022.03.30-09.58.40:510][647]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-09.58.40:515][647]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-11.58.40
+[2022.03.30-09.58.40:516][647]LogWorld: Bringing up level for play took: 0.005604
+[2022.03.30-09.58.40:516][647]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.30-09.58.40:518][647]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-09.58.40:518][647]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-09.58.40:518][647]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-09.58.40:520][647]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-09.58.40:520][647]PIE: Server logged in
+[2022.03.30-09.58.40:521][647]PIE: Play in editor total start time 0,112 seconds.
+[2022.03.30-09.59.11:662][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-09.59.11:662][373]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-09.59.11:662][373]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-09.59.11:663][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.59.11:674][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-09.59.11:692][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-09.59.11:734][373]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-09.59.11:734][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-09.59.11:735][373]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-09.59.11:741][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-09.59.11:747][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.03.30-09.59.11:783][374]Cmd: SELECT NONE
+[2022.03.30-09.59.11:785][374]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.30-09.59.13:820][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.03.30-09.59.13:873][602]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_0184BA96404B9041DEA70193985A4C9373.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-09.59.13:897][602]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-09.59.13:897][602]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-09.59.17:564][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms

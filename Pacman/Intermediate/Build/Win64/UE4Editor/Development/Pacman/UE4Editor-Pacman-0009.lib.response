@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Pacman-0009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\PacmanEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\EnemyPawn.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Foodie.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Pacman.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\PacmanController.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\PacmanGameModeBase.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\PacmanPawn.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\EnemyPawn.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Foodie.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Pacman.init.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\PacmanController.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\PacmanGameModeBase.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\PacmanPawn.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Default.rc2.res"
+/OUT:"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\UE4Editor-Pacman-0009.lib"
