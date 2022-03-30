@@ -1734,3 +1734,824 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-09.59.13:897][602]AssetCheck: New page: Asset Save: Level_01
 [2022.03.30-09.59.13:897][602]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
 [2022.03.30-09.59.17:564][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.30-10.06.14:126][311]LogSlate: Took 0.005168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.03.30-10.07.13:763][ 91]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-10.07.13:842][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   6.29ms
+[2022.03.30-10.07.14:505][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.07.14:527][163]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BPE3A1FD6445BA16D0015487B672C6F324.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.07.14:547][163]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.07.14:547][163]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.09.41:346][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.09.41:360][908]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP66145C5B4EAED41F8F7472859F8D92EE.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.09.41:376][908]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.09.41:376][908]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.09.59:001][936]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-10.09.59:074][936]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2022.03.30-10.09.59:785][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.09.59:798][  9]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BPCB218B9A451941B8EFA46BAF11353A53.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.09.59:813][  9]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.09.59:813][  9]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.10.29:072][399]LogEditorTransaction: Undo Add Node
+[2022.03.30-10.10.57:059][ 39]LogEditorTransaction: Undo Add Node
+[2022.03.30-10.11.21:726][872]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-10.11.21:800][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.03.30-10.11.22:630][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.11.22:644][957]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BPA5F91B0749FD8B87B8DA758BFE52710A.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.11.22:660][957]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.11.22:660][957]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.13.46:488][795]LogUObjectHash: Compacting FUObjectHashTables data took   6.39ms
+[2022.03.30-10.13.46:568][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.03.30-10.13.46:621][795]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_016639B9A94569C8AD93CD55A6A58AD0D5.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.13.46:631][795]LogFileHelpers: Saving map 'Level_01' took 0.105
+[2022.03.30-10.13.46:642][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.13.46:670][795]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP68F0EEB44526B93417EA918A0430D3C9.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.13.46:685][795]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-10.13.46:685][795]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.13.46:685][795]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.13.48:729][997]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2022.03.30-10.13.48:784][997]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01547D0D524B533FDDC20E8A8537D07D11.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.13.48:809][997]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.13.48:809][997]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.23.49:034][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.03.30-10.23.49:038][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Pacman/Levels/Level_01' took 0.062
+[2022.03.30-10.23.49:039][552]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Enemy_BP] ([2] browsable assets)...
+[2022.03.30-10.23.49:049][552]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP]
+[2022.03.30-10.23.49:049][552]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemy_BP]
+[2022.03.30-10.23.49:064][552]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP_Auto18E164195472CC239CC22DA9D12760422.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Autosaves/Game/Blueprints/Enemy_BP_Auto1.uasset'
+[2022.03.30-10.23.49:064][552]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.03.30-10.33.34:135][410]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-10.33.34:217][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2022.03.30-10.33.34:875][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.33.34:890][480]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP8BA04E374E2BD9B348F59BA176D7AF68.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.33.34:906][480]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.33.34:906][480]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.34.00:829][427]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-10.34.00:913][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2022.03.30-10.34.31:157][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.34.31:172][475]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP6348946140D71E0543517E9B5E2B947F.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.34.31:188][475]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.34.31:188][475]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.34.33:700][752]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.03.30-10.34.33:759][752]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01E67E2F4440E8A9D7C0F14DA217AF4C2C.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.34.33:785][752]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.34.33:785][752]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.34.35:591][944]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.34.35:595][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.34.35:595][944]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:34:35)
+[2022.03.30-10.34.35:595][944]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.34.35:612][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016097s)
+[2022.03.30-10.34.35:612][944]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.34.35:613][944]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2022.03.30-10.34.35:613][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017480s)
+[2022.03.30-10.34.35:659][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.03.30-10.34.35:659][944]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.34.35:659][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.34.35:659][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.34.35:660][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.34.35:660][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.34.35:660][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.34.35:660][944]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.34.35:661][944]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.34.35:661][944]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.34.35:679][944]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.34.35:679][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.34.35:679][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.34.35:679][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.34.35:679][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.34.35:679][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.34.35:679][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.34.35:681][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.34.35:681][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.34.35:681][944]LogInit: FAudioDevice initialized.
+[2022.03.30-10.34.35:681][944]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_01'.
+[2022.03.30-10.34.35:690][944]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.34.35:696][944]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.34.35
+[2022.03.30-10.34.35:696][944]LogWorld: Bringing up level for play took: 0.004828
+[2022.03.30-10.34.35:696][944]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.30-10.34.35:698][944]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.34.35:698][944]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.34.35:698][944]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.34.35:702][944]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.34.35:702][944]PIE: Server logged in
+[2022.03.30-10.34.35:703][944]PIE: Play in editor total start time 0,109 seconds.
+[2022.03.30-10.34.39:543][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.34.39:543][396]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.34.39:544][396]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.34.39:545][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.34.39:556][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.34.39:565][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.34.39:611][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.34.39:611][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.34.39:612][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.34.39:624][396]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.03.30-10.34.39:649][397]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.30-10.34.51:156][555]LogHotReload: New module detected: UE4Editor-Pacman-0011.dll
+[2022.03.30-10.34.52:171][559]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-10.34.52:242][559]LogClass: EEnemyState HotReload.
+[2022.03.30-10.34.52:242][559]LogClass: EFoodieType HotReload.
+[2022.03.30-10.34.52:249][559]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0006 seconds. Added 5 classes and 2 folders.
+[2022.03.30-10.34.52:263][559]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2022.03.30-10.34.52:464][559]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0135 seconds. Added 3827 classes and 930 folders.
+[2022.03.30-10.34.52:466][559]Display: HotReload took  0.3s.
+[2022.03.30-10.34.55:354][677]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.34.55:359][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.34.55:359][677]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:34:55)
+[2022.03.30-10.34.55:359][677]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.34.55:374][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015692s)
+[2022.03.30-10.34.55:375][677]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.34.55:375][677]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2022.03.30-10.34.55:375][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.016881s)
+[2022.03.30-10.34.55:481][677]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2022.03.30-10.34.55:482][677]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.34.55:482][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.34.55:482][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.34.55:483][677]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.34.55:483][677]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.34.55:483][677]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.34.55:483][677]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.34.55:484][677]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.34.55:484][677]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.34.55:501][677]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.34.55:502][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.34.55:502][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.34.55:502][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.34.55:502][677]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.34.55:502][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.34.55:502][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.34.55:503][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.34.55:503][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.34.55:503][677]LogInit: FAudioDevice initialized.
+[2022.03.30-10.34.55:503][677]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level_01'.
+[2022.03.30-10.34.55:513][677]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.34.55:518][677]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.34.55
+[2022.03.30-10.34.55:518][677]LogWorld: Bringing up level for play took: 0.004867
+[2022.03.30-10.34.55:518][677]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.30-10.34.55:521][677]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.34.55:521][677]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.34.55:521][677]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.34.55:521][677]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.34.55:521][677]PIE: Server logged in
+[2022.03.30-10.34.55:522][677]PIE: Play in editor total start time 0,164 seconds.
+[2022.03.30-10.35.15:142][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.35.15:142][ 18]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.35.15:142][ 18]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.35.15:143][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.35.15:152][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.35.15:162][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.35.15:208][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-10.35.15:209][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.35.15:210][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.35.15:214][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.35.15:222][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2022.03.30-10.35.15:249][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.30-10.36.00:852][594]LogEditorViewport: Clicking on Actor (LMB): Enemy_BP_C (Enemy_BP)
+[2022.03.30-10.36.11:526][815]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.36.11:531][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.36.11:531][815]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:36:11)
+[2022.03.30-10.36.11:531][815]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.36.11:547][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016006s)
+[2022.03.30-10.36.11:548][815]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.36.11:548][815]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2022.03.30-10.36.11:548][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017212s)
+[2022.03.30-10.36.11:601][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.03.30-10.36.11:603][815]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.36.11:603][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.36.11:603][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.36.11:604][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.36.11:604][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.36.11:604][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.36.11:604][815]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.36.11:605][815]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.36.11:605][815]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.36.11:621][815]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.36.11:621][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.36.11:622][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.36.11:622][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.36.11:622][815]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.36.11:622][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.36.11:622][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.36.11:624][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.36.11:624][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.36.11:624][815]LogInit: FAudioDevice initialized.
+[2022.03.30-10.36.11:624][815]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_01'.
+[2022.03.30-10.36.11:631][815]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.36.11:636][815]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.36.11
+[2022.03.30-10.36.11:636][815]LogWorld: Bringing up level for play took: 0.004683
+[2022.03.30-10.36.11:637][815]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.30-10.36.11:638][815]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.36.11:638][815]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.36.11:638][815]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.36.11:640][815]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.36.11:640][815]PIE: Server logged in
+[2022.03.30-10.36.11:641][815]PIE: Play in editor total start time 0,111 seconds.
+[2022.03.30-10.36.14:063][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.36.14:063][ 99]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.36.14:064][ 99]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.36.14:066][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.36.14:080][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.36.14:101][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.36.14:149][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-10.36.14:149][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.36.14:150][ 99]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.36.14:155][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.36.14:161][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.03.30-10.36.14:191][100]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.30-10.37.08:675][706]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-10.37.08:761][706]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.03.30-10.37.09:194][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-10.37.09:209][739]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP66A8DBCE45AD938BA89D9DB3F60118FF.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-10.37.09:226][739]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-10.37.09:226][739]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-10.37.10:733][898]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2022.03.30-10.37.10:787][898]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01AB6BC1904616ABBD3419FE90382C47F5.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.37.10:813][898]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.37.10:813][898]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.37.11:825][  3]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.37.11:829][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.37.11:829][  3]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:37:11)
+[2022.03.30-10.37.11:829][  3]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.11:847][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017354s)
+[2022.03.30-10.37.11:847][  3]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.37.11:848][  3]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2022.03.30-10.37.11:848][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.018577s)
+[2022.03.30-10.37.11:898][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.03.30-10.37.11:898][  3]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.37.11:898][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.37.11:898][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.37.11:899][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.37.11:899][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.37.11:899][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.37.11:899][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.37.11:899][  3]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.37.11:899][  3]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.37.11:917][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.37.11:919][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.37.11:919][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.37.11:919][  3]LogInit: FAudioDevice initialized.
+[2022.03.30-10.37.11:919][  3]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_01'.
+[2022.03.30-10.37.11:929][  3]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.37.11:934][  3]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.37.11
+[2022.03.30-10.37.11:935][  3]LogWorld: Bringing up level for play took: 0.004736
+[2022.03.30-10.37.11:935][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.30-10.37.11:937][  3]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.11:937][  3]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.11:937][  3]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.11:938][  3]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.11:938][  3]PIE: Server logged in
+[2022.03.30-10.37.11:939][  3]PIE: Play in editor total start time 0,11 seconds.
+[2022.03.30-10.37.14:794][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.14:794][337]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.14:795][337]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.37.14:797][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.14:810][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.37.14:828][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.14:872][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.14:872][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.14:873][337]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.14:885][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2022.03.30-10.37.14:916][338]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.30-10.37.20:674][953]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.37.20:678][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.37.20:679][953]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:37:20)
+[2022.03.30-10.37.20:679][953]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.20:695][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016648s)
+[2022.03.30-10.37.20:696][953]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.37.20:697][953]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2022.03.30-10.37.20:697][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017900s)
+[2022.03.30-10.37.20:746][953]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.03.30-10.37.20:747][953]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.37.20:747][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.37.20:747][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.37.20:748][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.37.20:748][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.37.20:748][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.37.20:748][953]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.37.20:749][953]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.37.20:749][953]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.37.20:766][953]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.37.20:766][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.37.20:766][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.37.20:766][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.37.20:767][953]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.37.20:767][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.37.20:767][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.37.20:768][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.37.20:768][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.37.20:768][953]LogInit: FAudioDevice initialized.
+[2022.03.30-10.37.20:768][953]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_01'.
+[2022.03.30-10.37.20:870][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.20:871][953]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.37.20:877][953]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.37.20
+[2022.03.30-10.37.20:877][953]LogWorld: Bringing up level for play took: 0.005265
+[2022.03.30-10.37.20:878][953]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.30-10.37.20:880][953]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.20:880][953]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.20:880][953]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.20:881][953]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.20:883][953]PIE: Server logged in
+[2022.03.30-10.37.20:884][953]PIE: Play in editor total start time 0,206 seconds.
+[2022.03.30-10.37.20:932][955]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.03.30-10.37.29:992][767]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-10.37.29:999][767]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.30:022][767]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.37.30:023][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.30:035][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.37.30:052][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.30:102][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.30:103][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.30:114][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.03.30-10.37.30:161][768]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.30-10.37.40:882][ 36]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.37.40:887][ 36]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.37.40:887][ 36]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:37:40)
+[2022.03.30-10.37.40:887][ 36]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.40:904][ 36]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017100s)
+[2022.03.30-10.37.40:905][ 36]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.37.40:905][ 36]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2022.03.30-10.37.40:906][ 36]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.018556s)
+[2022.03.30-10.37.40:956][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.03.30-10.37.40:957][ 36]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.37.40:957][ 36]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.37.40:957][ 36]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.37.40:958][ 36]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.37.40:958][ 36]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.37.40:958][ 36]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.37.40:958][ 36]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.37.40:959][ 36]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.37.40:959][ 36]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.37.40:977][ 36]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.37.40:979][ 36]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.37.40:979][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.37.40:979][ 36]LogInit: FAudioDevice initialized.
+[2022.03.30-10.37.40:979][ 36]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_01'.
+[2022.03.30-10.37.41:056][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.41:057][ 36]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.37.41:062][ 36]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.37.41
+[2022.03.30-10.37.41:063][ 36]LogWorld: Bringing up level for play took: 0.005702
+[2022.03.30-10.37.41:064][ 36]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.03.30-10.37.41:067][ 36]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.41:067][ 36]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.41:067][ 36]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.41:068][ 36]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.41:069][ 36]PIE: Server logged in
+[2022.03.30-10.37.41:071][ 36]PIE: Play in editor total start time 0,184 seconds.
+[2022.03.30-10.37.49:662][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.49:662][984]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.49:663][984]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-10.37.49:669][984]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.37.49:672][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.49:684][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.37.49:702][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.49:751][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.49:752][984]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.49:763][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2022.03.30-10.37.49:807][985]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.03.30-10.37.51:362][168]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.37.51:367][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.37.51:367][168]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:37:51)
+[2022.03.30-10.37.51:367][168]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.51:382][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015532s)
+[2022.03.30-10.37.51:383][168]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.37.51:384][168]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.03.30-10.37.51:384][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.016687s)
+[2022.03.30-10.37.51:436][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2022.03.30-10.37.51:437][168]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.37.51:437][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.37.51:437][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.37.51:438][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.37.51:438][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.37.51:438][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.37.51:438][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.37.51:439][168]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.37.51:439][168]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.37.51:455][168]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.37.51:456][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.37.51:456][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.37.51:456][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.37.51:456][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.37.51:456][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.37.51:456][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.37.51:457][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.37.51:457][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.37.51:457][168]LogInit: FAudioDevice initialized.
+[2022.03.30-10.37.51:457][168]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_01'.
+[2022.03.30-10.37.51:555][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.51:555][168]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.37.51:561][168]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.37.51
+[2022.03.30-10.37.51:561][168]LogWorld: Bringing up level for play took: 0.005189
+[2022.03.30-10.37.51:561][168]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.30-10.37.51:565][168]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.51:565][168]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.37.51:565][168]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.51:566][168]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.37.51:568][168]PIE: Server logged in
+[2022.03.30-10.37.51:569][168]PIE: Play in editor total start time 0,203 seconds.
+[2022.03.30-10.37.56:082][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.37.56:082][686]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.37.56:082][686]LogSlate: Window 'Pacman Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.03.30-10.37.56:088][686]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.37.56:089][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.56:103][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.37.56:121][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.37.56:168][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.56:169][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.37.56:180][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.03.30-10.37.56:226][687]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.30-10.44.05:224][797]LogHotReload: New module detected: UE4Editor-Pacman-0012.dll
+[2022.03.30-10.44.05:860][846]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-10.44.05:957][846]LogClass: EEnemyState HotReload.
+[2022.03.30-10.44.05:957][846]LogClass: EFoodieType HotReload.
+[2022.03.30-10.44.05:964][846]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0004 seconds. Added 5 classes and 2 folders.
+[2022.03.30-10.44.05:977][846]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2022.03.30-10.44.06:222][846]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3827 classes and 930 folders.
+[2022.03.30-10.44.06:225][846]Display: HotReload took  0.4s.
+[2022.03.30-10.44.08:842][101]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.44.08:846][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.44.08:847][101]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:44:08)
+[2022.03.30-10.44.08:847][101]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.44.08:863][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015863s)
+[2022.03.30-10.44.08:864][101]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.44.08:864][101]LogPlayLevel: PIE: World Init took: (0.001137s)
+[2022.03.30-10.44.08:864][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017156s)
+[2022.03.30-10.44.08:977][101]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2022.03.30-10.44.08:980][101]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.44.08:980][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.44.08:980][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.44.08:980][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.44.08:980][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.44.08:980][101]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.44.08:981][101]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.44.08:981][101]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.44.09:005][101]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.44.09:005][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.44.09:005][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.44.09:005][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.44.09:005][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.44.09:005][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.44.09:006][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.44.09:007][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.44.09:007][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.44.09:007][101]LogInit: FAudioDevice initialized.
+[2022.03.30-10.44.09:007][101]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_01'.
+[2022.03.30-10.44.09:020][101]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.44.09:026][101]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.44.09
+[2022.03.30-10.44.09:026][101]LogWorld: Bringing up level for play took: 0.005586
+[2022.03.30-10.44.09:027][101]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.30-10.44.09:029][101]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.44.09:030][101]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.44.09:030][101]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.44.09:031][101]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.44.09:031][101]PIE: Server logged in
+[2022.03.30-10.44.09:032][101]PIE: Play in editor total start time 0,186 seconds.
+[2022.03.30-10.44.17:993][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.44.17:993][169]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.44.17:994][169]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.44.17:996][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.44.18:017][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.44.18:034][169]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.44.18:086][169]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-10.44.18:087][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.44.18:088][169]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.44.18:093][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.44.18:124][169]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2022.03.30-10.44.18:163][170]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.30-10.45.30:325][662]LogEditorViewport: Clicking on Actor (double click): BP_Plane_C (Floor)
+[2022.03.30-10.45.37:243][429]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-10.45.50:316][912]MapCheck: New page: Map Check
+[2022.03.30-10.45.50:328][912]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.30-10.45.50:328][912]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.30-10.45.50:328][912]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.30-10.45.50:328][912]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.30-10.45.50:334][912]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.01s
+[2022.03.30-10.45.50:334][912]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.30-10.45.50:334][912]MapCheck: New page: Level_01 - 30 mar. 2022 14:45:50
+[2022.03.30-10.45.50:338][912]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,829ms to complete.
+[2022.03.30-10.45.50:340][912]LogEditorBuildUtils: Build time 0:00
+[2022.03.30-10.46.03:634][339]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-10.46.07:574][722]Cmd: TRANSACTION UNDO
+[2022.03.30-10.46.07:574][722]LogEditorTransaction: Undo Move Actors
+[2022.03.30-10.46.14:498][421]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.46.14:504][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.46.14:504][421]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:46:14)
+[2022.03.30-10.46.14:504][421]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.46.14:520][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016392s)
+[2022.03.30-10.46.14:521][421]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.46.14:522][421]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2022.03.30-10.46.14:522][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017719s)
+[2022.03.30-10.46.14:577][421]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2022.03.30-10.46.14:583][421]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.46.14:583][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.46.14:583][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.46.14:584][421]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.46.14:584][421]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.46.14:584][421]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.46.14:584][421]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.46.14:585][421]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.46.14:585][421]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.46.14:603][421]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.46.14:603][421]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.46.14:603][421]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.46.14:603][421]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.46.14:604][421]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.46.14:604][421]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.46.14:604][421]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.46.14:605][421]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.46.14:605][421]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.46.14:605][421]LogInit: FAudioDevice initialized.
+[2022.03.30-10.46.14:605][421]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_01'.
+[2022.03.30-10.46.14:615][421]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.46.14:620][421]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.46.14
+[2022.03.30-10.46.14:621][421]LogWorld: Bringing up level for play took: 0.004726
+[2022.03.30-10.46.14:621][421]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.30-10.46.14:623][421]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.46.14:623][421]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.46.14:623][421]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.46.14:625][421]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.46.14:625][421]PIE: Server logged in
+[2022.03.30-10.46.14:626][421]PIE: Play in editor total start time 0,123 seconds.
+[2022.03.30-10.46.17:402][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.46.17:402][745]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.46.17:403][745]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.46.17:404][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.46.17:412][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.46.17:428][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.46.17:475][745]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-10.46.17:475][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.46.17:477][745]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.46.17:481][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.46.17:487][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.03.30-10.46.17:522][746]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.30-10.46.35:398][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Pacman/Blueprints/BP_Plane.BP_Plane
+[2022.03.30-10.46.49:794][451]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.46.49:795][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.46.52:834][770]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.03.30-10.46.52:888][770]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01884CADDF4F1BA16B6C040B8F044C1AE5.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.46.52:915][770]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.46.52:915][770]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.47.15:777][359]Cmd: TRANSACTION UNDO
+[2022.03.30-10.47.15:778][359]LogEditorTransaction: Undo Move Actors
+[2022.03.30-10.47.26:395][474]MapCheck: New page: Map Check
+[2022.03.30-10.47.26:403][474]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.03.30-10.47.26:403][474]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.03.30-10.47.26:403][474]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.03.30-10.47.26:403][474]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.03.30-10.47.26:404][474]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.00s
+[2022.03.30-10.47.26:404][474]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.03.30-10.47.26:404][474]MapCheck: New page: Level_01 - 30 mar. 2022 14:47:26
+[2022.03.30-10.47.26:406][474]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,961ms to complete.
+[2022.03.30-10.47.26:408][474]LogEditorBuildUtils: Build time 0:00
+[2022.03.30-10.51.17:959][251]Cmd: TRANSACTION UNDO
+[2022.03.30-10.51.17:959][251]LogEditorTransaction: Undo Move Actors
+[2022.03.30-10.51.17:978][251]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of invalid bounds (object: None)
+[2022.03.30-10.51.28:584][345]Cmd: TRANSACTION UNDO
+[2022.03.30-10.51.28:584][345]LogEditorTransaction: Undo Move Actors
+[2022.03.30-10.51.48:527][384]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-10.51.48:532][384]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-10.51.48:532][384]PIE: New page: PIE session: Level_01 (30 mar. 2022 14:51:48)
+[2022.03.30-10.51.48:532][384]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.51.48:550][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017278s)
+[2022.03.30-10.51.48:550][384]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-10.51.48:551][384]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2022.03.30-10.51.48:551][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.018687s)
+[2022.03.30-10.51.48:614][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2022.03.30-10.51.48:623][384]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-10.51.48:623][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-10.51.48:623][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-10.51.48:624][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-10.51.48:624][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-10.51.48:624][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-10.51.48:624][384]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-10.51.48:625][384]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-10.51.48:625][384]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-10.51.48:645][384]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-10.51.48:645][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-10.51.48:645][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-10.51.48:645][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-10.51.48:646][384]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-10.51.48:646][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-10.51.48:646][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-10.51.48:647][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-10.51.48:647][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-10.51.48:647][384]LogInit: FAudioDevice initialized.
+[2022.03.30-10.51.48:647][384]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level_01'.
+[2022.03.30-10.51.48:657][384]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-10.51.48:662][384]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-12.51.48
+[2022.03.30-10.51.48:662][384]LogWorld: Bringing up level for play took: 0.004782
+[2022.03.30-10.51.48:662][384]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.30-10.51.48:664][384]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.51.48:664][384]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-10.51.48:664][384]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.51.48:665][384]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-10.51.48:665][384]PIE: Server logged in
+[2022.03.30-10.51.48:666][384]PIE: Play in editor total start time 0,135 seconds.
+[2022.03.30-10.52.41:593][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.52.41:593][720]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-10.52.41:593][720]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-10.52.41:594][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.52.41:606][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-10.52.41:631][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-10.52.41:681][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-10.52.41:681][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.52.41:682][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-10.52.41:688][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-10.52.41:695][720]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.03.30-10.52.41:736][721]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.30-10.52.41:737][721]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of invalid bounds (object: None)
+[2022.03.30-10.52.43:233][875]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2022.03.30-10.52.43:290][875]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_019BA7EBE6454508577F392A9A0F863840.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.52.43:316][875]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.52.43:316][875]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.52.53:544][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.03.30-10.52.53:598][110]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_018EE4EEF7442026E3813A40B0C3DF4408.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.52.53:623][110]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.52.53:623][110]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.55.49:891][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.03.30-10.55.49:948][377]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_019CBBD1964EE47E87D781B0AEB10D15DD.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-10.55.49:973][377]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-10.55.49:973][377]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-10.55.54:215][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.03.30-11.00.20:142][464]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.30-11.00.20:233][464]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2022.03.30-11.00.20:850][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.30-11.00.20:869][523]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Enemy_BP7FC1184F4BC33D335499B68F1290C5FE.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.30-11.00.20:885][523]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.30-11.00.20:885][523]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.30-11.01.00:550][236]LogUObjectHash: Compacting FUObjectHashTables data took   6.93ms
+[2022.03.30-11.01.00:607][236]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_0132BEC228450B9AED7370B081B120F29E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-11.01.00:636][236]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-11.01.00:636][236]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-11.01.01:144][288]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-11.01.01:149][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.01.01:149][288]PIE: New page: PIE session: Level_01 (30 mar. 2022 15:01:01)
+[2022.03.30-11.01.01:149][288]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.01.01:165][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015953s)
+[2022.03.30-11.01.01:166][288]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-11.01.01:166][288]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2022.03.30-11.01.01:166][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017202s)
+[2022.03.30-11.01.01:219][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2022.03.30-11.01.01:220][288]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.01.01:221][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.01.01:221][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-11.01.01:221][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-11.01.01:221][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-11.01.01:221][288]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.01.01:222][288]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.01.01:222][288]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.01.01:242][288]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-11.01.01:243][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.01.01:243][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.01.01:243][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.01.01:243][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.01.01:243][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.01.01:243][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.01.01:244][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.01.01:244][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.01.01:244][288]LogInit: FAudioDevice initialized.
+[2022.03.30-11.01.01:244][288]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_01'.
+[2022.03.30-11.01.01:252][288]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-11.01.01:257][288]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-13.01.01
+[2022.03.30-11.01.01:257][288]LogWorld: Bringing up level for play took: 0.004632
+[2022.03.30-11.01.01:257][288]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.30-11.01.01:259][288]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.01.01:259][288]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.01.01:259][288]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.01.01:261][288]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.01.01:261][288]PIE: Server logged in
+[2022.03.30-11.01.01:262][288]PIE: Play in editor total start time 0,113 seconds.
+[2022.03.30-11.01.07:961][ 90]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.03.30-11.01.07:961][ 90]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.03.30-11.01.07:961][ 90]LogNet: Browse: /Game/Pacman/Levels/Level_01
+[2022.03.30-11.01.07:961][ 90]LogLoad: LoadMap: /Game/Pacman/Levels/Level_01
+[2022.03.30-11.01.07:961][ 90]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.01.07:962][ 90]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.01.07:963][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.01.08:015][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-11.01.08:022][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2022.03.30-11.01.08:024][ 90]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.01.08:040][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016143s)
+[2022.03.30-11.01.08:041][ 90]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-11.01.08:041][ 90]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2022.03.30-11.01.08:041][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017405s)
+[2022.03.30-11.01.08:041][ 90]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_01'.
+[2022.03.30-11.01.08:041][ 90]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-11.01.08:044][ 90]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-13.01.08
+[2022.03.30-11.01.08:045][ 90]LogWorld: Bringing up level for play took: 0.003014
+[2022.03.30-11.01.08:046][ 90]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.01.08:046][ 90]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.01.08:046][ 90]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.01.08:048][ 90]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.01.08:048][ 90]LogLoad: Took 0.087057 seconds to LoadMap(/Game/Pacman/Levels/UEDPIE_0_Level_01)
+[2022.03.30-11.01.15:877][ 28]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.03.30-11.01.15:877][ 28]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.03.30-11.01.15:877][ 28]LogNet: Browse: /Game/Pacman/Levels/Level_01
+[2022.03.30-11.01.15:877][ 28]LogLoad: LoadMap: /Game/Pacman/Levels/Level_01
+[2022.03.30-11.01.15:878][ 28]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.01.15:878][ 28]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.01.15:879][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.01.15:949][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-11.01.15:955][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.03.30-11.01.15:957][ 28]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.01.15:973][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015990s)
+[2022.03.30-11.01.15:974][ 28]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-11.01.15:974][ 28]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2022.03.30-11.01.15:975][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017207s)
+[2022.03.30-11.01.15:975][ 28]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level_01'.
+[2022.03.30-11.01.15:975][ 28]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-11.01.15:977][ 28]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-13.01.15
+[2022.03.30-11.01.15:978][ 28]LogWorld: Bringing up level for play took: 0.002499
+[2022.03.30-11.01.15:978][ 28]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.01.15:979][ 28]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.01.15:979][ 28]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.01.15:980][ 28]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.01.15:980][ 28]LogLoad: Took 0.102139 seconds to LoadMap(/Game/Pacman/Levels/UEDPIE_0_Level_01)
+[2022.03.30-11.01.18:292][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.01.18:292][300]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.01.18:292][300]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.01.18:294][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.01.18:314][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.01.18:339][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.01.18:388][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.01.18:388][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.01.18:389][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.01.18:401][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2022.03.30-11.01.18:439][301]LogPlayLevel: Display: Destroying online subsystem :Context_30

@@ -13,7 +13,7 @@ void AEnemyPawn::Hunt()
 void AEnemyPawn::Idle()
 {
 	
-	State = EEnemyState::Default;
+	State = EEnemyState::Idle;
 
 	StateChangedEvent.Broadcast(State);
 }
