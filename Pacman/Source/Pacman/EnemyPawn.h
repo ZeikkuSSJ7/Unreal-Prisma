@@ -30,8 +30,8 @@ public:
 	UFUNCTION(BlueprintCallable)
 		void Idle();
 
-	FEnemyStateChangedEvent& OnStateChanged() { return StateChangedEvent; }
+	FEnemyStateChangedEvent& OnStateChanged() { return stateChangedEvent; }
 private:
 	UPROPERTY(BlueprintAssignable, BlueprintCallable)
-		FEnemyStateChangedEvent StateChangedEvent;
+		FEnemyStateChangedEvent stateChangedEvent;
 };

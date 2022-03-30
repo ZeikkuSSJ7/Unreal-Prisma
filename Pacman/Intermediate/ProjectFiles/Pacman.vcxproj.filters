@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Pacman.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{197C8500-35FA-46F1-84B0-E25746F8B49F}</UniqueIdentifier>
+      <UniqueIdentifier>{F071048D-6300-4485-819C-52C02F46BC6E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Pacman.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D3996D7B-3FE2-407B-80DE-8AF05915931B}</UniqueIdentifier>
+      <UniqueIdentifier>{8764A6EC-BF77-4AA7-AA4C-2FA08D436288}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Pacman">
-      <UniqueIdentifier>{83511230-5A08-45EB-B5F7-C826D271723E}</UniqueIdentifier>
+      <UniqueIdentifier>{3EFD7602-B7BE-4742-A7EA-D8166AECC5FB}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Pacman\EnemyPawn.cpp">
       <Filter>Source\Pacman</Filter>
@@ -66,6 +66,12 @@
       <Filter>Source\Pacman</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Pacman\PacmanPawn.h">
+      <Filter>Source\Pacman</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Pacman\TeleporterActor.cpp">
+      <Filter>Source\Pacman</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Pacman\TeleporterActor.h">
       <Filter>Source\Pacman</Filter>
     </ClInclude>
   </ItemGroup>

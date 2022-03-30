@@ -7,7 +7,7 @@ void AEnemyPawn::Hunt()
 {
 	State = EEnemyState::Default;
 
-	StateChangedEvent.Broadcast(State);
+	stateChangedEvent.Broadcast(State);
 }
 
 void AEnemyPawn::Idle()
@@ -15,5 +15,5 @@ void AEnemyPawn::Idle()
 	
 	State = EEnemyState::Idle;
 
-	StateChangedEvent.Broadcast(State);
+	stateChangedEvent.Broadcast(State);
 }
