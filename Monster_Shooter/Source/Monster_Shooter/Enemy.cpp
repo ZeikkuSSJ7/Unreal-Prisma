@@ -41,7 +41,7 @@ void AEnemy::BeginPlay()
 {
 	Super::BeginPlay();
 
-	damageCollision->OnComponentBeginOverlap. AddDynamic(this, &AEnemy::OnHit);
+	damageCollision->OnComponentBeginOverlap.AddDynamic(this, &AEnemy::OnHit);
 
 	baseLocation = this->GetActorLocation();
 	
@@ -52,6 +52,28 @@ void AEnemy::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	if (!currentVelocity.IsZero())
+	{
+		newLocation = GetActorLocation() + currentVelocity * DeltaTime;
+
+		if (backToBaseLocation)
+		{
+			if ((newLocation - baseLocation).SizeSquared2D() < distanceSquared)
+			{
+				distanceSquared = (newLocation - baseLocation).SizeSquared2D();
+			}
+			else
+			{
+				currentVelocity = FVector::ZeroVector;
+				distanceSquared = BIG_NUMBER;
+				backToBaseLocation = false;
+
+				SetNewRotation(GetActorForwardVector(), GetActorLocation());
+			}
+			
+		}
+		SetActorLocation(newLocation);
+	}
 }
 
 // Called to bind functionality to input
@@ -69,11 +91,46 @@ void AEnemy::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimi
 
 void AEnemy::OnSensed(const TArray<AActor*>& UpdatedActors)
 {
-	
+	for (AActor* actor : UpdatedActors)
+	{
+		FActorPerceptionBlueprintInfo info;
+		aiPerpComp->GetActorsPerception(actor, info);
+
+		if (info.LastSensedStimuli[0].WasSuccessfullySensed())
+		{
+			FVector dir = actor->GetActorLocation() - GetActorLocation();
+			dir.Z = 0;
+
+			currentVelocity = dir.GetSafeNormal() * movementSpeed;
+
+			SetNewRotation(actor->GetActorLocation(), GetActorLocation());
+			
+		} else
+		{
+			FVector dir = baseLocation - GetActorLocation();
+
+			dir.Z = 0.0f;
+
+			if (dir.SizeSquared2D() > 1.0f)
+			{
+				currentVelocity = dir.GetSafeNormal() * movementSpeed;
+				backToBaseLocation = true;
+
+				SetNewRotation(baseLocation, GetActorLocation());
+			}
+		}
+	}
 }
 
-void AEnemy::SetNewRotation(FVector targetPosition, FVector CurrentPosition)
+void AEnemy::SetNewRotation(FVector TargetPosition, FVector CurrentPosition)
 {
+	FVector newDirection = TargetPosition - CurrentPosition;
+	newDirection.Z = 0;
+
+	enemyRotation = newDirection.Rotation();
+
+	SetActorRotation(enemyRotation);
+	
 }
 
 void AEnemy::DealDamage(float DamageAmount)
