@@ -2555,3 +2555,213 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-11.01.18:389][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.30-11.01.18:401][300]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
 [2022.03.30-11.01.18:439][301]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.03.30-11.02.39:735][602]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-11.02.39:735][602]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/FunctionalTestGameMode.FunctionalTestGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-11.02.39:735][602]LogEditorClassViewer: Warning: Class /Game/Pacman/GameModes/LevelGameMode.LevelGameMode_C has parent /Script/ue4_pacman.ue4_pacmanGameModeBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-11.02.39:738][602]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-11.03.02:005][602]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.30-11.03.02:015][602]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.30-11.03.02:037][602]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.30-11.03.14:857][116]LogContentBrowser: Attempting asset rename: NewBlueprint -> Foodie_PowerUp_BP
+[2022.03.30-11.03.14:861][116]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.30-11.03.15:212][154]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.03.35:959][531]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave AS_EatSpecial...
+[2022.03.30-11.03.35:959][531]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Pacman/Audio/AS_EatSpecial.AS_EatSpecial will be modified from 40 to 40.
+[2022.03.30-11.03.35:977][531]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 132300 while cooking SoundWave /Game/Pacman/Audio/AS_EatSpecial.AS_EatSpecial.
+[2022.03.30-11.05.49:685][719]LogHotReload: New module detected: UE4Editor-Pacman-0013.dll
+[2022.03.30-11.05.50:368][722]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-11.05.50:471][722]LogClass: EEnemyState HotReload.
+[2022.03.30-11.05.50:471][722]LogClass: EFoodieType HotReload.
+[2022.03.30-11.05.50:481][722]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Pacman' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2022.03.30-11.05.50:498][722]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2022.03.30-11.05.50:759][722]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0184 seconds. Added 3827 classes and 930 folders.
+[2022.03.30-11.05.50:762][722]Display: HotReload took  0.4s.
+[2022.03.30-11.06.25:142][ 98]BlueprintLog: New page: Compile Foodie_PowerUp_BP
+[2022.03.30-11.06.25:269][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   8.54ms
+[2022.03.30-11.06.25:809][148]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_PowerUp_BP11BD3A254D377C97388000A6307D6C29.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_PowerUp_BP.uasset'
+[2022.03.30-11.06.25:829][148]AssetCheck: New page: Asset Save: Foodie_PowerUp_BP
+[2022.03.30-11.06.25:829][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.07.31:690][388]BlueprintLog: New page: Compile Foodie_PowerUp_BP
+[2022.03.30-11.07.31:786][388]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2022.03.30-11.07.32:913][505]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_PowerUp_BP8D0218C54B6D2A42124C81A7760D3B15.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_PowerUp_BP.uasset'
+[2022.03.30-11.07.32:931][505]AssetCheck: New page: Asset Save: Foodie_PowerUp_BP
+[2022.03.30-11.07.32:931][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.10.31:005][242]BlueprintLog: New page: Compile Foodie_PowerUp_BP
+[2022.03.30-11.10.31:098][242]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2022.03.30-11.10.31:463][276]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_PowerUp_BPAD60D9FE450C9155F32B06B02E53D14B.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_PowerUp_BP.uasset'
+[2022.03.30-11.10.31:482][276]AssetCheck: New page: Asset Save: Foodie_PowerUp_BP
+[2022.03.30-11.10.31:482][276]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.11.17:957][649]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2022.03.30-11.11.53:589][766]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-11.11.53:691][766]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2022.03.30-11.12.52:956][905]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-11.12.53:052][905]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2022.03.30-11.12.53:914][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-11.12.53:922][987]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BPBE4427314043884E24E56E831F406DA8.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-11.12.53:941][987]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-11.12.53:941][987]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-11.13.20:046][892]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-11.13.20:140][892]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2022.03.30-11.13.22:165][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-11.13.22:173][121]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BPBCFBBFED413BD6AF77E88B9B81DC80F9.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-11.13.22:195][121]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-11.13.22:195][121]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-11.13.44:680][781]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-11.13.44:772][781]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2022.03.30-11.13.45:535][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-11.13.45:544][858]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BP034AD8D24A53EF8BB1D0588FF808876D.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-11.13.45:561][858]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-11.13.45:561][858]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-11.15.17:019][928]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2022.03.30-11.15.17:112][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.03.30-11.15.17:166][928]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01459D37C84A8BFBB769D7F0B64A3FCD6F.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-11.15.17:180][928]LogFileHelpers: Saving map 'Level_01' took 0.125
+[2022.03.30-11.15.17:190][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-11.15.17:199][928]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BPF26BCC59400EEC3A3B6E4EAAEF31940C.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-11.15.17:218][928]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_PowerUp_BP7F5E49714DF6212E43EA798A55F9A8A0.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_PowerUp_BP.uasset'
+[2022.03.30-11.15.17:236][928]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.30-11.15.17:236][928]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-11.15.17:236][928]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-11.15.17:236][928]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.18.10:766][577]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-11.18.10:864][577]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2022.03.30-11.18.11:316][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-11.18.11:327][615]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BP47AE4B1C46A746B2F9FACEB31546E537.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-11.18.11:346][615]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-11.18.11:346][615]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-11.20.33:475][919]BlueprintLog: New page: Compile Foodie_Regular_BP
+[2022.03.30-11.20.33:670][919]LogUObjectHash: Compacting FUObjectHashTables data took   8.15ms
+[2022.03.30-11.20.33:945][924]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BP2ECEC5BB42D9D01A23398DA4E0CF9574.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-11.20.33:964][924]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-11.20.33:964][924]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-11.20.35:840][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2022.03.30-11.20.35:899][118]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_010475EFAB4E16D471E86D979B87D5463E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-11.20.35:928][118]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-11.20.35:928][118]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-11.20.42:204][447]BlueprintLog: New page: Compile Pacman_BP
+[2022.03.30-11.20.42:297][447]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2022.03.30-11.20.42:825][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pacman_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset" SILENT=true
+[2022.03.30-11.20.42:839][493]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Pacman_BPBC91E9BC4F3BE683A8A0A18B2BEDBA77.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Pacman_BP.uasset'
+[2022.03.30-11.20.42:859][493]AssetCheck: New page: Asset Save: Pacman_BP
+[2022.03.30-11.20.42:859][493]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pacman_BP.Pacman_BP
+[2022.03.30-11.20.45:621][786]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2022.03.30-11.20.45:678][786]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01F2553341493B1C07297CBFBD3204A867.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-11.20.45:705][786]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-11.20.45:705][786]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-11.21.04:228][880]LogEditorViewport: Clicking on Actor (LMB): Foodie_Regular_BP_C (Foodie_Regular_BP142)
+[2022.03.30-11.21.27:166][501]EditorErrors: New page: Actor Reattachment
+[2022.03.30-11.21.33:187][201]LogEditorViewport: Clicking on Actor (LMB): Foodie_PowerUp_BP_C (Foodie_Regular_BP143)
+[2022.03.30-11.21.34:219][321]LogEditorViewport: Clicking on Actor (LMB): BP_Plane_C (Floor)
+[2022.03.30-11.21.35:240][439]LogEditorViewport: Clicking on Actor (LMB): Foodie_PowerUp_BP_C (Foodie_Regular_BP143)
+[2022.03.30-11.21.36:567][594]Cmd: DELETE
+[2022.03.30-11.21.36:567][594]Cmd: ACTOR DELETE
+[2022.03.30-11.21.36:575][594]LogEditorActor: Deleted Actor: Foodie_PowerUp_BP_C
+[2022.03.30-11.21.36:637][594]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.03.30-11.21.36:641][594]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2022.03.30-11.21.37:735][724]Cmd: TRANSACTION UNDO
+[2022.03.30-11.21.37:735][724]LogEditorTransaction: Undo Delete Actors
+[2022.03.30-11.21.53:146][405]BlueprintLog: New page: Compile Foodie_PowerUp_BP
+[2022.03.30-11.21.53:234][405]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2022.03.30-11.21.53:866][453]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_PowerUp_BP284246AF4CC3B90CA9435F9613072767.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_PowerUp_BP.uasset'
+[2022.03.30-11.21.53:885][453]AssetCheck: New page: Asset Save: Foodie_PowerUp_BP
+[2022.03.30-11.21.53:885][453]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.22.20:080][371]BlueprintLog: New page: Compile Foodie_Regular_BP
+[2022.03.30-11.22.20:263][371]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2022.03.30-11.22.20:480][372]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_Regular_BP8DA27763421E16AB0A4F1AA1B3E0043B.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_Regular_BP.uasset'
+[2022.03.30-11.22.20:498][372]AssetCheck: New page: Asset Save: Foodie_Regular_BP
+[2022.03.30-11.22.20:498][372]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_Regular_BP.Foodie_Regular_BP
+[2022.03.30-11.22.22:282][540]BlueprintLog: New page: Compile Foodie_PowerUp_BP
+[2022.03.30-11.22.22:379][540]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2022.03.30-11.22.22:730][568]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Foodie_PowerUp_BP8D3FB39843ED77CE51D8B7A7934E98D1.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Blueprints/Foodie_PowerUp_BP.uasset'
+[2022.03.30-11.22.22:748][568]AssetCheck: New page: Asset Save: Foodie_PowerUp_BP
+[2022.03.30-11.22.22:748][568]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Foodie_PowerUp_BP.Foodie_PowerUp_BP
+[2022.03.30-11.22.24:962][804]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2022.03.30-11.22.25:024][804]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01FCDEF9064393DA6901B2118720457A5B.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-11.22.25:053][804]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-11.22.25:053][804]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
+[2022.03.30-11.22.29:000][243]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-11.22.29:006][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-11.22.29:006][243]PIE: New page: PIE session: Level_01 (30 mar. 2022 15:22:29)
+[2022.03.30-11.22.29:006][243]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.22.29:023][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016798s)
+[2022.03.30-11.22.29:024][243]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-11.22.29:024][243]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2022.03.30-11.22.29:024][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.018149s)
+[2022.03.30-11.22.29:086][243]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2022.03.30-11.22.29:089][243]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-11.22.29:089][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-11.22.29:089][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-11.22.29:090][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-11.22.29:090][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-11.22.29:090][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-11.22.29:090][243]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-11.22.29:091][243]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-11.22.29:091][243]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-11.22.29:109][243]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-11.22.29:109][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-11.22.29:110][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-11.22.29:110][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-11.22.29:110][243]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-11.22.29:110][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-11.22.29:110][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-11.22.29:111][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-11.22.29:111][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-11.22.29:111][243]LogInit: FAudioDevice initialized.
+[2022.03.30-11.22.29:111][243]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_01'.
+[2022.03.30-11.22.29:123][243]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-11.22.29:128][243]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-13.22.29
+[2022.03.30-11.22.29:128][243]LogWorld: Bringing up level for play took: 0.004717
+[2022.03.30-11.22.29:129][243]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.03.30-11.22.29:130][243]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.22.29:130][243]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.22.29:130][243]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.22.29:132][243]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.22.29:132][243]PIE: Server logged in
+[2022.03.30-11.22.29:133][243]PIE: Play in editor total start time 0,13 seconds.
+[2022.03.30-11.22.54:400][266]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.03.30-11.22.54:400][266]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.03.30-11.22.54:401][266]LogNet: Browse: /Game/Pacman/Levels/Level_01
+[2022.03.30-11.22.54:401][266]LogLoad: LoadMap: /Game/Pacman/Levels/Level_01
+[2022.03.30-11.22.54:401][266]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.22.54:401][266]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.22.54:402][266]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.22.54:501][266]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-11.22.54:508][266]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2022.03.30-11.22.54:511][266]LogPlayLevel: Creating play world package: /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.22.54:527][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015965s)
+[2022.03.30-11.22.54:528][266]LogAIModule: Creating AISystem for world Level_01
+[2022.03.30-11.22.54:528][266]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.03.30-11.22.54:528][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Pacman/Levels/Level_01.Level_01 to /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 (0.017189s)
+[2022.03.30-11.22.54:528][266]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level_01'.
+[2022.03.30-11.22.54:528][266]LogLoad: Game class is 'Pacman_GameMode_BP_C'
+[2022.03.30-11.22.54:531][266]LogWorld: Bringing World /Game/Pacman/Levels/UEDPIE_0_Level_01.Level_01 up for play (max tick rate 0) at 2022.03.30-13.22.54
+[2022.03.30-11.22.54:532][266]LogWorld: Bringing up level for play took: 0.002654
+[2022.03.30-11.22.54:533][266]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.22.54:533][266]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-11.22.54:533][266]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.22.54:534][266]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-11.22.54:534][266]LogLoad: Took 0.133246 seconds to LoadMap(/Game/Pacman/Levels/UEDPIE_0_Level_01)
+[2022.03.30-11.22.55:012][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.22.55:012][318]LogWorld: BeginTearingDown for /Game/Pacman/Levels/UEDPIE_0_Level_01
+[2022.03.30-11.22.55:012][318]LogWorld: UWorld::CleanupWorld for Level_01, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-11.22.55:014][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.22.55:032][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-11.22.55:048][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-11.22.55:106][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-11.22.55:107][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.22.55:108][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-11.22.55:119][318]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2022.03.30-11.22.55:154][319]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.03.30-11.23.38:036][ 76]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.30-11.23.52:622][720]Cmd: TRANSACTION UNDO
+[2022.03.30-11.23.52:622][720]LogEditorTransaction: Undo Regroup Ctrl+G
+[2022.03.30-11.23.58:279][313]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2022.03.30-11.23.58:335][313]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Saved/Level_01183290EF440070CA2750728B5DF69B6A.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Pacman/Content/Pacman/Levels/Level_01.umap'
+[2022.03.30-11.23.58:364][313]AssetCheck: New page: Asset Save: Level_01
+[2022.03.30-11.23.58:364][313]LogContentValidation: Display: Validating World /Game/Pacman/Levels/Level_01.Level_01
