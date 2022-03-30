@@ -1787,3 +1787,266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.30-14.15.07:978][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
 [2022.03.30-14.15.10:700][970]LogSlate: Window 'Delete Assets' being destroyed
 [2022.03.30-14.15.10:764][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.03.30-14.19.41:653][445]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-14.19.41:656][445]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-14.19.48:177][445]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.30-14.19.48:184][445]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.30-14.19.48:194][445]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.30-14.19.57:093][513]LogContentBrowser: Attempting asset rename: NewBlueprint -> MonsterShooterCharacter_BP
+[2022.03.30-14.19.57:098][513]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.30-14.19.57:603][570]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MonsterShooterCharacter_BP.MonsterShooterCharacter_BP
+[2022.03.30-14.19.58:380][570]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.03.30-14.19.59:393][570]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2022.03.30-14.20.02:536][871]LogSlate: Window 'MonsterShooterCharacter_BP' being destroyed
+[2022.03.30-14.20.05:617][228]LogSlate: Took 0.012518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.30-14.20.21:873][968]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.30-14.20.21:893][968]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-14.20.35:661][567]BlueprintLog: New page: Compile MonsterShooterCharacter_BP
+[2022.03.30-14.20.35:723][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.30-14.20.36:201][606]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/MonsterShooterCharacter_BP3206CF0C4982B7E5CD74639E0631D591.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/MonsterShooterCharacter_BP.uasset'
+[2022.03.30-14.20.36:213][606]AssetCheck: New page: Asset Save: MonsterShooterCharacter_BP
+[2022.03.30-14.20.36:213][606]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MonsterShooterCharacter_BP.MonsterShooterCharacter_BP
+[2022.03.30-14.20.45:710][578]BlueprintLog: New page: Compile MonsterShooterCharacter_BP
+[2022.03.30-14.20.45:761][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.03.30-14.20.46:837][699]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/MonsterShooterCharacter_BP70D511CD450DC6CA33FB55B8854F7AB6.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/MonsterShooterCharacter_BP.uasset'
+[2022.03.30-14.20.46:848][699]AssetCheck: New page: Asset Save: MonsterShooterCharacter_BP
+[2022.03.30-14.20.46:848][699]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MonsterShooterCharacter_BP.MonsterShooterCharacter_BP
+[2022.03.30-14.21.10:719][407]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-14.21.10:726][407]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-14.21.31:266][763]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Monster_Shooter.uproject" -game -rocket -progress
+[2022.03.30-14.21.31:571][763]Discovering modules, targets and source code for project...
+[2022.03.30-14.21.33:078][763]Binding IntelliSense data...
+[2022.03.30-14.21.35:612][763]Binding IntelliSense data... 100%
+[2022.03.30-14.21.35:612][763]Writing project files...
+[2022.03.30-14.21.39:135][763]Writing project files... 100%
+[2022.03.30-14.21.39:240][763]Candidate modules for hot reload:
+[2022.03.30-14.21.39:240][763]  Monster_Shooter
+[2022.03.30-14.21.39:240][763]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Monster_Shooter,3982 Monster_ShooterEditor Win64 Development -Project="C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Monster_Shooter.uproject" "C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Monster_Shooter.uproject"  -IgnoreJunk]
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: New page: Compilation - 30 mar. 2022 18:21:46
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma).
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Creating makefile for Monster_ShooterEditor (no existing makefile)
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Parsing headers for Monster_ShooterEditor
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Monster_Shooter.uproject" "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Monster_ShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrador\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Reflection code generated for Monster_ShooterEditor in 3,4471913 seconds
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Building Monster_ShooterEditor...
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Using Visual Studio 2019 14.29.30141 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Building 6 actions with 12 processes...
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   [1/6] Monster_Shooter.init.gen.cpp
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   [2/6] MonsterShooter_GameMode.cpp
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   [3/6] MonsterShooter_GameMode.gen.cpp
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   [4/6] UE4Editor-Monster_Shooter-3982.lib
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-3982.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-3982.exp
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   [5/6] UE4Editor-Monster_Shooter-3982.dll
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:      Creando biblioteca C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-3982.suppressed.lib y objeto C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\UE4Editor-Monster_Shooter-3982.suppressed.exp
+[2022.03.30-14.21.46:461][763]CompilerResultsLog:   [6/6] Monster_ShooterEditor.target
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Total time in Parallel executor: 1,70 seconds
+[2022.03.30-14.21.46:461][763]CompilerResultsLog: Total execution time: 7,14 seconds
+[2022.03.30-14.21.46:461][763]LogMainFrame: MainFrame: Module compiling took 7.225 seconds
+[2022.03.30-14.21.46:490][763]LogClass: Could not find existing class MonsterShooter_GameMode in package /Script/Monster_Shooter for HotReload, assuming new class
+[2022.03.30-14.21.46:507][763]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Monster_Shooter' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2022.03.30-14.21.46:513][763]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2022.03.30-14.21.46:593][763]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3828 classes and 930 folders.
+[2022.03.30-14.21.46:593][763]Display: HotReload took  7.4s.
+[2022.03.30-14.21.46:596][763]Warning: HotReload operation took  7.4s.
+[2022.03.30-14.21.46:651][763]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.03.30-14.21.47:077][764]LogHotReload: New module detected: UE4Editor-Monster_Shooter-3982.dll
+[2022.03.30-14.21.47:211][765]LogHotReload: Starting Hot-Reload from IDE
+[2022.03.30-14.21.47:360][765]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Monster_Shooter' in 0.0003 seconds. Added 6 classes and 2 folders.
+[2022.03.30-14.21.47:367][765]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.03.30-14.21.47:383][765]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3828 classes and 930 folders.
+[2022.03.30-14.21.47:386][765]Display: HotReload took  0.2s.
+[2022.03.30-14.22.07:249][340]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-14.22.07:251][340]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.03.30-14.22.12:836][340]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.03.30-14.22.12:845][340]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.03.30-14.22.12:859][340]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.03.30-14.22.25:586][857]LogContentBrowser: Attempting asset rename: NewBlueprint -> MonsterShooter_GameMode_BP
+[2022.03.30-14.22.25:593][857]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.03.30-14.22.31:273][416]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.03.30-14.22.31:294][416]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.30-14.22.43:579][700]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-14.22.43:586][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-14.22.43:586][700]PIE: New page: PIE session: FirstPersonExampleMap (30 mar. 2022 18:22:43)
+[2022.03.30-14.22.43:586][700]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.22.43:615][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028858s)
+[2022.03.30-14.22.43:617][700]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.30-14.22.43:617][700]LogPlayLevel: PIE: World Init took: (0.001816s)
+[2022.03.30-14.22.43:617][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030921s)
+[2022.03.30-14.22.43:709][700]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.03.30-14.22.43:712][700]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-14.22.43:713][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-14.22.43:713][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-14.22.43:713][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-14.22.43:713][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-14.22.43:713][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-14.22.43:714][700]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-14.22.43:715][700]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-14.22.43:715][700]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-14.22.43:737][700]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-14.22.43:738][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-14.22.43:738][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-14.22.43:738][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-14.22.43:738][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-14.22.43:738][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-14.22.43:738][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-14.22.43:739][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-14.22.43:739][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-14.22.43:739][700]LogInit: FAudioDevice initialized.
+[2022.03.30-14.22.43:739][700]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.03.30-14.22.43:752][700]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.30-14.22.43:755][700]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.30-16.22.43
+[2022.03.30-14.22.43:755][700]LogWorld: Bringing up level for play took: 0.001906
+[2022.03.30-14.22.43:755][700]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.03.30-14.22.43:757][700]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.22.43:758][700]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.22.43:758][700]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.22.43:758][700]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.22.43:758][700]PIE: Server logged in
+[2022.03.30-14.22.43:759][700]PIE: Play in editor total start time 0,177 seconds.
+[2022.03.30-14.23.01:979][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.23.01:979][875]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.23.01:979][875]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-14.23.01:980][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.23.01:993][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-14.23.01:998][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.23.02:019][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-14.23.02:021][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.23.02:023][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.23.02:027][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.23.02:036][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.03.30-14.23.02:063][876]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.03.30-14.23.18:164][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MonsterShooter_GameMode_BP.MonsterShooter_GameMode_BP
+[2022.03.30-14.23.19:308][878]BlueprintLog: New page: Compile MonsterShooter_GameMode_BP
+[2022.03.30-14.23.19:360][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.30-14.23.20:045][936]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/MonsterShooter_GameMode_BP28655EB04385717C735DBA851B52295E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/MonsterShooter_GameMode_BP.uasset'
+[2022.03.30-14.23.20:058][936]AssetCheck: New page: Asset Save: MonsterShooter_GameMode_BP
+[2022.03.30-14.23.20:058][936]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MonsterShooter_GameMode_BP.MonsterShooter_GameMode_BP
+[2022.03.30-14.23.22:809][234]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-14.23.22:813][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-14.23.22:813][234]PIE: New page: PIE session: FirstPersonExampleMap (30 mar. 2022 18:23:22)
+[2022.03.30-14.23.22:813][234]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.23.22:824][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010887s)
+[2022.03.30-14.23.22:825][234]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.30-14.23.22:825][234]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2022.03.30-14.23.22:825][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012423s)
+[2022.03.30-14.23.22:856][234]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.03.30-14.23.22:858][234]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-14.23.22:858][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-14.23.22:858][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-14.23.22:859][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-14.23.22:859][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-14.23.22:859][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-14.23.22:859][234]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-14.23.22:860][234]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-14.23.22:860][234]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-14.23.22:878][234]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-14.23.22:879][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-14.23.22:879][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-14.23.22:879][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-14.23.22:879][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-14.23.22:879][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-14.23.22:879][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-14.23.22:880][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-14.23.22:881][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-14.23.22:881][234]LogInit: FAudioDevice initialized.
+[2022.03.30-14.23.22:881][234]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.03.30-14.23.22:889][234]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.30-14.23.22:891][234]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.30-16.23.22
+[2022.03.30-14.23.22:891][234]LogWorld: Bringing up level for play took: 0.001497
+[2022.03.30-14.23.22:891][234]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.03.30-14.23.22:893][234]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.23.22:893][234]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.23.22:893][234]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.23.22:893][234]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.23.22:893][234]PIE: Server logged in
+[2022.03.30-14.23.22:894][234]PIE: Play in editor total start time 0,082 seconds.
+[2022.03.30-14.23.35:822][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.23.35:822][776]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.23.35:822][776]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-14.23.35:823][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.23.35:832][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-14.23.35:838][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.23.35:865][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-14.23.35:865][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.23.35:866][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.23.35:871][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.23.35:875][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.03.30-14.23.35:915][778]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.30-14.23.56:469][136]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.30-14.23.58:601][353]Cmd: TRANSACTION UNDO
+[2022.03.30-14.23.58:601][353]LogEditorTransaction: Undo Move Actors
+[2022.03.30-14.23.59:702][423]Cmd: DELETE
+[2022.03.30-14.23.59:710][423]Cmd: ACTOR DELETE
+[2022.03.30-14.23.59:717][423]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2022.03.30-14.23.59:757][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.03.30-14.23.59:760][423]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.03.30-14.24.06:018][103]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.30-14.24.06:021][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.30-14.24.06:021][103]PIE: New page: PIE session: FirstPersonExampleMap (30 mar. 2022 18:24:06)
+[2022.03.30-14.24.06:022][103]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.24.06:032][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010036s)
+[2022.03.30-14.24.06:033][103]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.03.30-14.24.06:034][103]LogPlayLevel: PIE: World Init took: (0.002255s)
+[2022.03.30-14.24.06:034][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012484s)
+[2022.03.30-14.24.06:065][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.30-14.24.06:065][103]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.30-14.24.06:065][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.30-14.24.06:065][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.30-14.24.06:065][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.30-14.24.06:066][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.30-14.24.06:066][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.30-14.24.06:066][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.30-14.24.06:066][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.30-14.24.06:066][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.30-14.24.06:066][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.30-14.24.06:066][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.30-14.24.06:066][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.30-14.24.06:066][103]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.30-14.24.06:067][103]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.30-14.24.06:067][103]LogAudioMixer: Display: 1: FrontRight
+[2022.03.30-14.24.06:085][103]LogAudioMixer: Display: Using Audio Device Audio remoto
+[2022.03.30-14.24.06:085][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.30-14.24.06:085][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.30-14.24.06:085][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.30-14.24.06:086][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.30-14.24.06:086][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.30-14.24.06:086][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.30-14.24.06:087][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.30-14.24.06:087][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.30-14.24.06:087][103]LogInit: FAudioDevice initialized.
+[2022.03.30-14.24.06:087][103]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.03.30-14.24.06:096][103]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.30-14.24.06:097][103]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.03.30-16.24.06
+[2022.03.30-14.24.06:099][103]LogWorld: Bringing up level for play took: 0.002981
+[2022.03.30-14.24.06:100][103]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.03.30-14.24.06:102][103]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.24.06:102][103]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.30-14.24.06:102][103]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.24.06:104][103]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.30-14.24.06:104][103]PIE: Server logged in
+[2022.03.30-14.24.06:105][103]PIE: Play in editor total start time 0,084 seconds.
+[2022.03.30-14.24.08:629][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.24.08:629][394]LogWorld: BeginTearingDown for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.03.30-14.24.08:630][394]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.30-14.24.08:630][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.24.08:640][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.30-14.24.08:679][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.30-14.24.08:706][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.30-14.24.08:706][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.24.08:707][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.30-14.24.08:712][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.30-14.24.08:716][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.03.30-14.24.08:749][395]LogPlayLevel: Display: Destroying online subsystem :Context_14
