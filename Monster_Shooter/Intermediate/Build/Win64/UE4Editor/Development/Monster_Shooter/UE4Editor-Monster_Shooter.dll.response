@@ -34,6 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\Monster_ShooterEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Door.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Enemy.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooterCharacter.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooter_GameMode.cpp.obj"
@@ -43,6 +44,7 @@
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterHUD.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Monster_ShooterProjectile.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Projectile.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Door.gen.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\Enemy.gen.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooterCharacter.gen.cpp.obj"
 "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4Editor\Development\Monster_Shooter\MonsterShooter_GameMode.gen.cpp.obj"

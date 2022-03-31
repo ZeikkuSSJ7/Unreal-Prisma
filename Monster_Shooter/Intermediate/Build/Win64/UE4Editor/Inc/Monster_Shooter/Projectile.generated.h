@@ -10,7 +10,6 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 class UPrimitiveComponent;
 class AActor;
-struct FVector;
 struct FHitResult;
 #ifdef MONSTER_SHOOTER_Projectile_generated_h
 #error "Projectile.generated.h already included, missing '#pragma once' in Projectile.h"

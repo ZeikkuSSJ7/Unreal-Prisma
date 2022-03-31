@@ -64,11 +64,12 @@ public:
 	float distanceSquared;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-	float health = 100;
+	float health = 1000;
 
 	UPROPERTY(EditAnywhere)
 	float damagevalue = 5;
 
 public:
 	void DealDamage(float DamageAmount);
+	
 };

@@ -67,6 +67,16 @@ void AMonsterShooterCharacter::Tick(float DeltaTime)
 
 }
 
+void AMonsterShooterCharacter::StopFire()
+{
+	GetWorldTimerManager().ClearTimer(fireTimer);
+}
+
+void AMonsterShooterCharacter::OnFire()
+{
+	GetWorldTimerManager().SetTimer(fireTimer, this, &AMonsterShooterCharacter::_OnFire, 0.05f, true);
+}
+
 
 // Called to bind functionality to input
 void AMonsterShooterCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -77,6 +87,7 @@ void AMonsterShooterCharacter::SetupPlayerInputComponent(UInputComponent* Player
 	InputComponent->BindAction("Jump", IE_Released, this, &AMonsterShooterCharacter::StopJumping);
 	
 	InputComponent->BindAction("Fire", IE_Pressed, this, &AMonsterShooterCharacter::OnFire);
+	InputComponent->BindAction("Fire", IE_Released, this, &AMonsterShooterCharacter::StopFire);
 
 	InputComponent->BindAxis("MoveForward", this, &AMonsterShooterCharacter::MoveForward);
 	InputComponent->BindAxis("MoveRight", this, &AMonsterShooterCharacter::MoveRight);
@@ -89,7 +100,7 @@ void AMonsterShooterCharacter::SetupPlayerInputComponent(UInputComponent* Player
 
 }
 
-void AMonsterShooterCharacter::OnFire()
+void AMonsterShooterCharacter::_OnFire()
 {
 	if (world != nullptr)
 	{
@@ -111,7 +122,7 @@ void AMonsterShooterCharacter::OnFire()
 
 		if (fireAnimation != nullptr && animInstance != nullptr)
 		{
-			animInstance-> Montage_Play(fireAnimation, 3.0f);
+			animInstance->Montage_Play(fireAnimation, 4.0f);
 		}
 	}
 }

@@ -14,7 +14,7 @@ AProjectile::AProjectile()
 	PrimaryActorTick.bCanEverTick = true;
 
 	collisionSphere = CreateDefaultSubobject<USphereComponent>(TEXT("Sphere Collision"));
-	collisionSphere->SetSphereRadius(20);
+	collisionSphere->SetSphereRadius(50);
 	RootComponent = collisionSphere;
 	
 	projectileMovement = CreateDefaultSubobject<UProjectileMovementComponent>(TEXT("Projectile Movement"));
@@ -33,7 +33,7 @@ void AProjectile::BeginPlay()
 {
 	Super::BeginPlay();
 
-	collisionSphere->OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
+	collisionSphere->OnComponentBeginOverlap.AddDynamic(this, &AProjectile::OnHit);
 	
 }
 
@@ -45,13 +45,13 @@ void AProjectile::Tick(float DeltaTime)
 }
 
 void AProjectile::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp,
-	FVector NormalImpulse, const FHitResult& Hit)
+	int32 OtherBodyIndex, bool bFromSweep, const FHitResult& Hit)
 {
 	AEnemy* enemy = Cast<AEnemy>(OtherActor);
 	if (enemy)
 	{
 		enemy->DealDamage(damageValue);
-		Destroy();
+		//Destroy();
 	}
 }
 
