@@ -79,6 +79,10 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooterCharacter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_fireAnimation_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_fireAnimation;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_health_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_health;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -168,6 +172,13 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooterCharacter() {}
 	};
 #endif
 	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_fireAnimation = { "fireAnimation", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMonsterShooterCharacter, fireAnimation), Z_Construct_UClass_UAnimMontage_NoRegister, METADATA_PARAMS(Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_fireAnimation_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_fireAnimation_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_health_MetaData[] = {
+		{ "Category", "MonsterShooterCharacter" },
+		{ "ModuleRelativePath", "MonsterShooterCharacter.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_health = { "health", nullptr, (EPropertyFlags)0x0010000000000015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMonsterShooterCharacter, health), METADATA_PARAMS(Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_health_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_health_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMonsterShooterCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_handsMesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_gunMesh,
@@ -179,6 +190,7 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooterCharacter() {}
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_projectile,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_fireSound,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_fireAnimation,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooterCharacter_Statics::NewProp_health,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMonsterShooterCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMonsterShooterCharacter>::IsAbstract,
@@ -207,7 +219,7 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooterCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMonsterShooterCharacter, 2283960689);
+	IMPLEMENT_CLASS(AMonsterShooterCharacter, 1216589288);
 	template<> MONSTER_SHOOTER_API UClass* StaticClass<AMonsterShooterCharacter>()
 	{
 		return AMonsterShooterCharacter::StaticClass();

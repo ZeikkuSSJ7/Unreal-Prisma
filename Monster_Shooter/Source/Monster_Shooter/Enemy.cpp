@@ -2,7 +2,8 @@
 
 
 #include "Enemy.h"
-#include "Monster_ShooterCharacter.h"
+
+#include "MonsterShooterCharacter.h"
 #include "Perception/AIPerceptionComponent.h"
 #include "Perception/AISenseConfig_Sight.h"
 
@@ -86,7 +87,11 @@ void AEnemy::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 void AEnemy::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp,
 	int32 OtherBodyIndex, bool bFromSweep, const FHitResult& Hit)
 {
-	
+	AMonsterShooterCharacter* character = Cast<AMonsterShooterCharacter>(OtherActor);
+	if (character)
+	{
+		character->DealDamage(damagevalue);
+	}
 }
 
 void AEnemy::OnSensed(const TArray<AActor*>& UpdatedActors)
@@ -135,5 +140,12 @@ void AEnemy::SetNewRotation(FVector TargetPosition, FVector CurrentPosition)
 
 void AEnemy::DealDamage(float DamageAmount)
 {
+	health -= DamageAmount;
+
+	if (health <= 0.0f)
+	{
+		Destroy();
+	}
+	
 }
 

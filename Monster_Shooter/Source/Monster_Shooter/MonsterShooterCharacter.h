@@ -62,6 +62,11 @@ public:
 
 	FRotator spawnRotation;
 	FVector spawnLocation;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly)
+		float health = 100;
+
+	void DealDamage(float damage);
 	
 
 protected:
