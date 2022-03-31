@@ -33,7 +33,7 @@ void AProjectile::BeginPlay()
 {
 	Super::BeginPlay();
 
-	collisionSphere->OnComponentBeginOverlap.AddDynamic(this, &AProjectile::OnHit);
+	collisionSphere->OnComponentHit.AddDynamic(this, &AProjectile::OnHit);
 	
 }
 
@@ -45,7 +45,7 @@ void AProjectile::Tick(float DeltaTime)
 }
 
 void AProjectile::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp,
-	int32 OtherBodyIndex, bool bFromSweep, const FHitResult& Hit)
+	FVector NormalImpulse, const FHitResult& Hit)
 {
 	AEnemy* enemy = Cast<AEnemy>(OtherActor);
 	if (enemy)

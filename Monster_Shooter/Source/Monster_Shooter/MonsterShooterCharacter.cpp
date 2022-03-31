@@ -5,6 +5,7 @@
 
 #include <GeomUtils/GuContactBuffer.h>
 
+#include "MonsterShooter_GameMode.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/InputComponent.h"
 #include "Kismet/GameplayStatics.h"
@@ -17,8 +18,8 @@ AMonsterShooterCharacter::AMonsterShooterCharacter()
 	PrimaryActorTick.bCanEverTick = true;
 
 	GetCapsuleComponent()->InitCapsuleSize(40, 95);
-	turnRate = 45;
-	lookUpRate = 45;
+	turnRate = 90;
+	lookUpRate = 90;
 
 	firstPersonCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("First Person Camera"));
 	firstPersonCamera-> SetupAttachment(GetCapsuleComponent());
@@ -65,6 +66,7 @@ void AMonsterShooterCharacter::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
+
 
 // Called to bind functionality to input
 void AMonsterShooterCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -156,6 +158,13 @@ void AMonsterShooterCharacter::DealDamage(float damage)
 
 	if (health <= 0.0f)
 	{
+		AMonsterShooter_GameMode* myGameMode = Cast<AMonsterShooter_GameMode>(UGameplayStatics::GetGameMode(GetWorld()));
+
+		if (myGameMode)
+		{
+			myGameMode->RestartGameplay(false);
+		}
+		
 		Destroy();
 	}
 }

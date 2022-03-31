@@ -31,6 +31,11 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooter_GameMode() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_timerCount_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_timerCount;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -47,6 +52,16 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooter_GameMode() {}
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMonsterShooter_GameMode_Statics::NewProp_timerCount_MetaData[] = {
+		{ "Category", "MonsterShooter_GameMode" },
+		{ "ModuleRelativePath", "MonsterShooter_GameMode.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AMonsterShooter_GameMode_Statics::NewProp_timerCount = { "timerCount", nullptr, (EPropertyFlags)0x0010000000000014, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AMonsterShooter_GameMode, timerCount), METADATA_PARAMS(Z_Construct_UClass_AMonsterShooter_GameMode_Statics::NewProp_timerCount_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AMonsterShooter_GameMode_Statics::NewProp_timerCount_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AMonsterShooter_GameMode_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AMonsterShooter_GameMode_Statics::NewProp_timerCount,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AMonsterShooter_GameMode_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AMonsterShooter_GameMode>::IsAbstract,
 	};
@@ -56,11 +71,11 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooter_GameMode() {}
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
-		nullptr,
+		Z_Construct_UClass_AMonsterShooter_GameMode_Statics::PropPointers,
 		nullptr,
 		UE_ARRAY_COUNT(DependentSingletons),
 		0,
-		0,
+		UE_ARRAY_COUNT(Z_Construct_UClass_AMonsterShooter_GameMode_Statics::PropPointers),
 		0,
 		0x009002ACu,
 		METADATA_PARAMS(Z_Construct_UClass_AMonsterShooter_GameMode_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AMonsterShooter_GameMode_Statics::Class_MetaDataParams))
@@ -74,7 +89,7 @@ void EmptyLinkFunctionForGeneratedCodeMonsterShooter_GameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMonsterShooter_GameMode, 3502958376);
+	IMPLEMENT_CLASS(AMonsterShooter_GameMode, 662222003);
 	template<> MONSTER_SHOOTER_API UClass* StaticClass<AMonsterShooter_GameMode>()
 	{
 		return AMonsterShooter_GameMode::StaticClass();

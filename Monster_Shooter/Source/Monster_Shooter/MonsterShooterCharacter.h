@@ -67,7 +67,8 @@ public:
 		float health = 100;
 
 	void DealDamage(float damage);
-	
+
+	FTimerHandle fireTimer;
 
 protected:
 	void OnFire();
