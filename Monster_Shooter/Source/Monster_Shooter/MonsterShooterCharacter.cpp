@@ -74,7 +74,7 @@ void AMonsterShooterCharacter::StopFire()
 
 void AMonsterShooterCharacter::OnFire()
 {
-	GetWorldTimerManager().SetTimer(fireTimer, this, &AMonsterShooterCharacter::_OnFire, 0.05f, true);
+	GetWorldTimerManager().SetTimer(fireTimer, this, &AMonsterShooterCharacter::_OnFire, 0.075f, true);
 }
 
 

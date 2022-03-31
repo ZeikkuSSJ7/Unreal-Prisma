@@ -1,0 +1,2 @@
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Intermediate\Build\Win64\UE4\Development\Monster_Shooter\Definitions.Monster_Shooter.h
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Monster_Shooter\Source\Monster_Shooter\Monster_Shooter.h

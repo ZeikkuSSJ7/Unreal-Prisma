@@ -101,29 +101,34 @@ void AEnemy::OnSensed(const TArray<AActor*>& UpdatedActors)
 		FActorPerceptionBlueprintInfo info;
 		aiPerpComp->GetActorsPerception(actor, info);
 
-		if (info.LastSensedStimuli[0].WasSuccessfullySensed())
+
+		if (info.LastSensedStimuli.Num() > 0)
 		{
-			FVector dir = actor->GetActorLocation() - GetActorLocation();
-			dir.Z = 0;
-
-			currentVelocity = dir.GetSafeNormal() * movementSpeed;
-
-			SetNewRotation(actor->GetActorLocation(), GetActorLocation());
-			
-		} else
-		{
-			FVector dir = baseLocation - GetActorLocation();
-
-			dir.Z = 0.0f;
-
-			if (dir.SizeSquared2D() > 1.0f)
+			if (info.LastSensedStimuli[0].WasSuccessfullySensed())
 			{
-				currentVelocity = dir.GetSafeNormal() * movementSpeed;
-				backToBaseLocation = true;
+				FVector dir = actor->GetActorLocation() - GetActorLocation();
+				dir.Z = 0;
 
-				SetNewRotation(baseLocation, GetActorLocation());
+				currentVelocity = dir.GetSafeNormal() * movementSpeed;
+
+				SetNewRotation(actor->GetActorLocation(), GetActorLocation());
+			
+			} else
+			{
+				FVector dir = baseLocation - GetActorLocation();
+
+				dir.Z = 0.0f;
+
+				if (dir.SizeSquared2D() > 1.0f)
+				{
+					currentVelocity = dir.GetSafeNormal() * movementSpeed;
+					backToBaseLocation = true;
+
+					SetNewRotation(baseLocation, GetActorLocation());
+				}
 			}
 		}
+		
 	}
 }
 
