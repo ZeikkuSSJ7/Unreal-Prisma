@@ -1155,3 +1155,254 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.31-10.20.20:040][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.31-10.20.20:046][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
 [2022.03.31-10.20.20:065][825]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.31-10.21.27:850][115]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.03.31-10.21.27:864][115]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.03.31-10.21.36:642][131]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Enemy_Health_BP
+[2022.03.31-10.21.36:644][131]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.03.31-10.21.37:001][172]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Enemy_Health_BP.Enemy_Health_BP
+[2022.03.31-10.22.33:429][468]LogSlate: Window 'Color Picker' being destroyed
+[2022.03.31-10.22.55:956][119]BlueprintLog: New page: Compile Enemy_Health_BP
+[2022.03.31-10.22.56:003][119]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.03.31-10.22.56:336][148]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Enemy_Health_BP251573BD4CC2A6D6F82B54842594AF47.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_Health_BP.uasset'
+[2022.03.31-10.22.56:348][148]AssetCheck: New page: Asset Save: Enemy_Health_BP
+[2022.03.31-10.22.56:348][148]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Enemy_Health_BP.Enemy_Health_BP
+[2022.03.31-10.23.00:794][583]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-10.23.00:794][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.23.00:847][583]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.31-10.23.14:331][979]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.31-10.23.14:404][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.03.31-10.23.14:437][979]LogSlate: Took 0.000391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.31-10.23.14:895][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.31-10.23.14:907][ 12]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Enemy_BP5309F4C047E64E3EBF5640968687C70E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.31-10.23.14:919][ 12]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.31-10.23.14:919][ 12]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.31-10.23.16:137][135]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2022.03.31-10.23.24:083][ 66]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.31-10.23.36:496][472]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.31-10.23.36:587][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.24.41:817][578]LogEditorTransaction: Undo Changed Anchors
+[2022.03.31-10.24.41:885][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.24.42:320][590]LogEditorTransaction: Undo Edit Left
+[2022.03.31-10.24.42:388][590]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.24.42:722][608]LogEditorTransaction: Undo Changed Anchors
+[2022.03.31-10.24.42:794][608]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.25.38:653][140]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Enemy_Health_BP582FE1184A7FE1085C85CBA2A8B64229.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_Health_BP.uasset'
+[2022.03.31-10.25.38:666][140]AssetCheck: New page: Asset Save: Enemy_Health_BP
+[2022.03.31-10.25.38:666][140]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Enemy_Health_BP.Enemy_Health_BP
+[2022.03.31-10.25.39:046][184]BlueprintLog: New page: Compile Enemy_Health_BP
+[2022.03.31-10.25.39:141][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.03.31-10.29.35:777][517]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.31-10.29.35:856][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.03.31-10.29.36:169][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.31-10.29.36:181][540]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Enemy_BPA34DCF8044ECCA61DBA016A6CA7B570F.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.31-10.29.36:195][540]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.31-10.29.36:195][540]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.31-10.29.37:580][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.03.31-10.29.37:588][657]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/GameplayB66C28274DCE1371F3C8EAB9260E915C.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Maps/Gameplay.umap'
+[2022.03.31-10.29.37:613][657]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Gameplay_BuiltData90EDEA924BB973882A1C14BCAD181F3D.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset'
+[2022.03.31-10.29.37:626][657]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.31-10.29.37:626][657]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2022.03.31-10.29.37:626][657]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2022.03.31-10.29.38:277][723]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.31-10.29.38:281][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.31-10.29.38:281][723]PIE: New page: PIE session: Gameplay (31 mar. 2022 14:29:38)
+[2022.03.31-10.29.38:316][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.03.31-10.29.38:319][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
+[2022.03.31-10.29.38:321][723]LogAIModule: Creating AISystem for world Gameplay
+[2022.03.31-10.29.38:321][723]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2022.03.31-10.29.38:321][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.005628s)
+[2022.03.31-10.29.38:363][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.31-10.29.38:364][723]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.31-10.29.38:364][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.31-10.29.38:364][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.31-10.29.38:365][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.31-10.29.38:365][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.31-10.29.38:365][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.31-10.29.38:365][723]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.31-10.29.38:368][723]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.31-10.29.38:368][723]LogAudioMixer: Display: 1: FrontRight
+[2022.03.31-10.29.38:376][723]LogAudioMixer: Display: Using Audio Device 27B1 (NVIDIA High Definition Audio)
+[2022.03.31-10.29.38:376][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.31-10.29.38:377][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.31-10.29.38:377][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.31-10.29.38:377][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.31-10.29.38:377][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.31-10.29.38:377][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.31-10.29.38:378][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.31-10.29.38:378][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.31-10.29.38:378][723]LogInit: FAudioDevice initialized.
+[2022.03.31-10.29.38:378][723]LogAudio: Display: Audio Device (ID: 5) registered with world 'Gameplay'.
+[2022.03.31-10.29.38:390][723]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.31-10.29.38:398][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.03.31-12.29.38
+[2022.03.31-10.29.38:398][723]LogWorld: Bringing up level for play took: 0.008987
+[2022.03.31-10.29.38:399][723]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.03.31-10.29.38:401][723]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.31-10.29.38:401][723]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.31-10.29.38:401][723]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.31-10.29.38:403][723]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.31-10.29.38:403][723]PIE: Server logged in
+[2022.03.31-10.29.38:404][723]PIE: Play in editor total start time 0,123 seconds.
+[2022.03.31-10.29.40:966][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-10.29.40:966][ 25]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.03.31-10.29.40:967][ 25]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-10.29.40:967][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.29.40:974][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.31-10.29.40:979][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.29.41:015][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.31-10.29.41:015][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.31-10.29.41:016][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.31-10.29.41:018][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-10.29.41:022][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.03.31-10.29.41:043][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.03.31-10.29.44:320][368]LogEditorViewport: Clicking on Actor (LMB): Enemy_BP_C (Enemy_BP)
+[2022.03.31-10.29.46:193][566]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.31-10.29.46:201][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.31-10.29.46:201][566]PIE: New page: PIE session: Gameplay (31 mar. 2022 14:29:46)
+[2022.03.31-10.29.46:236][566]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.03.31-10.29.46:240][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003789s)
+[2022.03.31-10.29.46:241][566]LogAIModule: Creating AISystem for world Gameplay
+[2022.03.31-10.29.46:242][566]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2022.03.31-10.29.46:242][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.006038s)
+[2022.03.31-10.29.46:282][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.31-10.29.46:283][566]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.31-10.29.46:283][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.31-10.29.46:283][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.31-10.29.46:284][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.31-10.29.46:284][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.31-10.29.46:284][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.31-10.29.46:284][566]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.31-10.29.46:286][566]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.31-10.29.46:286][566]LogAudioMixer: Display: 1: FrontRight
+[2022.03.31-10.29.46:294][566]LogAudioMixer: Display: Using Audio Device 27B1 (NVIDIA High Definition Audio)
+[2022.03.31-10.29.46:294][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.31-10.29.46:294][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.31-10.29.46:294][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.31-10.29.46:295][566]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.31-10.29.46:295][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.31-10.29.46:295][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.31-10.29.46:296][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.31-10.29.46:296][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.31-10.29.46:296][566]LogInit: FAudioDevice initialized.
+[2022.03.31-10.29.46:296][566]LogAudio: Display: Audio Device (ID: 6) registered with world 'Gameplay'.
+[2022.03.31-10.29.46:302][566]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.31-10.29.46:304][566]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.03.31-12.29.46
+[2022.03.31-10.29.46:304][566]LogWorld: Bringing up level for play took: 0.001254
+[2022.03.31-10.29.46:304][566]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.03.31-10.29.46:306][566]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.31-10.29.46:306][566]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.31-10.29.46:306][566]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.31-10.29.46:307][566]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.31-10.29.46:307][566]PIE: Server logged in
+[2022.03.31-10.29.46:308][566]PIE: Play in editor total start time 0,111 seconds.
+[2022.03.31-10.29.55:347][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-10.29.55:347][644]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.03.31-10.29.55:347][644]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-10.29.55:347][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.29.55:359][644]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.31-10.29.55:404][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.29.55:443][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-10.29.55:443][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.31-10.29.55:444][644]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.31-10.29.55:450][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.03.31-10.29.55:493][645]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.03.31-10.35.34:755][104]LogEditorTransaction: Undo Modify Component(s)
+[2022.03.31-10.35.34:876][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.41.11:800][819]LogEditorTransaction: Undo Move Node
+[2022.03.31-10.41.11:923][819]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.41.11:998][820]LogEditorTransaction: Undo Add Node
+[2022.03.31-10.41.12:071][820]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.41.12:180][822]LogEditorTransaction: Undo Delete current selection
+[2022.03.31-10.41.12:252][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.41.12:817][864]LogEditorTransaction: Undo Delete current selection
+[2022.03.31-10.41.12:889][864]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.03.31-10.42.15:259][ 76]BlueprintLog: New page: Compile Enemy_Health_BP
+[2022.03.31-10.42.15:367][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.03.31-10.42.16:020][121]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Enemy_Health_BP717B486B45930433521626BA1F5579B6.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_Health_BP.uasset'
+[2022.03.31-10.42.16:034][121]AssetCheck: New page: Asset Save: Enemy_Health_BP
+[2022.03.31-10.42.16:034][121]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Enemy_Health_BP.Enemy_Health_BP
+[2022.03.31-10.42.19:876][475]BlueprintLog: New page: Compile Enemy_BP
+[2022.03.31-10.42.20:025][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.03.31-10.42.20:270][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Enemy_BP" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_BP.uasset" SILENT=true
+[2022.03.31-10.42.20:281][488]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Enemy_BP358F6FBA43C28DE1D3248CAC7E6EC2FF.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Blueprints/Enemy_BP.uasset'
+[2022.03.31-10.42.20:293][488]AssetCheck: New page: Asset Save: Enemy_BP
+[2022.03.31-10.42.20:293][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Enemy_BP.Enemy_BP
+[2022.03.31-10.42.22:406][672]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-10.42.22:406][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.42.24:484][865]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.31-10.42.24:489][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.31-10.42.24:489][865]PIE: New page: PIE session: Gameplay (31 mar. 2022 14:42:24)
+[2022.03.31-10.42.24:515][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2022.03.31-10.42.24:518][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002797s)
+[2022.03.31-10.42.24:519][865]LogAIModule: Creating AISystem for world Gameplay
+[2022.03.31-10.42.24:519][865]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2022.03.31-10.42.24:519][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.004207s)
+[2022.03.31-10.42.24:563][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.31-10.42.24:565][865]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.31-10.42.24:565][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.31-10.42.24:565][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.31-10.42.24:566][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.31-10.42.24:566][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.31-10.42.24:566][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.31-10.42.24:566][865]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.31-10.42.24:569][865]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.31-10.42.24:569][865]LogAudioMixer: Display: 1: FrontRight
+[2022.03.31-10.42.24:578][865]LogAudioMixer: Display: Using Audio Device 27B1 (NVIDIA High Definition Audio)
+[2022.03.31-10.42.24:578][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.31-10.42.24:578][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.31-10.42.24:578][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.31-10.42.24:579][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.31-10.42.24:579][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.31-10.42.24:579][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.31-10.42.24:580][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.31-10.42.24:580][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.31-10.42.24:580][865]LogInit: FAudioDevice initialized.
+[2022.03.31-10.42.24:580][865]LogAudio: Display: Audio Device (ID: 7) registered with world 'Gameplay'.
+[2022.03.31-10.42.24:591][865]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.03.31-10.42.24:592][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2022.03.31-12.42.24
+[2022.03.31-10.42.24:593][865]LogWorld: Bringing up level for play took: 0.001342
+[2022.03.31-10.42.24:593][865]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.31-10.42.24:595][865]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.31-10.42.24:595][865]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.31-10.42.24:595][865]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.31-10.42.24:596][865]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.31-10.42.24:596][865]PIE: Server logged in
+[2022.03.31-10.42.24:598][865]PIE: Play in editor total start time 0,109 seconds.
+[2022.03.31-10.42.30:386][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-10.42.30:386][553]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2022.03.31-10.42.30:387][553]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-10.42.30:387][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.42.30:396][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.31-10.42.30:438][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-10.42.30:478][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-10.42.30:478][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.31-10.42.30:479][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.31-10.42.30:485][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.31-10.42.30:528][554]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.31-10.43.01:070][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.03.31-10.43.01:081][478]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Gameplay_Auto149D473BF46091B8F8B1359A7DA664F66.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Autosaves/Game/Maps/Gameplay_Auto1.umap'
+[2022.03.31-10.43.01:082][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.060
+[2022.03.31-10.43.01:082][478]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2022.03.31-10.43.30:521][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.31-10.43.30:528][566]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Gameplay8B267B764FAAACA343A0CBB1FCF3E173.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Maps/Gameplay.umap'
+[2022.03.31-10.43.30:549][566]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Gameplay_BuiltData610019F6422105A17DDDC5B207782832.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Maps/Gameplay_BuiltData.uasset'
+[2022.03.31-10.43.30:561][566]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.31-10.43.30:561][566]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2022.03.31-10.43.30:561][566]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
