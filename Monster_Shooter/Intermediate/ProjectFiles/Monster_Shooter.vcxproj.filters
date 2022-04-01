@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Monster_Shooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{20C8962A-4D19-4C7F-9D0F-0CAF67D68C43}</UniqueIdentifier>
+      <UniqueIdentifier>{3C337740-015F-4C4E-ACC4-0CE81BFA0C93}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Monster_Shooter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{590651FE-92EB-454F-8BCB-61E6B882F267}</UniqueIdentifier>
+      <UniqueIdentifier>{D837BCF3-35A1-4287-890E-D02F80060BC2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Monster_Shooter">
-      <UniqueIdentifier>{B8BDDC13-5429-4BA9-80FA-CDAD26AC79BC}</UniqueIdentifier>
+      <UniqueIdentifier>{677B6E23-2DB5-4765-9204-BCA4B01F2E02}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Monster_Shooter\Door.cpp">
       <Filter>Source\Monster_Shooter</Filter>
@@ -50,6 +50,12 @@
     <ClInclude Include="..\..\Source\Monster_Shooter\MonsterShooterCharacter.h">
       <Filter>Source\Monster_Shooter</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Monster_Shooter\MonsterShooter_GameInstance.cpp">
+      <Filter>Source\Monster_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Monster_Shooter\MonsterShooter_GameInstance.h">
+      <Filter>Source\Monster_Shooter</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Monster_Shooter\MonsterShooter_GameMode.cpp">
       <Filter>Source\Monster_Shooter</Filter>
     </ClCompile>
@@ -63,30 +69,6 @@
       <Filter>Source\Monster_Shooter</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Monster_Shooter\Monster_Shooter.h">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Monster_Shooter\Monster_ShooterCharacter.cpp">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Monster_Shooter\Monster_ShooterCharacter.h">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Monster_Shooter\Monster_ShooterGameMode.cpp">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Monster_Shooter\Monster_ShooterGameMode.h">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Monster_Shooter\Monster_ShooterHUD.cpp">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Monster_Shooter\Monster_ShooterHUD.h">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\Monster_Shooter\Monster_ShooterProjectile.cpp">
-      <Filter>Source\Monster_Shooter</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\Monster_Shooter\Monster_ShooterProjectile.h">
       <Filter>Source\Monster_Shooter</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Monster_Shooter\Projectile.cpp">

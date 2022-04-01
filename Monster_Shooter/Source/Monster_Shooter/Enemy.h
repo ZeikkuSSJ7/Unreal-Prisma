@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "MonsterShooter_GameInstance.h"
+#include "MonsterShooter_GameMode.h"
 #include "Components/BoxComponent.h"
 #include "GameFramework/Character.h"
 #include "Perception/AIPerceptionComponent.h"
@@ -28,6 +30,8 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	UMonsterShooter_GameInstance* myGameInstance;
 
 	UPROPERTY(EditAnywhere)
 		UBoxComponent* damageCollision;
@@ -64,7 +68,7 @@ public:
 	float distanceSquared;
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly)
-	float health = 1000;
+	float health = 500;
 
 	UPROPERTY(EditAnywhere)
 	float damagevalue = 5;

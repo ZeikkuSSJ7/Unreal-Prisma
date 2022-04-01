@@ -4,6 +4,7 @@
 #include "Enemy.h"
 
 #include "MonsterShooterCharacter.h"
+#include "MonsterShooter_GameInstance.h"
 #include "Perception/AIPerceptionComponent.h"
 #include "Perception/AISenseConfig_Sight.h"
 
@@ -12,6 +13,7 @@ AEnemy::AEnemy()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = true;
+
 
 	damageCollision = CreateDefaultSubobject<UBoxComponent>(TEXT("Damage Collision"));
 	damageCollision->SetupAttachment(RootComponent);
@@ -44,6 +46,8 @@ void AEnemy::BeginPlay()
 
 	damageCollision->OnComponentBeginOverlap.AddDynamic(this, &AEnemy::OnHit);
 
+	myGameInstance = Cast<UMonsterShooter_GameInstance>(GetGameInstance());
+	
 	baseLocation = this->GetActorLocation();
 	
 }
@@ -91,6 +95,17 @@ void AEnemy::OnHit(UPrimitiveComponent* HitComponent, AActor* OtherActor, UPrimi
 	if (character)
 	{
 		character->DealDamage(damagevalue);
+		return;
+	}
+	for (FName adae	 : OtherActor->Tags)
+	{
+		FString temp = adae.ToString();
+		UE_LOG(LogTemp, Warning, TEXT("%s"), *temp);
+	}
+	if (OtherActor->ActorHasTag("Fin"))
+	{
+		myGameInstance->enemyFallen++;
+		Destroy();
 	}
 }
 
@@ -149,6 +164,7 @@ void AEnemy::DealDamage(float DamageAmount)
 
 	if (health <= 0.0f)
 	{
+		myGameInstance->enemyCount++;
 		Destroy();
 	}
 	

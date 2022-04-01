@@ -1,0 +1,1323 @@
+﻿Log file open, 04/01/22 11:27:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Monster_Shooter
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211940
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/Maps/Gameplay -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:736][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.01-09.27.59:736][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:736][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:755][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.01-09.27.59:755][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.01-09.27.59:756][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.01-09.27.59:756][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.01-09.27.59:756][  0]LogHAL: Display: Platform has ~ 16 GB [16842637312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.01-09.27.59:756][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.01-09.27.59:756][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Scalability.ini]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Engine.ini]
+[2022.04.01-09.27.59:757][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Config/Windows/Editor.ini]
+[2022.04.01-09.27.59:757][  0]LogInit: Computer: DESKTOP-QU0IU8S
+[2022.04.01-09.27.59:757][  0]LogInit: User: Administrador
+[2022.04.01-09.27.59:757][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.01-09.27.59:757][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.01-09.27.59:758][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.04.01-09.27.59:758][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.01-09.27.59:758][  0]LogMemory: Process Physical Memory: 145.42 MB used, 145.43 MB peak
+[2022.04.01-09.27.59:758][  0]LogMemory: Process Virtual Memory: 126.00 MB used, 126.00 MB peak
+[2022.04.01-09.27.59:758][  0]LogMemory: Physical Memory: 10532.32 MB used,  5530.07 MB free, 16062.39 MB total
+[2022.04.01-09.27.59:758][  0]LogMemory: Virtual Memory: 134213944.00 MB used,  3784.55 MB free, 134217728.00 MB total
+[2022.04.01-09.27.59:761][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.01-09.27.59:790][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.01-09.27.59:791][  0]LogInit: Using OS detected language (es-ES).
+[2022.04.01-09.27.59:791][  0]LogInit: Using OS detected locale (es-ES).
+[2022.04.01-09.27.59:792][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2022.04.01-09.27.59:827][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.01-09.27.59:859][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.01-09.27.59:859][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.01-09.27.59:881][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.01-09.27.59:884][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.01-09.27.59:884][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.01-09.27.59:884][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.01-09.27.59:884][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.01-09.27.59:971][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2022.04.01-09.27.59:971][  0]LogD3D11RHI:       8010/0/8031 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:       0/0/8031 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     DeviceId    : 1e82
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     SubSysId    : 37221462
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     SharedSystemMemory : 8421318656 bytes
+[2022.04.01-09.27.59:973][  0]LogD3D11RHI:     AdapterLuid : 0 51222
+[2022.04.01-09.27.59:977][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.01-09.27.59:977][  0]LogD3D11RHI:     GPU DeviceId: 0x1e82 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.01-09.27.59:977][  0]LogWindows: EnumDisplayDevices:
+[2022.04.01-09.27.59:977][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2022.04.01-09.27.59:978][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2022.04.01-09.27.59:978][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2022.04.01-09.27.59:978][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2022.04.01-09.27.59:978][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.04.01-09.27.59:978][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     DeviceId    : 1e82
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     SubSysId    : 37221462
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     SharedSystemMemory : 8421318656 bytes
+[2022.04.01-09.27.59:978][  0]LogD3D11RHI:     AdapterLuid : 0 51222
+[2022.04.01-09.28.00:030][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.01-09.28.00:030][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.01-09.28.00:030][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.01-09.28.00:043][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.01-09.28.00:075][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.01-09.28.00:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.01-09.28.00:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.01-09.28.00:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.01-09.28.00:316][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.01-09.28.00:316][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.01-09.28.00:321][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.01-09.28.00:341][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.01-09.28.00:364][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.01-09.28.00:364][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Intermediate/Shaders/WorkingDirectory/8120/).
+[2022.04.01-09.28.00:364][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrador/AppData/Local/Temp/UnrealShaderWorkingDir/02643975412D668D3A446EA3E9FBE0E2/'.
+[2022.04.01-09.28.00:364][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.01-09.28.00:364][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.01-09.28.00:364][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.01-09.28.01:061][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.01-09.28.01:121][  0]LogDerivedDataCache: Loaded boot cache 0.06s 99MB C:/Users/Administrador/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.01-09.28.01:121][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrador/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.01-09.28.01:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.01-09.28.01:121][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.01-09.28.01:121][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.01-09.28.01:121][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.01-09.28.01:136][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.01-09.28.01:137][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.01-09.28.01:137][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.01-09.28.01:148][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrador/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.01-09.28.01:148][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrador/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1918.07MBs, RandomWriteSpeed=85.41MBs. Assigned SpeedClass 'Local'
+[2022.04.01-09.28.01:150][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrador/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.01-09.28.01:150][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.01-09.28.01:150][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.01-09.28.01:183][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.01-09.28.01:183][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.01-09.28.01:247][  0]LogInit: Using OS detected language (es-ES).
+[2022.04.01-09.28.01:247][  0]LogInit: Using OS detected locale (es-ES).
+[2022.04.01-09.28.01:247][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the language.
+[2022.04.01-09.28.01:247][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the locale.
+[2022.04.01-09.28.01:247][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.04.01-09.28.01:247][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.04.01-09.28.01:251][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.04.01-09.28.01:410][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2022.04.01-09.28.01:410][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.000783 seconds
+[2022.04.01-09.28.01:465][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.01-09.28.01:465][  0]LogInit: Active device profile: [0000022138B37700][000002212E09D140 49] Windows
+[2022.04.01-09.28.01:465][  0]LogInit: Profiles: [0000022138B37700][000002212E09D140 49] Windows, [0000022138B50A00][000002212E0A5400 49] WindowsNoEditor, [0000022138B34A00][000002212E0A96C0 49] WindowsServer, [0000022138B53100][000002212E0A1940 49] WindowsClient, [0000022138B37000][000002212E0ADBC0 49] IOS, [0000022138B51200][000002212E0B4300 49] iPadAir, [0000022138B35100][000002212E0B85C0 49] iPadAir2, [0000022138B04300][00000221220FCB00 49] IPadPro, [0000022138AF7F00][000002212E0BCB40 49] iPadAir3, [0000022138B36E00][00000221220F4E00 49] iPadAir4, [0000022138AF5000][00000221220F10C0 49] iPadMini2, [0000022138B35300][00000221220F9380 49] iPadMini3, [0000022138AF6C00][0000022122101640 49] iPadMini4, [0000022138B36700][0000022122105900 49] iPadMini5, [0000022138B52B00][0000022122114240 49] iPhone6, [0000022138B52C00][000002212E0B0280 49] iPodTouch6, [0000022138AF5200][00000221221207C0 49] iPhone7, [0000022138AF5300][0000022122110800 49] iPodTouch7, [0000022138B52200][0000022122118AC0 49] iPhone5S, [0000022138AF7000][000002212210CD80 49] iPhone6Plus, [0000022138B50300][000002212211D040 49] iPhone6S, [0000022138AF7400][0000022122125300 49] iPhone6SPlus, [0000022138B51100][00000221221295C0 49] iPhone7Plus, [0000022138AF7E00][000002212212D880 49] iPhoneSE, [0000022138B51400][0000022122131B40 49] iPhone8, [0000022138AF7A00][0000022122108240 49] iPhone8Plus, [0000022138B52700][00000221221344C0 49] iPhoneX, [0000022138AF6100][000002212213C780 49] iPhoneXS, [0000022138B52F00][0000022122140A40 49] iPhoneXSMax, [0000022138AF7300][0000022122144D00 49] iPhoneXR, [0000022138B53000][0000022122148FC0 49] iPhone11, [0000022138AF4C00][000002212214D280 49] iPhone11Pro, [0000022138B51E00][0000022122151540 49] iPhone11ProMax, [0000022138AF6600][0000022122155800 49] iPhoneSE2, [0000022138B52900][0000022122159AC0 49] iPhone12Mini, [0000022138AF5400][000002212215C200 49] iPhone12, [0000022138B51D00][0000022122138480 49] iPhone12Pro, [0000022138AF5900][0000022122160700 49] iPhone12ProMax, [0000022138B52100][00000221221689C0 49] iPadPro105, [0000022138AF4700][000002212216CC80 49] iPadPro129, [0000022138B53B00][0000022122170F40 49] iPadPro97, [0000022138AF7800][0000022122175200 49] iPadPro2_129, [0000022138B51C00][00000221221794C0 49] iPad5, [0000022138AF5500][000002212217D780 49] iPad6, [0000022138B52D00][0000022122181A40 49] iPad7, [0000022138AF6A00][0000022122184180 49] iPad8, [0000022138B51700][0000022122188440 49] iPadPro11, [0000022138AF4200][00000221221646C0 49] iPadPro2_11, [0000022138B53900][000002212218C940 49] iPadPro3_129, [0000022138AF6700][0000022122194C00 49] iPadPro4_129, [0000022138B50F00][0000022122198EC0 49] AppleTV, [0000022138AF6400][000002212219D180 49] AppleTV4K, [0000022138B50600][00000221221A1440 49] TVOS, [0000022138AF5D00][00000221221A5700 49] Mac, [0000022138B50800][00000221221A99C0 49] MacClient, [0000022138AF4A00][00000221221AC100 49] MacNoEditor, [0000022138B52400][00000221221B03C0 49] MacServer, [0000022138AF7100][00000221221B4680 49] Linux, [0000022138B52000][0000022122190900 49] LinuxAArch64, [0000022138BC6100][00000221221B8B80 49] LinuxNoEditor, [0000022138B07600][00000221221C0E40 49] LinuxAArch64NoEditor, [0000022138BC6400][00000221221C5100 49] LinuxClient, [0000022138B04500][00000221221C93C0 49] LinuxAArch64Client, [0000022138BC4800][00000221221CD680 49] LinuxServer, [0000022138B05400][00000221221D1940 49] LinuxAArch64Server, [0000022138BC5800][00000221221D5C00 49] Android, [0000022138B07300][000002213128E340 49] Android_Low, [0000022138BC6200][0000022131292600 49] Android_Mid, [0000022138B06400][00000221312968C0 49] Android_High, [0000022138BC5700][00000221221BCB40 49] Android_Default, [0000022138B05C00][000002213129ADC0 49] Android_Adreno4xx, [0000022138BC5100][00000221312A3080 49] Android_Adreno5xx_Low, [0000022138B06300][00000221312A7340 49] Android_Adreno5xx, [0000022138BC6300][00000221312AB600 49] Android_Adreno6xx, [0000022138B04900][00000221312AF8C0 49] Android_Adreno6xx_Vulkan, [0000022138BC4B00][00000221312B3B80 49] Android_Mali_T6xx, [0000022138B05F00][00000221312B62C0 49] Android_Mali_T7xx, [0000022138BC4900][00000221312BA580 49] Android_Mali_T8xx, [0000022138B05200][00000221312BE840 49] Android_Mali_G71, [0000022138BC4300][00000221312C2B00 49] Android_Mali_G72, [0000022138B06A00][000002213129ED80 49] Android_Mali_G72_Vulkan, [0000022138BC4A00][00000221312CB040 49] Android_Mali_G76, [0000022138B04200][00000221312CF300 49] Android_Mali_G76_Vulkan, [0000022138B51000][00000221312D35C0 49] Android_Mali_G77, [0000022138AF5A00][00000221312D7880 49] Android_Mali_G77_Vulkan, [0000022138B51600][00000221312DBB40 49] Android_Mali_G78, [0000022138AF6D00][00000221312DE280 49] Android_Mali_G78_Vulkan, [0000022138B50400][00000221312E2540 49] Android_Mali_G710, [0000022138AF7200][00000221312E6800 49] Android_Mali_G710_Vulkan, [0000022138B53300][00000221312EAAC0 49] Android_Vulkan_SM5, [0000022138AF7900][00000221312C6D40 49] Android_PowerVR_G6xxx, [0000022138B50700][00000221312EEFC0 49] Android_PowerVR_GT7xxx, [0000022138AF6800][00000221312F7280 49] Android_PowerVR_GE8xxx, [0000022138B51900][00000221312FB540 49] Android_PowerVR_GM9xxx, [0000022138AF7700][00000221312FF800 49] Android_PowerVR_GM9xxx_Vulkan, [0000022138B53D00][0000022131303AC0 49] Android_TegraK1, [0000022138BC5B00][0000022131306200 49] Android_Unknown_Vulkan, [0000022138B53C00][000002213130A4C0 49] Lumin, [0000022138BC5C00][000002213130E780 49] Lumin_Desktop, [0000022138B53500][0000022131312A40 49] HoloLens, 
+[2022.04.01-09.28.01:496][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.01-09.28.01:496][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.01-09.28.01:496][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.01-09.28.01:496][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.01-09.28.01:496][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.01-09.28.01:603][  0]LogNetVersion: Monster_Shooter 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3797625731)
+[2022.04.01-09.28.01:797][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.01-09.28.01:847][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.01-09.28.01:923][  0]LogMoviePlayer: Initializing movie player
+[2022.04.01-09.28.02:079][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.01-09.28.02:083][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.01-09.28.02:092][  0]LogPython: Using Python 3.7.7
+[2022.04.01-09.28.02:512][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 54273A7B4A443EB3E60B618A44ACCFEA | Instance: 84B6AE5F42194409E81186A6CE88AB16 (DESKTOP-QU0IU8S-8120).
+[2022.04.01-09.28.02:530][  0]LogCollectionManager: Loaded 0 collections in 0.001775 seconds
+[2022.04.01-09.28.02:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Saved/Collections/' took 0.00s
+[2022.04.01-09.28.02:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Developers/Administrador/Collections/' took 0.00s
+[2022.04.01-09.28.02:533][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/Monster_Shooter/Content/Collections/' took 0.00s
+[2022.04.01-09.28.02:533][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.04.01-09.28.02:747][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.01-09.28.02:752][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.01-09.28.02:767][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.01-09.28.02:767][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.01-09.28.02:818][  0]SourceControl: Source control is disabled
+[2022.04.01-09.28.02:818][  0]SourceControl: Source control is disabled
+[2022.04.01-09.28.02:820][  0]SourceControl: Source control is disabled
+[2022.04.01-09.28.02:824][  0]LogUProjectInfo: Found projects:
+[2022.04.01-09.28.02:868][  0]LogOcInput: OculusInput pre-init called
+[2022.04.01-09.28.02:877][  0]LogUObjectArray: 23190 objects as part of root set at end of initial load.
+[2022.04.01-09.28.02:877][  0]LogUObjectAllocator: 6505184 out of 0 bytes used by permanent object pool.
+[2022.04.01-09.28.02:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.01-09.28.02:921][  0]LogEngine: Initializing Engine...
+[2022.04.01-09.28.02:923][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.04.01-09.28.02:923][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.01-09.28.02:923][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.01-09.28.02:924][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.01-09.28.03:011][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.01-09.28.03:011][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.01-09.28.03:014][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.01-09.28.03:015][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.01-09.28.03:016][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.01-09.28.03:016][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.01-09.28.03:016][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.01-09.28.03:016][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.01-09.28.03:017][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.01-09.28.03:017][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.01-09.28.03:017][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.01-09.28.03:017][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.01-09.28.03:026][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.01-09.28.03:026][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.01-09.28.03:039][  0]LogAudioMixer: Display: Using Audio Device 27B1 (NVIDIA High Definition Audio)
+[2022.04.01-09.28.03:045][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.01-09.28.03:046][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.01-09.28.03:046][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.01-09.28.03:047][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.01-09.28.03:047][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.01-09.28.03:047][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.01-09.28.03:048][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.01-09.28.03:048][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.01-09.28.03:048][  0]LogInit: FAudioDevice initialized.
+[2022.04.01-09.28.03:049][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.01-09.28.03:050][  0]LogInit: Texture streaming: Enabled
+[2022.04.01-09.28.03:106][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.01-09.28.03:106][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-09.28.03:106][  0]LogInit: Display: Game Engine Initialized.
+[2022.04.01-09.28.03:106][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.04.01-09.28.03:197][  0]LogInit: Display: Starting Game.
+[2022.04.01-09.28.03:197][  0]LogNet: Browse: /Game/Maps/Gameplay?Name=Player
+[2022.04.01-09.28.03:197][  0]LogLoad: LoadMap: /Game/Maps/Gameplay?Name=Player
+[2022.04.01-09.28.03:197][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.04.01-09.28.03:198][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.28.03:198][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.28.03:202][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.28.03:204][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.01-09.28.03:319][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.28.03:325][  0]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.28.03:338][  0]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.28.03:397][  0]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.28.03
+[2022.04.01-09.28.03:410][  0]LogWorld: Bringing up level for play took: 0.070426
+[2022.04.01-09.28.03:411][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.03:411][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.03:411][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.03:435][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.03:436][  0]LogLoad: Took 0.238144 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.28.03:525][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.01-09.28.03:568][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.04.01-09.28.03:568][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.01-09.28.03:569][  0]LogLoad: (Engine Initialization) Total time: 4.57 seconds
+[2022.04.01-09.28.03:569][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.01-09.28.03:585][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.01-09.28.03:588][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.28.03:741][  1]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.01-09.28.19:596][442]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.28.19:596][442]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.28.19:597][442]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.28.19:597][442]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.28.19:597][442]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.28.19:597][442]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.28.19:597][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.28.19:628][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.28.19:649][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.04.01-09.28.19:757][442]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.28.19:758][442]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.28.19:772][442]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.28.19:828][442]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.28.19
+[2022.04.01-09.28.19:840][442]LogWorld: Bringing up level for play took: 0.067757
+[2022.04.01-09.28.19:841][442]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.19:841][442]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.19:841][442]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.19:863][442]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.19:864][442]LogLoad: Took 0.267737 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.28.20:178][445]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099460 > MaxSimulationTimeStep (0.050) for 'Enemy_BP14', movement 'Falling'
+[2022.04.01-09.28.20:243][446]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064487 > MaxSimulationTimeStep (0.050) for 'Enemy_BP14', movement 'Falling'
+[2022.04.01-09.28.20:307][447]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.060802 > MaxSimulationTimeStep (0.050) for 'Enemy_BP14', movement 'Falling'
+[2022.04.01-09.28.32:505][336]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.28.32:505][336]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.28.32:505][336]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.28.32:505][336]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.28.32:505][336]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.28.32:506][336]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.28.32:506][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.28.32:545][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.28.32:559][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.01-09.28.32:671][336]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.28.32:672][336]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.28.32:686][336]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.28.32:739][336]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.28.32
+[2022.04.01-09.28.32:751][336]LogWorld: Bringing up level for play took: 0.064807
+[2022.04.01-09.28.32:752][336]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.32:752][336]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.32:752][336]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.32:774][336]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.32:775][336]LogLoad: Took 0.270109 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.28.44:414][582]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.28.44:415][582]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.28.44:415][582]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.28.44:415][582]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.28.44:415][582]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.28.44:415][582]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.28.44:416][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.28.44:453][582]LogAudio: Display: Waited 35.806702 ms for audio thread.
+[2022.04.01-09.28.44:454][582]LogAudio: Display: Waited 37.131298 ms for audio thread.
+[2022.04.01-09.28.44:465][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.28.44:477][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.04.01-09.28.44:588][582]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.28.44:588][582]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.28.44:602][582]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.28.44:654][582]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.28.44
+[2022.04.01-09.28.44:667][582]LogWorld: Bringing up level for play took: 0.064642
+[2022.04.01-09.28.44:668][582]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.44:668][582]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.28.44:668][582]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.44:691][582]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.28.44:691][582]LogLoad: Took 0.276704 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.29.05:675][459]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.29.05:675][459]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.29.05:675][459]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.29.05:675][459]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.29.05:675][459]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.29.05:676][459]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.29.05:677][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.29.05:710][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.29.05:715][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.01-09.29.05:822][459]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.29.05:823][459]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.29.05:837][459]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.29.05:892][459]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.29.05
+[2022.04.01-09.29.05:905][459]LogWorld: Bringing up level for play took: 0.066429
+[2022.04.01-09.29.05:905][459]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.29.05:906][459]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.29.05:906][459]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.29.05:929][459]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.29.05:929][459]LogLoad: Took 0.253728 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.29.28:231][652]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.29.28:231][652]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.29.28:231][652]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.29.28:231][652]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.29.28:231][652]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.29.28:231][652]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.29.28:232][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.29.28:269][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.29.28:286][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.01-09.29.28:392][652]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.29.28:393][652]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.29.28:406][652]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.29.28:460][652]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.29.28
+[2022.04.01-09.29.28:472][652]LogWorld: Bringing up level for play took: 0.065132
+[2022.04.01-09.29.28:473][652]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.29.28:473][652]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.29.28:473][652]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.29.28:496][652]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.29.28:497][652]LogLoad: Took 0.266082 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.29.28:593][653]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064658 > MaxSimulationTimeStep (0.050) for 'Enemy_BP37', movement 'Falling'
+[2022.04.01-09.29.28:593][653]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.050373 > MaxSimulationTimeStep (0.050) for 'Enemy_BP37', movement 'Falling'
+[2022.04.01-09.29.47:007][831]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.29.47:007][831]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.29.47:007][831]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.29.47:007][831]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.29.47:007][831]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.29.47:008][831]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.29.47:008][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.29.47:045][831]LogAudio: Display: Waited 35.823101 ms for audio thread.
+[2022.04.01-09.29.47:060][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.29.47:075][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.04.01-09.29.47:187][831]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.29.47:187][831]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.29.47:201][831]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.29.47:255][831]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.29.47
+[2022.04.01-09.29.47:267][831]LogWorld: Bringing up level for play took: 0.066665
+[2022.04.01-09.29.47:268][831]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.29.47:268][831]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.29.47:268][831]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.29.47:292][831]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.29.47:293][831]LogLoad: Took 0.286185 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.30.02:051][980]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.02:051][980]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.02:051][980]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.30.02:051][980]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.30.02:052][980]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.30.02:052][980]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.30.02:053][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.30.02:095][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.30.02:112][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.04.01-09.30.02:221][980]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.30.02:222][980]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.30.02:236][980]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.30.02:292][980]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.30.02
+[2022.04.01-09.30.02:304][980]LogWorld: Bringing up level for play took: 0.067380
+[2022.04.01-09.30.02:305][980]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.02:305][980]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.02:305][980]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.02:330][980]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.02:330][980]LogLoad: Took 0.278846 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.30.04:407][ 73]LogCharacterMovement: Enemy_BP97 is stuck and failed to move! Velocity: X=-12.72 Y=-27.34 Z=0.00 Location: X=-366.71 Y=-116.92 Z=110.15 Normal: X=-0.42 Y=0.91 Z=0.00 PenetrationDepth:0.986 Actor:Enemy_BP49 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.04.01-09.30.11:794][835]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.11:794][835]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.11:794][835]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.30.11:794][835]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.30.11:794][835]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.30.11:795][835]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.30.11:795][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.30.11:835][835]LogAudio: Display: Waited 39.510803 ms for audio thread.
+[2022.04.01-09.30.11:841][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.30.11:848][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.01-09.30.11:953][835]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.30.11:954][835]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.30.11:967][835]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.30.12:021][835]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.30.12
+[2022.04.01-09.30.12:033][835]LogWorld: Bringing up level for play took: 0.064998
+[2022.04.01-09.30.12:033][835]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.12:033][835]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.12:033][835]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.12:058][835]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.12:058][835]LogLoad: Took 0.263369 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.30.12:375][838]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.071291 > MaxSimulationTimeStep (0.050) for 'Enemy_BP87', movement 'Falling'
+[2022.04.01-09.30.22:015][910]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.22:015][910]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.22:016][910]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.30.22:016][910]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.30.22:016][910]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.30.22:016][910]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.30.22:016][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.30.22:053][910]LogAudio: Display: Waited 35.288300 ms for audio thread.
+[2022.04.01-09.30.22:055][910]LogAudio: Display: Waited 38.168503 ms for audio thread.
+[2022.04.01-09.30.22:061][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.30.22:078][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.01-09.30.22:191][910]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.30.22:192][910]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.30.22:206][910]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.30.22:259][910]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.30.22
+[2022.04.01-09.30.22:271][910]LogWorld: Bringing up level for play took: 0.065320
+[2022.04.01-09.30.22:272][910]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.22:272][910]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.22:272][910]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.22:295][910]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.22:296][910]LogLoad: Took 0.280519 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.30.34:669][ 41]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.34:669][ 41]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.34:669][ 41]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.30.34:669][ 41]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.30.34:669][ 41]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.30.34:670][ 41]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.30.34:671][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.30.34:715][ 41]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.30.34:731][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.01-09.30.34:842][ 41]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.30.34:842][ 41]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.30.34:856][ 41]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.30.34:911][ 41]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.30.34
+[2022.04.01-09.30.34:923][ 41]LogWorld: Bringing up level for play took: 0.065679
+[2022.04.01-09.30.34:923][ 41]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.34:923][ 41]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.34:923][ 41]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.34:947][ 41]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.34:947][ 41]LogLoad: Took 0.278414 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.30.45:880][674]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.45:880][674]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.30.45:880][674]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.30.45:880][674]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.30.45:880][674]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.30.45:881][674]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.30.45:881][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.30.45:917][674]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.30.45:930][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.01-09.30.46:037][674]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.30.46:038][674]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.30.46:051][674]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.30.46:104][674]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.30.46
+[2022.04.01-09.30.46:116][674]LogWorld: Bringing up level for play took: 0.063884
+[2022.04.01-09.30.46:117][674]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.46:117][674]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.30.46:117][674]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.46:141][674]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.30.46:141][674]LogLoad: Took 0.261527 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.31.03:620][289]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.31.03:620][289]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.31.03:620][289]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.31.03:620][289]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.31.03:620][289]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.31.03:621][289]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.31.03:622][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.31.03:668][289]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.31.03:683][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.01-09.31.03:793][289]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.31.03:794][289]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.31.03:808][289]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.31.03:862][289]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.31.03
+[2022.04.01-09.31.03:874][289]LogWorld: Bringing up level for play took: 0.064932
+[2022.04.01-09.31.03:874][289]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.31.03:875][289]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.31.03:875][289]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.31.03:898][289]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.31.03:899][289]LogLoad: Took 0.278546 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.31.04:075][290]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.227386 > MaxSimulationTimeStep (0.050) for 'Enemy_BP108', movement 'Falling'
+[2022.04.01-09.31.04:075][290]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.227386 > MaxSimulationTimeStep (0.050) for 'Enemy_BP108', movement 'Falling'
+[2022.04.01-09.31.04:076][290]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.227386 > MaxSimulationTimeStep (0.050) for 'Enemy_BP108', movement 'Falling'
+[2022.04.01-09.31.05:393][313]LogCharacterMovement: Enemy_BP98 is stuck and failed to move! Velocity: X=11.25 Y=74.41 Z=0.00 Location: X=-110.82 Y=408.27 Z=81.11 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:26.895 Actor:Floor Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2022.04.01-09.31.05:394][313]LogCharacterMovement: Enemy_BP107 is stuck and failed to move! Velocity: X=-20.09 Y=-45.18 Z=0.00 Location: X=87.35 Y=244.13 Z=81.05 Normal: X=0.31 Y=0.69 Z=-0.65 PenetrationDepth:11.150 Actor:Enemy_BP109 Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2022.04.01-09.32.08:460][ 33]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.08:460][ 33]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.08:460][ 33]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.32.08:460][ 33]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.32.08:460][ 33]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.32.08:461][ 33]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.32.08:462][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.32.08:491][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.32.08:496][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.01-09.32.08:604][ 33]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.32.08:605][ 33]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.32.08:619][ 33]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.32.08:674][ 33]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.32.08
+[2022.04.01-09.32.08:686][ 33]LogWorld: Bringing up level for play took: 0.066205
+[2022.04.01-09.32.08:686][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.08:686][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.08:686][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.08:710][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.08:711][ 33]LogLoad: Took 0.250349 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.32.24:502][508]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.24:502][508]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.24:503][508]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.32.24:503][508]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.32.24:503][508]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.32.24:503][508]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.32.24:503][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.32.24:544][508]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.32.24:563][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.01-09.32.24:673][508]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.32.24:674][508]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.32.24:688][508]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.32.24:742][508]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.32.24
+[2022.04.01-09.32.24:755][508]LogWorld: Bringing up level for play took: 0.066737
+[2022.04.01-09.32.24:756][508]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.24:756][508]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.24:756][508]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.24:780][508]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.24:780][508]LogLoad: Took 0.277457 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.32.34:441][110]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.34:441][110]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.34:441][110]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.32.34:441][110]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.32.34:441][110]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.32.34:442][110]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.32.34:442][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.32.34:487][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.32.34:502][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.01-09.32.34:611][110]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.32.34:612][110]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.32.34:626][110]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.32.34:682][110]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.32.34
+[2022.04.01-09.32.34:695][110]LogWorld: Bringing up level for play took: 0.068918
+[2022.04.01-09.32.34:696][110]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.34:696][110]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.34:696][110]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.34:721][110]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.34:721][110]LogLoad: Took 0.280086 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.32.44:124][938]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.44:124][938]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.04.01-09.32.44:124][938]LogNet: Browse: /Game/Maps/Gameplay
+[2022.04.01-09.32.44:125][938]LogLoad: LoadMap: /Game/Maps/Gameplay
+[2022.04.01-09.32.44:125][938]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.32.44:125][938]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.32.44:125][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.32.44:165][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.01-09.32.44:180][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.01-09.32.44:289][938]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2022.04.01-09.32.44:290][938]LogAIModule: Creating AISystem for world Gameplay
+[2022.04.01-09.32.44:303][938]LogLoad: Game class is 'MonsterShooter_GameMode_BP_C'
+[2022.04.01-09.32.44:357][938]LogWorld: Bringing World /Game/Maps/Gameplay.Gameplay up for play (max tick rate 0) at 2022.04.01-11.32.44
+[2022.04.01-09.32.44:370][938]LogWorld: Bringing up level for play took: 0.065163
+[2022.04.01-09.32.44:370][938]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.44:371][938]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.04.01-09.32.44:371][938]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.44:394][938]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.04.01-09.32.44:395][938]LogLoad: Took 0.269992 seconds to LoadMap(/Game/Maps/Gameplay)
+[2022.04.01-09.33.01:464][274]LogWindowsDesktop: Alt-F4 pressed!
+[2022.04.01-09.33.01:471][274]LogSlate: Window 'Monster_Shooter (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.04.01-09.33.01:472][274]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.01-09.33.01:475][274]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.01-09.33.01:476][274]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-09.33.01:476][274]LogEngine: All Windows Closed
+[2022.04.01-09.33.01:476][274]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.04.01-09.33.01:476][274]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.04.01-09.33.01:476][274]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.04.01-09.33.01:476][275]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.04.01-09.33.01:476][275]LogInit: Display: PreExit Game.
+[2022.04.01-09.33.01:485][275]LogWorld: BeginTearingDown for /Game/Maps/Gameplay
+[2022.04.01-09.33.01:486][275]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2022.04.01-09.33.01:487][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.01-09.33.02:079][275]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.04.01-09.33.02:079][275]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.04.01-09.33.02:079][275]LogAudio: Display: Audio Device unregistered from world 'Gameplay'.
+[2022.04.01-09.33.02:127][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-09.33.02:128][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.01-09.33.02:132][275]LogAudio: Display: Audio Device Manager Shutdown
+[2022.04.01-09.33.02:135][275]LogExit: Preparing to exit.
+[2022.04.01-09.33.02:140][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.01-09.33.02:159][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.01-09.33.02:231][275]LogMoviePlayer: Shutting down movie player
+[2022.04.01-09.33.02:364][275]LogExit: Game engine shut down
+[2022.04.01-09.33.02:365][275]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.04.01-09.33.02:410][275]LogExit: Object subsystem successfully closed.
+[2022.04.01-09.33.02:422][275]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.01-09.33.02:422][275]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.04.01-09.33.02:422][275]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.04.01-09.33.02:422][275]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.04.01-09.33.02:422][275]LogShaderCompilers: Display: ================================================
+[2022.04.01-09.33.02:428][275]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (562)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module SequenceRecorder (560)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AutomationController (558)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AutomationWorker (556)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module Voice (554)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AIModule (552)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module GameplayDebugger (551)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AITestSuite (549)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module NavigationSystem (547)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module SteamVREditor (544)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module ToolMenus (543)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module OculusMR (540)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (538)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module TakeRecorder (537)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (534)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module TakesCore (532)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module OpenXRInput (530)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module PlanarCut (528)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module CharacterAI (526)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (522)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module WebMMedia (520)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (514)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (512)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (510)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module SessionServices (508)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (506)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module LiveCoding (504)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module LevelSequence (502)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (500)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module MovieScene (498)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (496)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module PortalServices (494)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module PortalRpc (492)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module MessagingRpc (490)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (488)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module AudioMixerCore (487)
+[2022.04.01-09.33.02:439][275]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (484)
+[2022.04.01-09.33.02:442][275]LogModuleManager: Shutting down and abandoning module ProfilerService (482)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module TaskGraph (480)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module OculusInput (478)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (476)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (474)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (472)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (470)
+[2022.04.01-09.33.02:667][275]LogModuleManager: Shutting down and abandoning module LiveLink (468)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (466)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module HotReload (465)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (458)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (456)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module SourceControl (455)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (452)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module TakeMovieScene (450)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module Synthesis (448)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (444)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GooglePAD (442)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module EditableMesh (440)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (438)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module CableComponent (436)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AudioCapture (434)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (433)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (430)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AppleImageUtils (428)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AssetTags (426)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (424)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AndroidPermission (422)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (420)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module TemplateSequence (418)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (416)
+[2022.04.01-09.33.02:993][275]LogOpenImageDenoise: OIDN shutting down
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MotoSynth (414)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MeshConversion (412)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module DynamicMesh (410)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (408)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometricObjects (406)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (404)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (403)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (400)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (399)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryCache (396)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (395)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module ChaosNiagara (392)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (391)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module BackChannel (388)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AutomationUtils (386)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MediaCompositing (384)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module ImgMedia (382)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (380)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (378)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (376)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (374)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (372)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (370)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module Monster_Shooter (368)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module AnimGraph (367)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (364)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (362)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module SignalProcessing (359)
+[2022.04.01-09.33.02:993][275]LogModuleManager: Shutting down and abandoning module NiagaraEditor (357)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module ContentBrowser (356)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module CollectionManager (355)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (354)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module ContentBrowserData (351)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module SoundFields (344)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module SignificanceManager (342)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (340)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (338)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (336)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (332)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (330)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (328)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (324)
+[2022.04.01-09.33.02:994][275]LogModuleManager: Shutting down and abandoning module UdpMessaging (322)
+[2022.04.01-09.33.03:095][275]LogModuleManager: Shutting down and abandoning module TcpMessaging (320)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (318)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (316)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (314)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (312)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (310)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (308)
+[2022.04.01-09.33.03:233][275]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (306)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (304)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (302)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (300)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapController (298)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (296)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module MagicLeapAR (294)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module AnimationSharing (292)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (290)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module FacialAnimation (288)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (286)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module TreeMap (285)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (282)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module GameplayCameras (280)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (278)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module Paper2D (276)
+[2022.04.01-09.33.03:233][275]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (274)
+[2022.04.01-09.33.03:234][275]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (272)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (270)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module PacketHandler (268)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module UMG (242)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module UMGEditor (241)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module Sequencer (240)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module MessageLog (237)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module SlateReflector (232)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module Slate (230)
+[2022.04.01-09.33.03:235][275]LogModuleManager: Shutting down and abandoning module SlateCore (228)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module Messaging (220)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module XAudio2 (214)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module Networking (212)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module Core (210)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module MaterialEditor (208)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module MovieSceneTools (206)
+[2022.04.01-09.33.03:236][275]LogModuleManager: Shutting down and abandoning module EditorStyle (205)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module KismetCompiler (202)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module MeshBuilder (200)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (178)
+[2022.04.01-09.33.03:237][275]LogModuleManager: Shutting down and abandoning module DerivedDataCache (176)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TargetPlatform (174)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (173)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (171)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (169)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (167)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (165)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (163)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (161)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (159)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (157)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (147)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (145)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (143)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (141)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (139)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (137)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (135)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module D3D11RHI (132)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2022.04.01-09.33.03:238][275]LogHMD: Freeing OpenVRDLLHandle.
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module VariantManagerContent (108)
+[2022.04.01-09.33.03:238][275]LogModuleManager: Shutting down and abandoning module DatasmithContent (106)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module PixWinPlugin (104)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (102)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module NiagaraShader (100)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (96)
+[2022.04.01-09.33.03:239][275]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (94)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module OpenXRAR (92)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module AugmentedReality (91)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module OpenXRHMD (88)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module ChunkDownloader (86)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2022.04.01-09.33.03:239][275]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2022.04.01-09.33.03:240][275]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2022.04.01-09.33.03:240][275]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2022.04.01-09.33.03:245][275]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2022.04.01-09.33.03:245][275]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.04.01-09.33.03:259][275]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2022.04.01-09.33.03:260][275]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2022.04.01-09.33.03:260][275]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module Media (61)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module MediaInfo (60)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (56)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module MLSDK (54)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module MagicLeap (52)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.04.01-09.33.03:261][275]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.01-09.33.03:262][275]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.01-09.33.03:262][275]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.04.01-09.33.03:272][275]LogD3D11RHI: Shutdown
+[2022.04.01-09.33.03:272][275]LogD3D11RHI: CleanupD3DDevice
+[2022.04.01-09.33.03:273][275]LogExit: Exiting.
+[2022.04.01-09.33.03:284][275]Log file closed, 04/01/22 11:33:03

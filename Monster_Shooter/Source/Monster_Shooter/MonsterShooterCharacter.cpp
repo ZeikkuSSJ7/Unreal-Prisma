@@ -18,8 +18,8 @@ AMonsterShooterCharacter::AMonsterShooterCharacter()
 	PrimaryActorTick.bCanEverTick = true;
 
 	GetCapsuleComponent()->InitCapsuleSize(40, 95);
-	turnRate = 90;
-	lookUpRate = 90;
+	turnRate = 130;
+	lookUpRate = 130;
 
 	firstPersonCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("First Person Camera"));
 	firstPersonCamera-> SetupAttachment(GetCapsuleComponent());
@@ -74,7 +74,7 @@ void AMonsterShooterCharacter::StopFire()
 
 void AMonsterShooterCharacter::OnFire()
 {
-	GetWorldTimerManager().SetTimer(fireTimer, this, &AMonsterShooterCharacter::_OnFire, 0.075f, true);
+	GetWorldTimerManager().SetTimer(fireTimer, this, &AMonsterShooterCharacter::_OnFire, 0.01f, true);
 }
 
 
