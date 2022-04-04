@@ -1,0 +1,1 @@
+../../../PruebaVR/PruebaVR.uproject  /Game/VRTemplate/Maps/VRTemplateMap -Messaging -SessionId=1EEEAE88491A7129227DBF973153D809 -SessionOwner="Administrador" -SessionName="Launch On Device" -iterative

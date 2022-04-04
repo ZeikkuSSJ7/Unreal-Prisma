@@ -1,0 +1,2 @@
+ebaVR/Content/VRTemplate/Textures/T_Grid.uasset
+PruebaVR/Saved/Logs/PruebaVR.log
