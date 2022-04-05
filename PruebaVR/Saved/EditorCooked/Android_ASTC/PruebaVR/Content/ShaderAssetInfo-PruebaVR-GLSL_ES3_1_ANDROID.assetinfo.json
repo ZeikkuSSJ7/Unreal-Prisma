@@ -378,6 +378,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8A9E8563C9457ED1CABAA1A7A7DF74C37D59E970",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
 			"ShaderMapHash": "D8A3B31FFB6074447728A4F6941EAA9D86FF6F60",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -387,18 +393,6 @@
 			"ShaderMapHash": "B1FCDA29E55EDDC0DB276FB12F0C7B05D0849611",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "8A9E8563C9457ED1CABAA1A7A7DF74C37D59E970",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "13F4FB5BD8B8CF5148B59D746F9770F39264524A",
-			"Assets": [
-				"/Engine/BufferVisualization/AmbientOcclusion"
 			]
 		},
 		{
@@ -423,6 +417,12 @@
 			"ShaderMapHash": "8572BF90236BB349DAC88D0D9FFED96A765C85FA",
 			"Assets": [
 				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "13F4FB5BD8B8CF5148B59D746F9770F39264524A",
+			"Assets": [
+				"/Engine/BufferVisualization/AmbientOcclusion"
 			]
 		},
 		{

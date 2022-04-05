@@ -11,8 +11,6 @@ PruebaVR/Content/ShaderArchive-PruebaVR-GLSL_ES3_1_ANDROID.ushaderbytecode
 PruebaVR/Content/ShaderArchive-PruebaVR-SF_VULKAN_ES31_ANDROID.ushaderbytecode
 PruebaVR/Content/VRTemplate/Blueprints/Pistol.uasset
 PruebaVR/Content/VRTemplate/Blueprints/Pistol.uexp
-PruebaVR/Content/VRTemplate/Blueprints/Projectile.uasset
-PruebaVR/Content/VRTemplate/Blueprints/Projectile.uexp
 PruebaVR/Content/VRTemplate/Maps/VRTemplateMap.uexp
 PruebaVR/Content/VRTemplate/Maps/VRTemplateMap.umap
 PruebaVR/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset
