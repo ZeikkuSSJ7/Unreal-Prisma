@@ -35,5 +35,5 @@ public:
 			int32 OtherBodyIndex, bool bFromSweep, const FHitResult& Hit);
 
 	UPROPERTY(EditAnywhere)
-		float damageValue = 20;
+		float damageValue = 50;
 };
