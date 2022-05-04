@@ -1,0 +1,374 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.epicgames.PruebaVR"
+4    android:installLocation="internalOnly"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->Z:\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="25" />
+10-->Z:\app\src\main\AndroidManifest.xml
+11    <!-- Requirements -->
+12    <uses-feature
+12-->Z:\app\src\main\AndroidManifest.xml:48:3-76
+13        android:glEsVersion="0x00030001"
+13-->Z:\app\src\main\AndroidManifest.xml:48:17-49
+14        android:required="true" />
+14-->Z:\app\src\main\AndroidManifest.xml:48:50-73
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->Z:\app\src\main\AndroidManifest.xml:49:3-65
+16-->Z:\app\src\main\AndroidManifest.xml:49:20-62
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->Z:\app\src\main\AndroidManifest.xml:50:3-79
+17-->Z:\app\src\main\AndroidManifest.xml:50:20-76
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->Z:\app\src\main\AndroidManifest.xml:51:3-77
+18-->Z:\app\src\main\AndroidManifest.xml:51:20-74
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->Z:\app\src\main\AndroidManifest.xml:52:3-66
+19-->Z:\app\src\main\AndroidManifest.xml:52:20-63
+20    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+20-->Z:\app\src\main\AndroidManifest.xml:53:3-71
+20-->Z:\app\src\main\AndroidManifest.xml:53:20-68
+21    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+21-->Z:\app\src\main\AndroidManifest.xml:54:3-74
+21-->Z:\app\src\main\AndroidManifest.xml:54:20-71
+22    <uses-permission android:name="com.android.vending.BILLING" />
+22-->Z:\app\src\main\AndroidManifest.xml:55:3-65
+22-->Z:\app\src\main\AndroidManifest.xml:55:20-62
+23    <!-- Supported texture compression formats (cooked) -->
+24    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+24-->Z:\app\src\main\AndroidManifest.xml:57:3-77
+24-->Z:\app\src\main\AndroidManifest.xml:57:24-74
+25
+26    <uses-feature
+26-->Z:\app\src\main\AndroidManifest.xml:58:3-111
+27        android:name="android.hardware.vr.headtracking"
+27-->Z:\app\src\main\AndroidManifest.xml:58:17-64
+28        android:required="true"
+28-->Z:\app\src\main\AndroidManifest.xml:58:85-108
+29        android:version="1" />
+29-->Z:\app\src\main\AndroidManifest.xml:58:65-84
+30
+31    <uses-permission android:name="com.oculus.permission.HAND_TRACKING" />
+31-->Z:\app\src\main\AndroidManifest.xml:59:3-73
+31-->Z:\app\src\main\AndroidManifest.xml:59:20-70
+32
+33    <uses-feature
+33-->Z:\app\src\main\AndroidManifest.xml:60:3-87
+34        android:name="oculus.software.handtracking"
+34-->Z:\app\src\main\AndroidManifest.xml:60:17-60
+35        android:required="true" />
+35-->Z:\app\src\main\AndroidManifest.xml:60:61-84
+36
+37    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+37-->Z:\app\src\main\AndroidManifest.xml:61:3-78
+37-->Z:\app\src\main\AndroidManifest.xml:61:20-75
+38
+39    <uses-feature android:name="android.hardware.usb.host" />
+39-->Z:\app\src\main\AndroidManifest.xml:62:3-60
+39-->Z:\app\src\main\AndroidManifest.xml:62:17-57
+40    <!-- Application Definition -->
+41    <application
+41-->Z:\app\src\main\AndroidManifest.xml:3:3-46:17
+42        android:name="com.epicgames.ue4.GameApplication"
+42-->Z:\app\src\main\AndroidManifest.xml:3:147-195
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\f88df7c86cbc989e82020e686162bad6\core-1.0.0\AndroidManifest.xml:22:18-86
+44        android:debuggable="true"
+45        android:extractNativeLibs="true"
+45-->Z:\app\src\main\AndroidManifest.xml:3:114-146
+46        android:hardwareAccelerated="true"
+46-->Z:\app\src\main\AndroidManifest.xml:3:79-113
+47        android:hasCode="true"
+47-->Z:\app\src\main\AndroidManifest.xml:3:240-262
+48        android:icon="@drawable/icon"
+48-->Z:\app\src\main\AndroidManifest.xml:3:49-78
+49        android:label="@string/app_name"
+49-->Z:\app\src\main\AndroidManifest.xml:3:16-48
+50        android:requestLegacyExternalStorage="true" >
+50-->Z:\app\src\main\AndroidManifest.xml:3:196-239
+51        <activity
+51-->Z:\app\src\main\AndroidManifest.xml:4:5-12:16
+52            android:name="com.epicgames.ue4.GameActivity"
+52-->Z:\app\src\main\AndroidManifest.xml:4:15-60
+53            android:configChanges="mcc|mnc|uiMode|density|screenSize|smallestScreenSize|screenLayout|orientation|keyboardHidden|keyboard"
+53-->Z:\app\src\main\AndroidManifest.xml:4:159-284
+54            android:debuggable="true"
+54-->Z:\app\src\main\AndroidManifest.xml:4:396-421
+55            android:label="@string/app_name"
+55-->Z:\app\src\main\AndroidManifest.xml:4:61-93
+56            android:launchMode="singleTask"
+56-->Z:\app\src\main\AndroidManifest.xml:4:320-351
+57            android:resizeableActivity="false"
+57-->Z:\app\src\main\AndroidManifest.xml:4:285-319
+58            android:screenOrientation="sensorLandscape"
+58-->Z:\app\src\main\AndroidManifest.xml:4:352-395
+59            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+59-->Z:\app\src\main\AndroidManifest.xml:4:94-158
+60            <meta-data
+60-->Z:\app\src\main\AndroidManifest.xml:5:7-76
+61                android:name="android.app.lib_name"
+61-->Z:\app\src\main\AndroidManifest.xml:5:18-53
+62                android:value="UE4" />
+62-->Z:\app\src\main\AndroidManifest.xml:5:54-73
+63
+64            <intent-filter>
+64-->Z:\app\src\main\AndroidManifest.xml:6:7-10:23
+65                <action android:name="android.intent.action.MAIN" />
+65-->Z:\app\src\main\AndroidManifest.xml:7:9-61
+65-->Z:\app\src\main\AndroidManifest.xml:7:17-58
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->Z:\app\src\main\AndroidManifest.xml:8:9-69
+67-->Z:\app\src\main\AndroidManifest.xml:8:19-66
+68                <category android:name="com.oculus.intent.category.VR" />
+68-->Z:\app\src\main\AndroidManifest.xml:9:9-66
+68-->Z:\app\src\main\AndroidManifest.xml:9:19-63
+69            </intent-filter>
+70
+71            <meta-data
+71-->Z:\app\src\main\AndroidManifest.xml:11:7-81
+72                android:name="com.oculus.vr.focusaware"
+72-->Z:\app\src\main\AndroidManifest.xml:11:18-57
+73                android:value="true" />
+73-->Z:\app\src\main\AndroidManifest.xml:11:58-78
+74        </activity>
+75        <activity android:name="com.epicgames.PruebaVR.DownloaderActivity" />
+75-->Z:\app\src\main\AndroidManifest.xml:13:5-52
+75-->Z:\app\src\main\AndroidManifest.xml:13:15-49
+76
+77        <meta-data
+77-->Z:\app\src\main\AndroidManifest.xml:14:5-101
+78            android:name="com.epicgames.ue4.GameActivity.EngineVersion"
+78-->Z:\app\src\main\AndroidManifest.xml:14:16-75
+79            android:value="4.27.2" />
+79-->Z:\app\src\main\AndroidManifest.xml:14:76-98
+80        <meta-data
+80-->Z:\app\src\main\AndroidManifest.xml:15:5-112
+81            android:name="com.epicgames.ue4.GameActivity.EngineBranch"
+81-->Z:\app\src\main\AndroidManifest.xml:15:16-74
+82            android:value="++UE4+Release-4.27" />
+82-->Z:\app\src\main\AndroidManifest.xml:15:75-109
+83        <meta-data
+83-->Z:\app\src\main\AndroidManifest.xml:16:5-103
+84            android:name="com.epicgames.ue4.GameActivity.ProjectVersion"
+84-->Z:\app\src\main\AndroidManifest.xml:16:16-76
+85            android:value="1.0.0.0" />
+85-->Z:\app\src\main\AndroidManifest.xml:16:77-100
+86        <meta-data
+86-->Z:\app\src\main\AndroidManifest.xml:17:5-104
+87            android:name="com.epicgames.ue4.GameActivity.DepthBufferPreference"
+87-->Z:\app\src\main\AndroidManifest.xml:17:16-83
+88            android:value="0" />
+88-->Z:\app\src\main\AndroidManifest.xml:17:84-101
+89        <meta-data
+89-->Z:\app\src\main\AndroidManifest.xml:18:5-108
+90            android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk"
+90-->Z:\app\src\main\AndroidManifest.xml:18:16-83
+91            android:value="false" />
+91-->Z:\app\src\main\AndroidManifest.xml:18:84-105
+92        <meta-data
+92-->Z:\app\src\main\AndroidManifest.xml:19:5-106
+93            android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp"
+93-->Z:\app\src\main\AndroidManifest.xml:19:16-81
+94            android:value="false" />
+94-->Z:\app\src\main\AndroidManifest.xml:19:82-103
+95        <meta-data
+95-->Z:\app\src\main\AndroidManifest.xml:20:5-99
+96            android:name="com.epicgames.ue4.GameActivity.bShouldHideUI"
+96-->Z:\app\src\main\AndroidManifest.xml:20:16-75
+97            android:value="true" />
+97-->Z:\app\src\main\AndroidManifest.xml:20:76-96
+98        <meta-data
+98-->Z:\app\src\main\AndroidManifest.xml:21:5-101
+99            android:name="com.epicgames.ue4.GameActivity.ProjectName"
+99-->Z:\app\src\main\AndroidManifest.xml:21:16-73
+100            android:value="PruebaVR" />
+100-->Z:\app\src\main\AndroidManifest.xml:21:74-98
+101        <meta-data
+101-->Z:\app\src\main\AndroidManifest.xml:22:5-89
+102            android:name="com.epicgames.ue4.GameActivity.AppType"
+102-->Z:\app\src\main\AndroidManifest.xml:22:16-69
+103            android:value="" />
+103-->Z:\app\src\main\AndroidManifest.xml:22:70-86
+104        <meta-data
+104-->Z:\app\src\main\AndroidManifest.xml:23:5-99
+105            android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
+105-->Z:\app\src\main\AndroidManifest.xml:23:16-74
+106            android:value="false" />
+106-->Z:\app\src\main\AndroidManifest.xml:23:75-96
+107        <meta-data
+107-->Z:\app\src\main\AndroidManifest.xml:24:5-111
+108            android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
+108-->Z:\app\src\main\AndroidManifest.xml:24:16-80
+109            android:value="Development" />
+109-->Z:\app\src\main\AndroidManifest.xml:24:81-108
+110        <meta-data
+110-->Z:\app\src\main\AndroidManifest.xml:25:5-99
+111            android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
+111-->Z:\app\src\main\AndroidManifest.xml:25:16-75
+112            android:value="ASTC" />
+112-->Z:\app\src\main\AndroidManifest.xml:25:76-96
+113        <meta-data
+113-->Z:\app\src\main\AndroidManifest.xml:26:5-109
+114            android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
+114-->Z:\app\src\main\AndroidManifest.xml:26:16-85
+115            android:value="true" />
+115-->Z:\app\src\main\AndroidManifest.xml:26:86-106
+116        <meta-data
+116-->Z:\app\src\main\AndroidManifest.xml:27:5-107
+117            android:name="com.epicgames.ue4.GameActivity.bUseExternalFilesDir"
+117-->Z:\app\src\main\AndroidManifest.xml:27:16-82
+118            android:value="false" />
+118-->Z:\app\src\main\AndroidManifest.xml:27:83-104
+119        <meta-data
+119-->Z:\app\src\main\AndroidManifest.xml:28:5-102
+120            android:name="com.epicgames.ue4.GameActivity.bPublicLogFiles"
+120-->Z:\app\src\main\AndroidManifest.xml:28:16-77
+121            android:value="false" />
+121-->Z:\app\src\main\AndroidManifest.xml:28:78-99
+122        <meta-data
+122-->Z:\app\src\main\AndroidManifest.xml:29:5-104
+123            android:name="com.epicgames.ue4.GameActivity.bUseDisplayCutout"
+123-->Z:\app\src\main\AndroidManifest.xml:29:16-79
+124            android:value="false" />
+124-->Z:\app\src\main\AndroidManifest.xml:29:80-101
+125        <meta-data
+125-->Z:\app\src\main\AndroidManifest.xml:30:5-95
+126            android:name="com.epicgames.ue4.GameActivity.bAllowIMU"
+126-->Z:\app\src\main\AndroidManifest.xml:30:16-71
+127            android:value="true" />
+127-->Z:\app\src\main\AndroidManifest.xml:30:72-92
+128        <meta-data
+128-->Z:\app\src\main\AndroidManifest.xml:31:5-101
+129            android:name="com.epicgames.ue4.GameActivity.bSupportsVulkan"
+129-->Z:\app\src\main\AndroidManifest.xml:31:16-77
+130            android:value="true" />
+130-->Z:\app\src\main\AndroidManifest.xml:31:78-98
+131        <meta-data
+131-->Z:\app\src\main\AndroidManifest.xml:32:5-141
+132            android:name="com.epicgames.ue4.GameActivity.StartupPermissions"
+132-->Z:\app\src\main\AndroidManifest.xml:32:16-80
+133            android:value="android.permission.WRITE_EXTERNAL_STORAGE" />
+133-->Z:\app\src\main\AndroidManifest.xml:32:81-138
+134        <meta-data
+134-->Z:\app\src\main\AndroidManifest.xml:33:5-100
+135            android:name="com.google.android.gms.games.APP_ID"
+135-->Z:\app\src\main\AndroidManifest.xml:33:16-66
+136            android:value="@string/app_id" />
+136-->Z:\app\src\main\AndroidManifest.xml:33:67-97
+137        <meta-data
+137-->Z:\app\src\main\AndroidManifest.xml:34:5-118
+138            android:name="com.google.android.gms.version"
+138-->Z:\app\src\main\AndroidManifest.xml:34:16-61
+139            android:value="@integer/google_play_services_version" />
+139-->Z:\app\src\main\AndroidManifest.xml:34:62-115
+140
+141        <activity
+141-->Z:\app\src\main\AndroidManifest.xml:35:5-180
+142            android:name="com.google.android.gms.ads.AdActivity"
+142-->Z:\app\src\main\AndroidManifest.xml:35:15-67
+143            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+143-->Z:\app\src\main\AndroidManifest.xml:35:68-177
+144
+145        <service android:name="com.epicgames.PruebaVR.OBBDownloaderService" />
+145-->Z:\app\src\main\AndroidManifest.xml:36:5-52
+145-->Z:\app\src\main\AndroidManifest.xml:36:14-49
+146
+147        <receiver android:name="com.epicgames.PruebaVR.AlarmReceiver" />
+147-->Z:\app\src\main\AndroidManifest.xml:37:5-46
+147-->Z:\app\src\main\AndroidManifest.xml:37:15-43
+148        <receiver android:name="com.epicgames.ue4.LocalNotificationReceiver" />
+148-->Z:\app\src\main\AndroidManifest.xml:38:5-76
+148-->Z:\app\src\main\AndroidManifest.xml:38:15-73
+149        <receiver
+149-->Z:\app\src\main\AndroidManifest.xml:39:5-43:16
+150            android:name="com.epicgames.ue4.MulticastBroadcastReceiver"
+150-->Z:\app\src\main\AndroidManifest.xml:39:15-74
+151            android:exported="true" >
+151-->Z:\app\src\main\AndroidManifest.xml:39:75-98
+152            <intent-filter>
+152-->Z:\app\src\main\AndroidManifest.xml:40:7-42:23
+153                <action android:name="com.android.vending.INSTALL_REFERRER" />
+153-->Z:\app\src\main\AndroidManifest.xml:41:9-71
+153-->Z:\app\src\main\AndroidManifest.xml:41:17-68
+154            </intent-filter>
+155        </receiver>
+156
+157        <meta-data
+157-->Z:\app\src\main\AndroidManifest.xml:44:5-79
+158            android:name="android.max_aspect"
+158-->Z:\app\src\main\AndroidManifest.xml:44:16-49
+159            android:value="2100000.00" />
+159-->Z:\app\src\main\AndroidManifest.xml:44:50-76
+160        <meta-data
+160-->Z:\app\src\main\AndroidManifest.xml:45:5-84
+161            android:name="com.oculus.supportedDevices"
+161-->Z:\app\src\main\AndroidManifest.xml:45:16-58
+162            android:value="delmar" />
+162-->Z:\app\src\main\AndroidManifest.xml:45:59-81
+163
+164        <activity
+164-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:23:9-27:75
+165            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+165-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:24:13-93
+166            android:excludeFromRecents="true"
+166-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:25:13-46
+167            android:exported="false"
+167-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:26:13-37
+168            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+168-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:27:13-72
+169        <!--
+170            Service handling Google Sign-In user revocation. For apps that do not integrate with
+171            Google Sign-In, this service will never be started.
+172        -->
+173        <service
+173-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:33:9-36:110
+174            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+174-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:34:13-89
+175            android:exported="true"
+175-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:35:13-36
+176            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+176-->[com.google.android.gms:play-services-auth:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\27c996edd409cbedbf245f3fe9f432c5\jetified-play-services-auth-11.8.0\AndroidManifest.xml:36:13-107
+177
+178        <meta-data
+178-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:13:9-15:37
+179            android:name="com.google.android.play.billingclient.version"
+179-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:14:13-73
+180            android:value="3.0.0" />
+180-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:15:13-34
+181
+182        <activity
+182-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:17:9-20:75
+183            android:name="com.android.billingclient.api.ProxyBillingActivity"
+183-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:18:13-78
+184            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+184-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:19:13-96
+185            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+185-->[com.android.billingclient:billing:3.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\fea0b2694902a22c66dc331417215d14\jetified-billing-3.0.0\AndroidManifest.xml:20:13-72
+186        <activity
+186-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\dfe47cc8f753e21db3d9e5b168caa0c7\jetified-play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+187            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+187-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\dfe47cc8f753e21db3d9e5b168caa0c7\jetified-play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+188            android:exported="false"
+188-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\dfe47cc8f753e21db3d9e5b168caa0c7\jetified-play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+189            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+189-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\dfe47cc8f753e21db3d9e5b168caa0c7\jetified-play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+190
+191        <provider
+191-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\4c8c565ee8291dffa0fa99eb091bdbd7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+192            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+192-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\4c8c565ee8291dffa0fa99eb091bdbd7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+193            android:authorities="com.epicgames.PruebaVR.lifecycle-process"
+193-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\4c8c565ee8291dffa0fa99eb091bdbd7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+194            android:exported="false"
+194-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\4c8c565ee8291dffa0fa99eb091bdbd7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+195            android:multiprocess="true" />
+195-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Administrador\.gradle\caches\transforms-2\files-2.1\4c8c565ee8291dffa0fa99eb091bdbd7\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+196    </application>
+197
+198</manifest>
