@@ -64,6 +64,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
 			"ShaderMapHash": "634BE28D834184364042562DF8D2C9F628C4777D",
 			"Assets": [
 				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
@@ -90,18 +102,6 @@
 			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "E6C881C4367A017C30CB5E1C97A435C113595511",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "A954F8FBE7BFB625D53290FA0E043AE0D60F25A7",
-			"Assets": [
-				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
 			]
 		},
 		{
@@ -312,10 +312,10 @@
 			"Assets": [
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Materials/Serath_Hair_Holy",
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Hair_Demo",
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Gold/Materials/RP1HairEvil",
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Future/Materials/Serath_Hair_T",
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/Serath_Hair_V",
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Future/Materials/Serath_Hair_T",
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Gold/Materials/RP1HairHoly",
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Gold/Materials/RP1HairEvil",
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Skins/GryphonKnight/Materials/MI_Terra_Hair_Demo"
 			]
 		},
@@ -324,10 +324,10 @@
 			"Assets": [
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Materials/Serath_Hair_Holy",
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Hair_Demo",
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Gold/Materials/RP1HairEvil",
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Future/Materials/Serath_Hair_T",
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/Serath_Hair_V",
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Future/Materials/Serath_Hair_T",
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Gold/Materials/RP1HairHoly",
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Gold/Materials/RP1HairEvil",
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Skins/GryphonKnight/Materials/MI_Terra_Hair_Demo"
 			]
 		},
@@ -479,44 +479,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D8A325CEC738D096C725435F29732943C5742073",
-			"Assets": [
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Torso"
-			]
-		},
-		{
-			"ShaderMapHash": "9C1EDC46F19CE0ED0B43C848482B39F6FB0054A9",
-			"Assets": [
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Torso"
-			]
-		},
-		{
-			"ShaderMapHash": "B0B1741150A88DD8E6A7B89DB267EC82BB1737C6",
-			"Assets": [
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Thrusters",
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Skins/RedDeath/Materials/M_Kallari_Thrusters_RedDeath"
-			]
-		},
-		{
-			"ShaderMapHash": "265465133D4506F3BF94B5221DC6C775835CB0E6",
-			"Assets": [
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Thrusters",
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Skins/RedDeath/Materials/M_Kallari_Thrusters_RedDeath"
-			]
-		},
-		{
-			"ShaderMapHash": "FE123FEBEC6FC9ED4C30296C23633E0AEECDE705",
-			"Assets": [
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Tent"
-			]
-		},
-		{
-			"ShaderMapHash": "44F74135342AB4D67F1F7C30E56A03896BC21FA9",
-			"Assets": [
-				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Tent"
-			]
-		},
-		{
 			"ShaderMapHash": "63CB522EB6530DEBBAD8AADAE142EF65D166898E",
 			"Assets": [
 				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Legs"
@@ -568,6 +530,44 @@
 				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Eye",
 				"/Game/ParagonKallari/Characters/Heroes/Kallari/Skins/Tough/Materials/M_Kallari_Tough_Eye",
 				"/Game/ParagonKallari/Characters/Heroes/Kallari/Skins/Rogue/Materials/M_Kallari_Rogue_Eye"
+			]
+		},
+		{
+			"ShaderMapHash": "D8A325CEC738D096C725435F29732943C5742073",
+			"Assets": [
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "9C1EDC46F19CE0ED0B43C848482B39F6FB0054A9",
+			"Assets": [
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Torso"
+			]
+		},
+		{
+			"ShaderMapHash": "B0B1741150A88DD8E6A7B89DB267EC82BB1737C6",
+			"Assets": [
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Thrusters",
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Skins/RedDeath/Materials/M_Kallari_Thrusters_RedDeath"
+			]
+		},
+		{
+			"ShaderMapHash": "265465133D4506F3BF94B5221DC6C775835CB0E6",
+			"Assets": [
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Thrusters",
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Skins/RedDeath/Materials/M_Kallari_Thrusters_RedDeath"
+			]
+		},
+		{
+			"ShaderMapHash": "FE123FEBEC6FC9ED4C30296C23633E0AEECDE705",
+			"Assets": [
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Tent"
+			]
+		},
+		{
+			"ShaderMapHash": "44F74135342AB4D67F1F7C30E56A03896BC21FA9",
+			"Assets": [
+				"/Game/ParagonKallari/Characters/Heroes/Kallari/Materials/M_Kallari_Tent"
 			]
 		},
 		{
@@ -693,33 +693,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CF6197D9FE8857FDA33702348C98CC4D37D1F672",
-			"Assets": [
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Helmet",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Body",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Shoulders",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Legs"
-			]
-		},
-		{
-			"ShaderMapHash": "616416041A805B6DA5647EB76E2C42D5FD7C5DD0",
-			"Assets": [
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Helmet",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Body",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Shoulders",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Legs"
-			]
-		},
-		{
-			"ShaderMapHash": "3A8AB47722EA3420FE07CCCF9A9D7FB5BBB0D53A",
-			"Assets": [
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Helmet",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Body",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Shoulders",
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Legs"
-			]
-		},
-		{
 			"ShaderMapHash": "6033B9D12AFE4EA568515053F259DCD317F1E9C8",
 			"Assets": [
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Cloth"
@@ -741,6 +714,33 @@
 			"ShaderMapHash": "8C43F6C7B3E093777500D620D54558A548C2C079",
 			"Assets": [
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Eye_Occlusion_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "CF6197D9FE8857FDA33702348C98CC4D37D1F672",
+			"Assets": [
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Helmet",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Shoulders",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Legs",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "616416041A805B6DA5647EB76E2C42D5FD7C5DD0",
+			"Assets": [
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Helmet",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Shoulders",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Legs",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "3A8AB47722EA3420FE07CCCF9A9D7FB5BBB0D53A",
+			"Assets": [
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_Helmet",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Shoulders",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Legs",
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/MI_Terra_Body"
 			]
 		},
 		{
@@ -779,6 +779,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6A89E22337F80D4AA8BD7C40445A3A0276D461AB",
+			"Assets": [
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_TearLine_Demo"
+			]
+		},
+		{
+			"ShaderMapHash": "71AC43DFC428FF4D8DF324258800566CDE0448A0",
+			"Assets": [
+				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_TearLine_Demo"
+			]
+		},
+		{
 			"ShaderMapHash": "392BFE2650BED65AED1ADDFF7ABDB4B33E0E9FC1",
 			"Assets": [
 				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/Terra_PonyHair_Demo"
@@ -809,18 +821,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6A89E22337F80D4AA8BD7C40445A3A0276D461AB",
-			"Assets": [
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_TearLine_Demo"
-			]
-		},
-		{
-			"ShaderMapHash": "71AC43DFC428FF4D8DF324258800566CDE0448A0",
-			"Assets": [
-				"/Game/DLCs/ParagonTerra/Characters/Heroes/Terra/Materials/M_Terra_TearLine_Demo"
-			]
-		},
-		{
 			"ShaderMapHash": "6D966E5C41CF95F7429D1D0F70508D19DCFA4D60",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -833,15 +833,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
-			"Assets": [
-				"/Game/ThirdPerson/Meshes/RampMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "BE009093AFED865BC4E39A6002509DDDDF832735",
 			"Assets": [
 				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "801695B573595E0ABB3374666E6BFAA38A923B67",
+			"Assets": [
+				"/Game/ThirdPerson/Meshes/RampMaterial"
 			]
 		},
 		{
@@ -1580,6 +1580,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "772EF03C1358B8691EDFFAB53FC62B6C1BE5DB4C",
+			"Assets": [
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_ChestV17"
+			]
+		},
+		{
+			"ShaderMapHash": "B2CB24FC0DBB6DA3813C96B2443A906E983A21EA",
+			"Assets": [
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_ChestV17"
+			]
+		},
+		{
+			"ShaderMapHash": "AA5EDEF7E10C496BC1E906DC65E243CB955C7D6C",
+			"Assets": [
+				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_ChestV17"
+			]
+		},
+		{
 			"ShaderMapHash": "67CB08D51147FF06BE9A7965FB6949A0C5C1BD65",
 			"Assets": [
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_Silk_V17"
@@ -1643,24 +1661,6 @@
 			"ShaderMapHash": "685C8D8CA225BEA636AD16E05387901AB45B57C9",
 			"Assets": [
 				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_Head_V17"
-			]
-		},
-		{
-			"ShaderMapHash": "772EF03C1358B8691EDFFAB53FC62B6C1BE5DB4C",
-			"Assets": [
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_ChestV17"
-			]
-		},
-		{
-			"ShaderMapHash": "B2CB24FC0DBB6DA3813C96B2443A906E983A21EA",
-			"Assets": [
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_ChestV17"
-			]
-		},
-		{
-			"ShaderMapHash": "AA5EDEF7E10C496BC1E906DC65E243CB955C7D6C",
-			"Assets": [
-				"/Game/ParagonSerath/Characters/Heroes/Serath/Skins/Tier1/Serath_Val/Materials/M_Serath_ChestV17"
 			]
 		},
 		{
@@ -1998,15 +1998,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2575BB970C93334CCC43E8AA31224D9C87297523",
-			"Assets": [
-				"/Game/ParagonKallari/FX/Materials/Heroes/Kallari/M_Wispy_Pulse_Dense"
-			]
-		},
-		{
 			"ShaderMapHash": "BA83F20EAC1560878445CAC96AB40FA2B29AABA5",
 			"Assets": [
 				"/Game/ParagonKallari/FX/Materials/Heroes/Kallari/M_Blade_Impact_Warp"
+			]
+		},
+		{
+			"ShaderMapHash": "2575BB970C93334CCC43E8AA31224D9C87297523",
+			"Assets": [
+				"/Game/ParagonKallari/FX/Materials/Heroes/Kallari/M_Wispy_Pulse_Dense"
 			]
 		},
 		{
@@ -2126,6 +2126,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "5BD44344826650A5E174C89E535B02E4C96E0441",
+			"Assets": [
+				"/Game/ParagonKallari/FX/Materials/Flares/M_Lensflare_Jet_Flicker"
+			]
+		},
+		{
 			"ShaderMapHash": "1A86E3BEC2AB9658B1D4FD43912B8A83A91BDDD9",
 			"Assets": [
 				"/Game/ParagonKallari/FX/Materials/Dust/M_Dust_Spears"
@@ -2135,12 +2141,6 @@
 			"ShaderMapHash": "2F85D47A4997A550D93328322A38283BBA4A9C91",
 			"Assets": [
 				"/Game/ParagonKallari/FX/Materials/Debris/M_TransDebris_Crete2"
-			]
-		},
-		{
-			"ShaderMapHash": "5BD44344826650A5E174C89E535B02E4C96E0441",
-			"Assets": [
-				"/Game/ParagonKallari/FX/Materials/Flares/M_Lensflare_Jet_Flicker"
 			]
 		},
 		{
@@ -2157,15 +2157,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "61CE2462A2ECDAF1E4BD8BF420AF071BD15109F1",
-			"Assets": [
-				"/Game/ParagonKallari/FX/Materials/Dust/M_Dust_Swoop"
-			]
-		},
-		{
 			"ShaderMapHash": "489B8B15BC31495A522244F8E6CA7A2D9A969B8F",
 			"Assets": [
 				"/Game/ParagonKallari/FX/Materials/Heroes/M_Portal_Open_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "61CE2462A2ECDAF1E4BD8BF420AF071BD15109F1",
+			"Assets": [
+				"/Game/ParagonKallari/FX/Materials/Dust/M_Dust_Swoop"
 			]
 		},
 		{
@@ -3145,12 +3145,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "824287A77BDF827CC609026C8FF56917D3397AB2",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Spiral_Stretch_Up"
-			]
-		},
-		{
 			"ShaderMapHash": "4627A76840A769F6FB5D517DABDDD6E5AD2A4FCA",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/FX/Materials/CineRescue/M_WorldGridMaterial"
@@ -3178,6 +3172,12 @@
 			"ShaderMapHash": "C189251E1D4E3D6ED13E74528EDF76564113BF72",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Ultimate_Trail_ShckLines"
+			]
+		},
+		{
+			"ShaderMapHash": "824287A77BDF827CC609026C8FF56917D3397AB2",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Spiral_Stretch_Up"
 			]
 		},
 		{
@@ -3307,12 +3307,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9F14D0E466A109E23A5F24747546E787149D8B0F",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow"
-			]
-		},
-		{
 			"ShaderMapHash": "EDEE80AC3016A5716EFC5973D7730C59F1DCD213",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/M_Greystone_Wispy_Pulse_Dense"
@@ -3325,16 +3319,16 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9F14D0E466A109E23A5F24747546E787149D8B0F",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/FX/Materials/Flares/M_Flare_Procedural_Noise_Tex_Glow"
+			]
+		},
+		{
 			"ShaderMapHash": "AE503B8C8BEE70791954D45AE085888D5288817D",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/FX/Materials/Chroma/M_SphereChromaWisps",
 				"/Game/DLCs/ParagonTerra/FX/Materials/Chroma/M_SphereChromaWisps"
-			]
-		},
-		{
-			"ShaderMapHash": "0A8FBA351817FBD5D30C66D891FFE16FBE4B2791",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Spira_GroundCut"
 			]
 		},
 		{
@@ -3353,6 +3347,12 @@
 			"ShaderMapHash": "9EE3F3EF91C5098AC7F1652FA160D93899CECE6E",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_SpiralGroundCut_Foil"
+			]
+		},
+		{
+			"ShaderMapHash": "0A8FBA351817FBD5D30C66D891FFE16FBE4B2791",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/FX/Materials/Heroes/Greystone/Abilities/M_Greystone_Spira_GroundCut"
 			]
 		},
 		{
@@ -3494,6 +3494,36 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C34A89DD01B061E1CB2D0EB332C0C397CC545D63",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughTorso"
+			]
+		},
+		{
+			"ShaderMapHash": "4AE451F5C3CF85F1D21882523C57C64E40B37777",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughTorso"
+			]
+		},
+		{
+			"ShaderMapHash": "4EBE7E5A8B2BF499EF64E2774571C02BD51176EE",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughTorso"
+			]
+		},
+		{
+			"ShaderMapHash": "A096205552470F37A6A5555A84001DE9ADF5EFE9",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughSword"
+			]
+		},
+		{
+			"ShaderMapHash": "D66FCBF6118F629897ECF13D1B4FDC1F4CB20501",
+			"Assets": [
+				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughSword"
+			]
+		},
+		{
 			"ShaderMapHash": "96540440C5C814D79B005359A676601F7D0F22E0",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughLegs"
@@ -3515,36 +3545,6 @@
 			"ShaderMapHash": "B428141AC68C221300CBB8D5F0507B00E886034F",
 			"Assets": [
 				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughArms"
-			]
-		},
-		{
-			"ShaderMapHash": "A096205552470F37A6A5555A84001DE9ADF5EFE9",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughSword"
-			]
-		},
-		{
-			"ShaderMapHash": "D66FCBF6118F629897ECF13D1B4FDC1F4CB20501",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughSword"
-			]
-		},
-		{
-			"ShaderMapHash": "C34A89DD01B061E1CB2D0EB332C0C397CC545D63",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughTorso"
-			]
-		},
-		{
-			"ShaderMapHash": "4AE451F5C3CF85F1D21882523C57C64E40B37777",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughTorso"
-			]
-		},
-		{
-			"ShaderMapHash": "4EBE7E5A8B2BF499EF64E2774571C02BD51176EE",
-			"Assets": [
-				"/Game/Import/ParagonGreystone/Characters/Heroes/Greystone/Skins/Tough/Materials/M_Greystone_ToughTorso"
 			]
 		},
 		{
