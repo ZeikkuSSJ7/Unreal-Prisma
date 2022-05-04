@@ -1,0 +1,6 @@
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Video\Datos\MediaPlayer
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Video\Datos\MediaPlayer_Video
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Video\Datos\MediaPlayer_Video_Mat
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Video\Datos\Video
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Video\Datos\VideoMediaSource
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\ShaderArchive-PruebaDLCs_Chunk1004-PCD3D_SM5.ushaderbytecode

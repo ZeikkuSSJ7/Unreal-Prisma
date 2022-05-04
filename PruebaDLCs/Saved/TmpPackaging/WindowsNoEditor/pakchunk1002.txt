@@ -1,0 +1,3 @@
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\EquipoAmarillo\Material\M_Brick_Clay_Old
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\EquipoAmarillo\Png\4Yellow
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\ShaderArchive-PruebaDLCs_Chunk1002-PCD3D_SM5.ushaderbytecode

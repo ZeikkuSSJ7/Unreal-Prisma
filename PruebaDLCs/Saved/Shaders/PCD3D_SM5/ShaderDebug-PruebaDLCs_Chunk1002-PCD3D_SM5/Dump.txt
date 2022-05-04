@@ -1,0 +1,171 @@
+FSerializedShaderArchive
+{
+	ShaderMapHashes
+	{
+		000FA9ABDD5BCFDE0E7B827F20D206074D2A1819
+	}
+	ShaderHashes
+	{
+		08B2369D274B6E7B85920FA2645F33542905B088
+		0EEDAEEED7472DD30F0C0B1BE9B40B99EA2FAA8B
+		12FEC42010FBD22943BD11AEDD430EAB185FC377
+		38D9E8EF8E4208514F6FA0ECCE5643063D629989
+		3B729077EF19CD1BCF825EF383BA578A477B05FE
+		3E4B80401817A7D0CD1D91DCCD25851C61FBF6BC
+		5A1ED77C4DD860E3F829D1570A189BAE400AB744
+		7B81110BC4D25885FE76A5D67FCEBA74E244C099
+		895299AA9300659CB46EF027B6F7197F5C91596D
+		8E9FB76C765A019902AF8406FBE36F40D885AB87
+		9D2A8663111738A61D7FD6596FEE6DEDB125B4EF
+		A7EF1C8EBA0F593DA8B8E9C3ED6FB3D7890E1AC0
+		C2D4AB9E457C55843F39A9B3A60467FBAD295DA2
+		D83001EF90D4E8CFC5A97DF94C32B27C113F18E1
+		DBFADCC81D75ADE85E66EB41E2500F6975462B28
+		E37F66032F25125DB11B303E967CAB860E3A8AC4
+		FA5DEFC4AD7FE3495A5B2FF8E5582F3C2346E45C
+	}
+	ShaderMapEntries
+	{
+		FShaderMapEntry
+		{
+			ShaderIndicesOffset : 0
+			NumShaders : 17
+			FirstPreloadIndex : 0
+			NumPreloadEntries : 1
+		}
+	}
+	ShaderEntries
+	{
+		FShaderCodeEntry
+		{
+			Offset : 0
+			Size : 3556
+			UncompressedSize : 9257
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 3556
+			Size : 3464
+			UncompressedSize : 9111
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 7020
+			Size : 2576
+			UncompressedSize : 6339
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 9596
+			Size : 1305
+			UncompressedSize : 2739
+			Frequency : 0
+		}
+		FShaderCodeEntry
+		{
+			Offset : 10901
+			Size : 2904
+			UncompressedSize : 7407
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 13805
+			Size : 1281
+			UncompressedSize : 2667
+			Frequency : 0
+		}
+		FShaderCodeEntry
+		{
+			Offset : 15086
+			Size : 1091
+			UncompressedSize : 2215
+			Frequency : 0
+		}
+		FShaderCodeEntry
+		{
+			Offset : 16177
+			Size : 3576
+			UncompressedSize : 9261
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 19753
+			Size : 3361
+			UncompressedSize : 8783
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 23114
+			Size : 2932
+			UncompressedSize : 7363
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 26046
+			Size : 3210
+			UncompressedSize : 8049
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 29256
+			Size : 3491
+			UncompressedSize : 9203
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 32747
+			Size : 3057
+			UncompressedSize : 7715
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 35804
+			Size : 3161
+			UncompressedSize : 8045
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 38965
+			Size : 3876
+			UncompressedSize : 10591
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 42841
+			Size : 3133
+			UncompressedSize : 8099
+			Frequency : 3
+		}
+		FShaderCodeEntry
+		{
+			Offset : 45974
+			Size : 2956
+			UncompressedSize : 7387
+			Frequency : 3
+		}
+	}
+	PreloadEntries
+	{
+		FFileCachePreloadEntry
+		{
+			Offset : 0
+			Size : 48930
+		}
+	}
+	ShaderIndices
+	{
+		0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16
+	}
+}

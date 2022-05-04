@@ -1,7 +1,0 @@
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Development\Pacman\Definitions.Pacman.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Source\Pacman/PacmanController.h
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Source\Pacman\PacmanPawn.h
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Inc\Pacman\PacmanPawn.generated.h
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\Pacman\Intermediate\Build\Win64\UE4Editor\Inc\Pacman\PacmanController.generated.h
