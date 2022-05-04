@@ -1,0 +1,2 @@
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Intermediate\Build\Win64\UE4Editor\Development\PruebaDLCs\Definitions.PruebaDLCs.h
+C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Source\PruebaDLCs\PruebaDLCs.h
