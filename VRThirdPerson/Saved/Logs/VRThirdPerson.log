@@ -1119,3 +1119,930 @@ Script call stack:
 [2022.05.17-09.41.46:062][920]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2022.05.17-09.41.46:068][920]LogEngine: Changing dynamic resolution state.
 [2022.05.17-09.43.46:723][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.05.17-09.52.51:366][325]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2022.05.17-09.52.54:028][504]LogSlate: Window 'BP_Camera' being destroyed
+[2022.05.17-09.52.54:032][504]LogSlate: Window 'BP_Camera' being destroyed
+[2022.05.17-09.52.54:034][504]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-09.52.54:034][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.52.56:855][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Camera.BP_Camera
+[2022.05.17-09.53.07:669][607]LogSlate: Window 'BP_Camera' being destroyed
+[2022.05.17-09.53.07:674][607]LogSlate: Window 'BP_Camera' being destroyed
+[2022.05.17-09.53.07:678][607]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.05.17-09.53.07:678][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.17-09.53.14:643][421]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.05.17-09.53.15:136][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.05.17-09.53.16:113][589]LogEditorViewport: Clicking on Actor (LMB): BP_Camera_C (BP_Camera)
+[2022.05.17-09.53.16:993][691]Cmd: DELETE
+[2022.05.17-09.53.16:994][691]Cmd: ACTOR DELETE
+[2022.05.17-09.53.17:005][691]LogEditorActor: Deleted Actor: BP_Camera_C
+[2022.05.17-09.53.17:027][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.05.17-09.53.17:032][691]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2022.05.17-09.53.18:057][812]LogEditorViewport: Clicking on Actor (LMB): BP_Camera_C (BP_Camera2)
+[2022.05.17-09.53.18:390][849]Cmd: DELETE
+[2022.05.17-09.53.18:390][849]Cmd: ACTOR DELETE
+[2022.05.17-09.53.18:393][849]LogEditorActor: Deleted Actor: BP_Camera_C
+[2022.05.17-09.53.18:410][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.05.17-09.53.18:411][849]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.05.17-09.53.19:130][934]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.05.17-09.53.19:755][  5]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.05.17-09.53.20:452][ 86]LogEditorViewport: Clicking on Actor (LMB): BP_Camera_C (BP_Camera3)
+[2022.05.17-09.53.21:180][170]Cmd: DELETE
+[2022.05.17-09.53.21:180][170]Cmd: ACTOR DELETE
+[2022.05.17-09.53.21:184][170]LogEditorActor: Deleted Actor: BP_Camera_C
+[2022.05.17-09.53.21:201][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.17-09.53.21:202][170]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2022.05.17-09.53.23:063][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.17-09.53.26:455][315]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.17-09.53.36:332][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.17-09.53.36:373][451]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMapC9C95D2246EE2DF902CEB39DBEFF79E1.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.05.17-09.53.36:742][451]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap_BuiltData195E52AF44B0D359D995518207E028E4.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.17-09.53.36:758][451]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-09.53.36:758][451]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.17-09.53.36:758][451]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.17-09.53.38:301][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.17-09.53.39:921][554]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.17-09.53.40:033][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.17-09.53.40:056][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.05.17-09.53.40:071][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface_C' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface:GetPuntuacion.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface:GetPuntuacion.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface:GetTime.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface:GetTime.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.SKEL_BP_Interface_C:Construct' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.SKEL_BP_Interface_C:Tick' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.SKEL_BP_Interface_C' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:824][114]LogMetaData: Removing '/Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:Construct' ref from Metadata '/Game/Blueprints/BP_Interface.PackageMetaData'
+[2022.05.17-09.53.46:870][114]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_InterfaceC08C9BEC421B773089209D85A2231582.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Widgets/BP_Interface.uasset'
+[2022.05.17-09.53.46:966][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.05.17-09.53.46:988][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.05.17-09.53.47:003][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.17-09.53.47:085][114]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystemB4DE4DE341F0EFF3054A219381F9E791.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/BP_DynamicCameraSystem.uasset'
+[2022.05.17-09.53.47:090][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Blueprints/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Blueprints/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.53.47:142][114]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/TwinblastPlayerCharacter4B58D35B455713F5EAFBBA8913B48124.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/TwinblastPlayerCharacter.uasset'
+[2022.05.17-09.53.47:197][114]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-09.53.47:197][114]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2022.05.17-09.53.47:197][114]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/BP_Interface.BP_Interface
+[2022.05.17-09.53.47:197][114]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-09.53.55:464][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:464][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:464][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint:AnimGraph.AnimGraphNode_StateMachine_5.Ground Locomotion.AnimStateTransitionNode_9.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint:AnimGraph.AnimGraphNode_StateMachine_5.Ground Locomotion.AnimStateTransitionNode_5.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.SKEL_Mario_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.SKEL_Mario_AnimBlueprint_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.SKEL_Mario_AnimBlueprint_C:BlueprintBeginPlay' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.SKEL_Mario_AnimBlueprint_C:Attacking_Event_0' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.SKEL_Mario_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.SKEL_Mario_AnimBlueprint_C' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintBeginPlay' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintInitializeAnimation' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:465][858]LogMetaData: Removing '/Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:AnimGraph' ref from Metadata '/Game/Blueprints/Mario_AnimBlueprint.PackageMetaData'
+[2022.05.17-09.53.55:592][858]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/Mario_AnimBlueprint0B3374294F9A3F508E5C8CB799B7FF9C.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Art/Animations/Mario/Mario_AnimBlueprint.uasset'
+[2022.05.17-09.53.55:698][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.17-09.53.55:720][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.05.17-09.53.55:735][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.17-09.53.55:801][858]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/TwinblastPlayerCharacter38D40C35470762D2DC1035A7A035691D.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/TwinblastPlayerCharacter.uasset'
+[2022.05.17-09.53.55:858][858]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-09.53.55:858][858]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2022.05.17-09.53.55:858][858]LogContentValidation: Display: Validating AnimBlueprint /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.TwinblastPlayerCharacter:Attacking.K2Node_FunctionEntry_67' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:ResetCombo' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:ComboAttackSave' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:944][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/TwinblastPlayerCharacter.SKEL_TwinblastPlayerCharacter_C' ref from Metadata '/Game/Blueprints/TwinblastPlayerCharacter.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.BP_KirbyCollectible:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.BP_KirbyCollectible_C' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.BP_KirbyCollectible:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.SKEL_BP_KirbyCollectible_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.SKEL_BP_KirbyCollectible_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.SKEL_BP_KirbyCollectible_C' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:950][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_KirbyCollectible.BP_KirbyCollectible_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_KirbyCollectible.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.BP_Goal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.BP_Goal_C' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.BP_Goal:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.SKEL_BP_Goal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.SKEL_BP_Goal_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.SKEL_BP_Goal_C' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:952][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_Goal.BP_Goal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_Goal.PackageMetaData'
+[2022.05.17-09.54.11:955][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem_C' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem:TrackPlayerMovement.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem:TrackPlayerRotation.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem:TrackPlayerRotation.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem:ChangeCamera.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.SKEL_BP_DynamicCameraSystem_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.SKEL_BP_DynamicCameraSystem_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.SKEL_BP_DynamicCameraSystem_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.SKEL_BP_DynamicCameraSystem_C:TrackPlayerMovement' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.SKEL_BP_DynamicCameraSystem_C:TrackPlayerRotation' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.SKEL_BP_DynamicCameraSystem_C' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem_C:TrackPlayerMovement' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.11:956][ 90]LogMetaData: Removing '/Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem_C:TrackPlayerRotation' ref from Metadata '/Game/Blueprints/BP_DynamicCameraSystem.PackageMetaData'
+[2022.05.17-09.54.12:053][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/TwinblastPlayerCharacter3A23B1E14DB3115F3016569BCFF904B3.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/TwinblastPlayerCharacter.uasset'
+[2022.05.17-09.54.12:055][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/TwinblastPlayerCharacterBEB96B2949CBAC340825FBA90A537F1E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/TwinblastPlayerCharacter.uasset'
+[2022.05.17-09.54.12:073][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_KirbyCollectibleF449ADEF4273BEC31FFFBDB7BB0337DA.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_KirbyCollectible.uasset'
+[2022.05.17-09.54.12:076][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_KirbyCollectible9F0C5D9C4FA4D1B29AE58ABD5F167008.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/BP_KirbyCollectible.uasset'
+[2022.05.17-09.54.12:093][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_Goal00FA88E9441782A9A5F197B2BBB2A4C5.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_Goal.uasset'
+[2022.05.17-09.54.12:094][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Goal" FILE="../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/BP_Goal.uasset" SILENT=true
+[2022.05.17-09.54.12:094][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_Goal4DDF97C34A3442C32489A4A055A7EB4E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/BP_Goal.uasset'
+[2022.05.17-09.54.12:142][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystemBEE64D58404EF2677BCF01A23FD67A79.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_DynamicCameraSystem.uasset'
+[2022.05.17-09.54.12:143][ 90]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystemF2BDFCE64D62B4613F842283BD399616.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/BP_DynamicCameraSystem.uasset'
+[2022.05.17-09.54.12:200][ 90]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_Goal.BP_Goal
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_KirbyCollectible.BP_KirbyCollectible
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_DynamicCameraSystem.Default__BP_DynamicCameraSystem_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_DynamicCameraSystem.BP_DynamicCameraSystem_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Goal.BP_Goal
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Goal.Default__BP_Goal_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Goal.BP_Goal_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_KirbyCollectible.BP_KirbyCollectible
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_KirbyCollectible.Default__BP_KirbyCollectible_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_KirbyCollectible.BP_KirbyCollectible_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/TwinblastPlayerCharacter.Default__TwinblastPlayerCharacter_C
+[2022.05.17-09.54.12:200][ 90]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/TwinblastPlayerCharacter.TwinblastPlayerCharacter_C
+[2022.05.17-09.54.18:350][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.05.17-09.54.18:388][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.17-09.54.18:428][682]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMapB7D137AE4315EF26B4D2FF974AC0E345.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.05.17-09.54.18:432][682]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.060
+[2022.05.17-09.54.18:515][682]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/Mario_AnimBlueprintAD01A25246AA833EA5AF7FB74B22FCEF.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Art/Animations/Mario/Mario_AnimBlueprint.uasset'
+[2022.05.17-09.54.18:526][682]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_Interface291E9AAC4E2425370E54F299F5BE9C57.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Widgets/BP_Interface.uasset'
+[2022.05.17-09.54.18:540][682]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-09.54.18:540][682]LogContentValidation: Display: Validating AnimBlueprint /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint
+[2022.05.17-09.54.18:540][682]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/BP_Interface.BP_Interface
+[2022.05.17-09.54.18:543][682]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.17-09.57.01:132][595]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Widgets/BP_Interface.BP_Interface
+[2022.05.17-09.57.03:934][793]BlueprintLog: New page: Compile BP_Interface
+[2022.05.17-09.57.04:014][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.05.17-09.57.04:026][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:027][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:027][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:027][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:027][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:027][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:028][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:028][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:028][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:028][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:028][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:029][793]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:050][793]LogSlate: Took 0.006103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.17-09.57.04:059][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:060][794]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:071][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:071][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:072][795]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:080][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:081][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:081][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:081][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:081][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:081][796]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:089][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:089][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:090][797]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:120][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:120][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:121][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:121][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:121][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:121][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:121][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:121][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:122][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:122][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:122][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:122][798]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:170][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:170][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:170][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:171][799]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:224][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:225][800]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:233][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:234][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:234][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:234][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:234][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:234][801]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:241][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:241][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:241][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:242][802]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:250][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:251][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:251][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:251][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:251][803]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:259][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:259][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:259][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:259][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:259][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:260][804]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:268][805]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:275][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:275][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:275][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:275][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:276][806]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:284][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:285][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:285][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:285][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:285][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:285][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:285][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:286][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:286][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:286][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:286][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:286][807]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_12
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_13
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_14
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_15
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_16
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_17
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_18
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_19
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_20
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:293][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_21
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:294][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_22
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:294][808]LogScript: Warning: Accessed None trying to read property Character
+	BP_Interface_C /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:BP_Interface_C_23
+	Function /Game/Blueprints/Widgets/BP_Interface.BP_Interface_C:GetPuntuacion:0027
+[2022.05.17-09.57.04:646][823]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_InterfaceDD2B35FA4FC22A40813816A9388CCAED.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Widgets/BP_Interface.uasset'
+[2022.05.17-09.57.04:709][823]AssetCheck: New page: Asset Save: BP_Interface
+[2022.05.17-09.57.04:709][823]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Widgets/BP_Interface.BP_Interface
+[2022.05.17-09.57.06:520][921]LogSlate: Window 'BP_Interface' being destroyed
+[2022.05.17-09.57.12:784][572]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-09.57.14:611][672]BlueprintLog: New page: Compile BP_DynamicCameraSystem
+[2022.05.17-09.57.14:695][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.05.17-09.57.15:118][680]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystem87DAEECD482FFC730BE0898EED774E7E.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_DynamicCameraSystem.uasset'
+[2022.05.17-09.57.15:135][680]AssetCheck: New page: Asset Save: BP_DynamicCameraSystem
+[2022.05.17-09.57.15:135][680]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-09.57.17:517][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/BP_Goal.BP_Goal
+[2022.05.17-09.57.20:067][107]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_GoalC3257EF84C279E443D8191A2BEA60EFE.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_Goal.uasset'
+[2022.05.17-09.57.20:220][107]AssetCheck: New page: Asset Save: BP_Goal
+[2022.05.17-09.57.20:220][107]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_Goal.BP_Goal
+[2022.05.17-09.57.22:098][251]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/BP_KirbyCollectible.BP_KirbyCollectible
+[2022.05.17-09.57.25:385][482]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Gameplay/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2022.05.17-09.57.25:729][482]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:695][649]BlueprintLog: New page: Compile TwinblastPlayerCharacter
+[2022.05.17-09.57.27:729][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:730][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:731][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:732][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:732][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:733][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:733][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:734][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:793][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.17-09.57.27:833][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:835][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:836][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:837][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:838][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:887][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:888][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:889][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.27:889][649]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/Art/Animations/Mario/Mario_AnimBlueprint.Mario_AnimBlueprint_C:ExecuteUbergraph_Mario_AnimBlueprint
+
+[2022.05.17-09.57.28:878][691]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/TwinblastPlayerCharacterEB2E69984E206CB113A44294C34EC2B3.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/TwinblastPlayerCharacter.uasset'
+[2022.05.17-09.57.28:897][691]AssetCheck: New page: Asset Save: TwinblastPlayerCharacter
+[2022.05.17-09.57.28:897][691]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/TwinblastPlayerCharacter.TwinblastPlayerCharacter
+[2022.05.17-09.57.30:838][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.17-09.57.30:878][792]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap7A3DA64D40DCCB4166C78AB84074CC91.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.05.17-09.57.31:246][792]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap_BuiltDataF45FDA714D0A8D0489C3628B8244D049.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.17-09.57.31:261][792]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-09.57.31:261][792]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.17-09.57.31:261][792]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.17-09.59.48:223][783]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b7bffc38-a1ba-47a8-b89d-8f85522dff55}.
+[2022.05.17-09.59.48:223][783]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.17-09.59.48:225][783]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.17-09.59.48:225][783]LogAudioMixer: Display: 1: FrontRight
+[2022.05.17-10.06.02:093][849]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0a2c1419-1b95-449d-85cd-c46685d524e8}.
+[2022.05.17-10.06.02:093][849]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.17-10.06.02:241][849]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.17-10.06.02:241][849]LogAudioMixer: Display: 1: FrontRight
+[2022.05.17-10.32.10:219][182]LogEditorTransaction: Undo Move Nodes
+[2022.05.17-10.32.55:078][955]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b7bffc38-a1ba-47a8-b89d-8f85522dff55}.
+[2022.05.17-10.32.55:078][955]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.17-10.32.55:084][955]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.17-10.32.55:084][955]LogAudioMixer: Display: 1: FrontRight
+[2022.05.17-10.33.04:708][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.05.17-10.33.04:751][983]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap_Auto15C5956764E2CA3046AF5D98F6A671BC0.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2022.05.17-10.33.04:752][983]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.102
+[2022.05.17-10.33.04:752][983]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2022.05.17-10.33.04:753][983]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Gameplay/BP_DynamicCameraSystem] ([2] browsable assets)...
+[2022.05.17-10.33.04:773][983]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem]
+[2022.05.17-10.33.04:773][983]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/BP_DynamicCameraSystem]
+[2022.05.17-10.33.04:809][983]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystem_Auto10E1019844CFEE497142FEC9927DFFCA1.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/Autosaves/Game/Blueprints/Gameplay/BP_DynamicCameraSystem_Auto1.uasset'
+[2022.05.17-10.33.04:809][983]LogFileHelpers: Auto-saving content packages took 0.057
+[2022.05.17-10.33.41:979][ 94]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0a2c1419-1b95-449d-85cd-c46685d524e8}.
+[2022.05.17-10.33.41:979][ 94]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.17-10.33.41:994][ 94]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.17-10.33.41:994][ 94]LogAudioMixer: Display: 1: FrontRight
+[2022.05.17-10.36.11:245][699]BlueprintLog: New page: Compile BP_DynamicCameraSystem
+[2022.05.17-10.36.11:336][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.05.17-10.36.12:211][777]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystem178AA9AE45A7A570768ADE97C268607A.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_DynamicCameraSystem.uasset'
+[2022.05.17-10.36.12:225][777]AssetCheck: New page: Asset Save: BP_DynamicCameraSystem
+[2022.05.17-10.36.12:226][777]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-10.43.05:453][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.05.17-10.43.05:495][985]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap_Auto2727C6B0E4DE1F22FB1FD6FAD3905CC81.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2022.05.17-10.43.05:496][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.091
+[2022.05.17-10.43.05:496][985]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.091
+[2022.05.17-10.57.11:487][ 21]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b7bffc38-a1ba-47a8-b89d-8f85522dff55}.
+[2022.05.17-10.57.11:487][ 21]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.17-10.57.11:492][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.17-10.57.11:492][ 21]LogAudioMixer: Display: 1: FrontRight
+[2022.05.17-10.59.52:506][765]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{0a2c1419-1b95-449d-85cd-c46685d524e8}.
+[2022.05.17-10.59.52:509][765]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.17-10.59.52:561][765]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.17-10.59.52:561][765]LogAudioMixer: Display: 1: FrontRight
+[2022.05.17-11.11.01:137][337]BlueprintLog: New page: Compile BP_DynamicCameraSystem
+[2022.05.17-11.11.01:241][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.05.17-11.11.01:818][366]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/BP_DynamicCameraSystemF48B768B4FECC98E6AAB42802D357D51.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Blueprints/Gameplay/BP_DynamicCameraSystem.uasset'
+[2022.05.17-11.11.01:833][366]AssetCheck: New page: Asset Save: BP_DynamicCameraSystem
+[2022.05.17-11.11.01:833][366]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Gameplay/BP_DynamicCameraSystem.BP_DynamicCameraSystem
+[2022.05.17-11.11.27:905][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.17-11.11.27:945][548]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap_Auto377FD321C4E0CE10FD2B90E9547A16AD9.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/Autosaves/Game/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2022.05.17-11.11.27:947][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/ThirdPersonExampleMap' took 0.086
+[2022.05.17-11.11.27:947][548]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2022.05.17-11.23.33:779][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.05.17-11.23.33:820][486]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMapB7EE3AC142E9F0CEB6589DAC7DA6AB9D.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap.umap'
+[2022.05.17-11.23.34:192][486]LogSavePackage: Moving '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Saved/ThirdPersonExampleMap_BuiltData31796B22403C75C8BB70C19C13FD3B08.tmp' to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/VRThirdPerson/Content/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2022.05.17-11.23.34:207][486]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.17-11.23.34:207][486]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2022.05.17-11.23.34:208][486]LogContentValidation: Display: Validating World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.05.17-11.23.49:455][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
