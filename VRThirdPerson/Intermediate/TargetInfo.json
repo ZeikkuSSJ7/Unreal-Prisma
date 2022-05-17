@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VRThirdPerson",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\VRThirdPerson\\Source\\VRThirdPerson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VRThirdPersonEditor",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\VRThirdPerson\\Source\\VRThirdPersonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

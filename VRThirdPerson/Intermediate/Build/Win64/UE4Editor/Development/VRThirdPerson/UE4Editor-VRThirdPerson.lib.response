@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VRThirdPerson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\VRThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\VRThirdPerson.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\VRThirdPersonGameModeBase.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\VRThirdPerson.init.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\VRThirdPersonGameModeBase.gen.cpp.obj"
+"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\Default.rc2.res"
+/OUT:"C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\UE4Editor-VRThirdPerson.lib"

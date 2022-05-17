@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\VRThirdPerson\\Source\\VRThirdPerson\\VRThirdPerson.Build.cs",
+		"C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\VRThirdPerson\\Source\\VRThirdPerson.Target.cs",
+		"C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\VRThirdPerson\\Source\\VRThirdPersonEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VRThirdPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7148C48D-71FA-4968-9140-E289E7F216C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRThirdPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VRThirdPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{ED958F64-539C-4672-B5A9-E57226F34619}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VRThirdPerson">
+      <UniqueIdentifier>{A6DCB3E1-C28D-4550-8948-27C5AA3020BE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VRThirdPerson\VRThirdPerson.Build.cs">
+      <Filter>Source\VRThirdPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VRThirdPerson\VRThirdPerson.cpp">
+      <Filter>Source\VRThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRThirdPerson\VRThirdPerson.h">
+      <Filter>Source\VRThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VRThirdPerson\VRThirdPersonGameModeBase.cpp">
+      <Filter>Source\VRThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VRThirdPerson\VRThirdPersonGameModeBase.h">
+      <Filter>Source\VRThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
