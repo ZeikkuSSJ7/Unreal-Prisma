@@ -1,2 +1,0 @@
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\VRThirdPerson\Definitions.VRThirdPerson.h
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\VRThirdPerson\Source\VRThirdPerson\VRThirdPerson.h
