@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\PruebaVideoStreaming\\Source\\PruebaVideoStreaming\\PruebaVideoStreaming.Build.cs",
+		"C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\PruebaVideoStreaming\\Source\\PruebaVideoStreaming.Target.cs",
+		"C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\PruebaVideoStreaming\\Source\\PruebaVideoStreamingEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
