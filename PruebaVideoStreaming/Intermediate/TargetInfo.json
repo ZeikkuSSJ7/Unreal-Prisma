@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PruebaVideoStreaming",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\PruebaVideoStreaming\\Source\\PruebaVideoStreaming.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PruebaVideoStreamingEditor",
+			"Path": "C:\\Users\\Administrador\\Documents\\Unreal Projects\\Unreal-Prisma\\PruebaVideoStreaming\\Source\\PruebaVideoStreamingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

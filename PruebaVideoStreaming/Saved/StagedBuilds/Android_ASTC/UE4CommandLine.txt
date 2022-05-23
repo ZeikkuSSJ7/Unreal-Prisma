@@ -1,0 +1,1 @@
+../../../PruebaVideoStreaming/PruebaVideoStreaming.uproject  /Game/DLCs/Mapa3/Nivel/ThirdPersonExampleMap3 -Messaging -SessionId=0EA20DBD4DC847CB252EDDB5D4720229 -SessionOwner="Administrador" -SessionName="Launch On Device" -iterative

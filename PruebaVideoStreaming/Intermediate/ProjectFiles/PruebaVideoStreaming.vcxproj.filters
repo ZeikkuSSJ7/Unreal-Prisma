@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PruebaVideoStreaming.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6C1CEC4B-68FF-48F6-A90B-79E24DD11381}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PruebaVideoStreaming.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PruebaVideoStreamingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{66EC45AD-CCF8-4BEA-BF5A-811545647F1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PruebaVideoStreaming">
+      <UniqueIdentifier>{9D0C9206-E74D-47E9-BE97-5ED8749329E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PruebaVideoStreaming\PruebaVideoStreaming.Build.cs">
+      <Filter>Source\PruebaVideoStreaming</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PruebaVideoStreaming\PruebaVideoStreaming.cpp">
+      <Filter>Source\PruebaVideoStreaming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PruebaVideoStreaming\PruebaVideoStreaming.h">
+      <Filter>Source\PruebaVideoStreaming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PruebaVideoStreaming\PruebaVideoStreamingGameModeBase.cpp">
+      <Filter>Source\PruebaVideoStreaming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PruebaVideoStreaming\PruebaVideoStreamingGameModeBase.h">
+      <Filter>Source\PruebaVideoStreaming</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
