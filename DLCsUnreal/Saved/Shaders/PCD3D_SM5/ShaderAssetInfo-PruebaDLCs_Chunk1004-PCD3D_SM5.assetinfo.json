@@ -1,0 +1,11 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "EBF2C87FB469DAF745FCE8F0C9395C74957D2CDD",
+			"Assets": [
+				"/Game/DLCs/Video/Datos/MediaPlayer_Video_Mat"
+			]
+		}
+	]
+}

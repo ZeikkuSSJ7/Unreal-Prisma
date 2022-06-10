@@ -1,0 +1,875 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+Stats thread started at 0.334153
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+Loading text-based GConfig....
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin LiveLink
+Mounting plugin AISupport
+Mounting plugin LightPropagationVolume
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin OodleData
+Mounting plugin CameraShakePreviewer
+Mounting plugin OodleNetwork
+Mounting plugin GameplayCameras
+Mounting plugin AssetManagerEditor
+Mounting plugin CurveEditorTools
+Mounting plugin CryptoKeys
+Mounting plugin AnimationSharing
+Mounting plugin DataValidation
+Mounting plugin GameplayTagsEditor
+Mounting plugin GeometryMode
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin MacGraphicsSwitching
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin FacialAnimation
+Mounting plugin GitSourceControl
+Mounting plugin MaterialAnalyzer
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin PerforceSourceControl
+Mounting plugin PixWinPlugin
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin Niagara
+Mounting plugin PluginBrowser
+Mounting plugin SpeedTreeImporter
+Mounting plugin PlasticSourceControl
+Mounting plugin PluginUtils
+Mounting plugin PropertyAccessNode
+Mounting plugin RiderLink
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin SubversionSourceControl
+Mounting plugin TextureFormatOodle
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin UObjectPlugin
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin AlembicImporter
+Mounting plugin BackChannel
+Mounting plugin NullSourceCodeAccess
+Mounting plugin DatasmithContent
+Mounting plugin AutomationUtils
+Mounting plugin VariantManagerContent
+Mounting plugin ChaosCloth
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CharacterAI
+Mounting plugin ChaosNiagara
+Mounting plugin GeometryCache
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin GeometryProcessing
+Mounting plugin ChaosEditor
+Mounting plugin MotoSynth
+Mounting plugin OpenImageDenoise
+Mounting plugin PlanarCut
+Mounting plugin PlatformCrypto
+Mounting plugin ProxyLODPlugin
+Mounting plugin PythonScriptPlugin
+Mounting plugin SkeletalReduction
+Mounting plugin AndroidMedia
+Mounting plugin LuminPlatformFeatures
+Mounting plugin AvfMedia
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin MagicLeapMedia
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin MLSDK
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin TcpMessaging
+Mounting plugin UdpMessaging
+Mounting plugin LevelSequenceEditor
+Mounting plugin ActorSequence
+Mounting plugin MatineeToLevelSequence
+Mounting plugin TemplateSequence
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemNull
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin LauncherChunkInstaller
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleImageUtils
+Mounting plugin AppleMoviePlayer
+Mounting plugin AssetTags
+Mounting plugin ArchVisCharacter
+Mounting plugin AudioCapture
+Mounting plugin ChunkDownloader
+Mounting plugin CableComponent
+Mounting plugin CustomMeshComponent
+Mounting plugin EditableMesh
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin GooglePAD
+Mounting plugin AudioSynesthesia
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OpenXR
+Mounting plugin OpenXREyeTracker
+Mounting plugin OpenXRHandTracking
+Mounting plugin PhysXVehicles
+Mounting plugin ScreenshotTools
+Mounting plugin PostSplashScreen
+Mounting plugin ProceduralMeshComponent
+Mounting plugin PropertyAccessEditor
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin Takes
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin ContentBrowserFileDataSource
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin OculusVR
+Mounting plugin SteamVR
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.27-CL-18319896
+Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+Net CL: 17155196
+OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7800X CPU @ 3.50GHz, GPU: NVIDIA GeForce RTX 2080
+Compiled (64-bit): Nov 30 2021 07:12:08
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.27
+Command Line:  "C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\PruebaDLCs.uproject" -run=Cook -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -manifests -abslog="C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.04.26-12.45.42.txt" -stdout -CrashForUAT -unattended -NoLogTimes -UTF8Output
+Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 16 GB [16842637312 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Config/Windows/Editor.ini]
+Computer: DESKTOP-QU0IU8S
+User: Administrador
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=15.7GB (16GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 139.99 MB used, 140.00 MB peak
+Process Virtual Memory: 115.49 MB used, 115.49 MB peak
+Physical Memory: 11521.33 MB used,  4541.06 MB free, 16062.39 MB total
+Virtual Memory: 134206720.00 MB used,  11006.30 MB free, 134217728.00 MB total
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For WindowsNoEditor
+Lib vorbis DLL was dynamically loaded.
+Oodle Texture 2.9.0 init RDO Off
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Overriding language with editor language configuration option (en).
+Using OS detected locale (es-ES).
+Ray tracing is disabled. Reason: r.RayTracing=0.
+Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Intermediate/Shaders/WorkingDirectory/3024/).
+Cleaned the shader compiler working directory 'C:/Users/Administrador/AppData/Local/Temp/UnrealShaderWorkingDir/9746C57F40F4D0813BFB078CCCEA15B7/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.10s 103MB C:/Users/Administrador/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/Administrador/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/Administrador/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+Performance to C:/Users/Administrador/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=172.15MBs, RandomWriteSpeed=220.44MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/Administrador/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+FAssetRegistry took 0.0021 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [000002D397B1D100][000002D3978DE0C0 49] Windows
+Profiles: [000002D397B1D100][000002D3978DE0C0 49] Windows, [000002D397AD6B00][000002D3978E2380 49] WindowsNoEditor, [000002D397B1E200][000002D3978E6640 49] WindowsServer, [000002D397AD5D00][000002D3978EA900 49] WindowsClient, [000002D397B1D700][000002D3978EEBC0 49] IOS, [000002D397AD6D00][000002D3978F2E80 49] iPadAir, [000002D397B1FC00][000002D3978F7140 49] iPadAir2, [000002D397A99400][000002D397911680 49] IPadPro, [000002D397A99500][000002D3978FB6C0 49] iPadAir3, [000002D397AD7E00][000002D3978D5940 49] iPadAir4, [000002D397A9A300][000002D397909BC0 49] iPadMini2, [000002D397AD7500][000002D39790C300 49] iPadMini3, [000002D397A9AF00][000002D39791A5C0 49] iPadMini4, [000002D397AD6100][000002D39791E880 49] iPadMini5, [000002D397AD1000][000002D397932DC0 49] iPhone6, [000002D397AD1100][000002D397922E00 49] iPodTouch6, [000002D397B1F900][000002D39793B340 49] iPhone7, [000002D397B1E900][000002D39792B380 49] iPodTouch7, [000002D397A99000][000002D39792F640 49] iPhone5S, [000002D397B1EF00][000002D397927900 49] iPhone6Plus, [000002D397A9B600][000002D397905B80 49] iPhone6S, [000002D397B1CC00][000002D397936280 49] iPhone6SPlus, [000002D397B1DD00][000002D397942540 49] iPhone7Plus, [000002D397AD0800][000002D397946800 49] iPhoneSE, [000002D397B1C400][000002D39794AAC0 49] iPhone8, [000002D397AD0900][000002D39794ED80 49] iPhone8Plus, [000002D397AD2E00][000002D397953040 49] iPhoneX, [000002D397A99D00][000002D397957300 49] iPhoneXS, [000002D397AD2700][000002D39795B5C0 49] iPhoneXSMax, [000002D397A99C00][000002D39795F880 49] iPhoneXR, [000002D397AD2800][000002D397963B40 49] iPhone11, [000002D397A98F00][000002D39793E240 49] iPhone11Pro, [000002D397AD0B00][000002D3979664C0 49] iPhone11ProMax, [000002D397A98C00][000002D39796E780 49] iPhoneSE2, [000002D397AD0E00][000002D397972A40 49] iPhone12Mini, [000002D397B1F800][000002D397976D00 49] iPhone12, [000002D397AD3100][000002D39797AFC0 49] iPhone12Pro, [000002D397B1F700][000002D39797F280 49] iPhone12ProMax, [000002D397AD1E00][000002D397983540 49] iPadPro105, [000002D397B1D400][000002D397987800 49] iPadPro129, [000002D397AD3E00][000002D39798BAC0 49] iPadPro97, [000002D397B1E800][000002D39798E200 49] iPadPro2_129, [000002D397AD2000][000002D39796A480 49] iPad5, [000002D397B1E300][000002D397996740 49] iPad6, [000002D397AD3B00][000002D39799AA00 49] iPad7, [000002D397B1DE00][000002D39799ECC0 49] iPad8, [000002D397AD0A00][000002D3979A2F80 49] iPadPro11, [000002D397B1FE00][000002D3979A7240 49] iPadPro2_11, [000002D397AD1800][000002D3979AB500 49] iPadPro3_129, [000002D397B1E700][000002D3979AF7C0 49] iPadPro4_129, [000002D397AD0200][000002D3979B3A80 49] AppleTV, [000002D397B1FF00][000002D3979B61C0 49] AppleTV4K, [000002D397AD2400][000002D397992440 49] TVOS, [000002D397B1C100][000002D3979BA6C0 49] Mac, [000002D397AD1D00][000002D3979C2980 49] MacClient, [000002D397B1EA00][000002D3979C6C40 49] MacNoEditor, [000002D397AD3A00][000002D3979CAF00 49] MacServer, [000002D397B1E000][000002D3979CF1C0 49] Linux, [000002D397AD1600][000002D3979D3480 49] LinuxAArch64, [000002D397B1C800][000002D3979D7740 49] LinuxNoEditor, [000002D397AD0C00][000002D3979DBA00 49] LinuxAArch64NoEditor, [000002D397B1FB00][000002D3979DE140 49] LinuxClient, [000002D397AD3400][000002D3979E2400 49] LinuxAArch64Client, [000002D397B1FA00][000002D3979BE680 49] LinuxServer, [000002D397AD0700][000002D3979E6900 49] LinuxAArch64Server, [000002D397B1ED00][000002D3979EEBC0 49] Android, [000002D397AD2A00][000002D3979F2E80 49] Android_Low, [000002D397B1DF00][000002D3979F7140 49] Android_Mid, [000002D397AD1F00][000002D3979FB400 49] Android_High, [000002D397B1D900][000002D3979FF6C0 49] Android_Default, [000002D397AD3C00][000002D397A03980 49] Android_Adreno4xx, [000002D397B1F600][000002D397A060C0 49] Android_Adreno5xx_Low, [000002D397AD3200][000002D397A0A380 49] Android_Adreno5xx, [000002D397B1D000][000002D397A0E640 49] Android_Adreno6xx, [000002D397AD2500][000002D3979EA8C0 49] Android_Adreno6xx_Vulkan, [000002D397B1CA00][000002D397A12B40 49] Android_Mali_T6xx, [000002D397AD2900][000002D397A1AE00 49] Android_Mali_T7xx, [000002D397B1FD00][000002D397A1F0C0 49] Android_Mali_T8xx, [000002D397AD2D00][000002D397A23380 49] Android_Mali_G71, [000002D397A9B100][000002D397A27640 49] Android_Mali_G72, [000002D397AD7300][000002D397A2B900 49] Android_Mali_G72_Vulkan, [000002D397A9AB00][000002D397A2FBC0 49] Android_Mali_G76, [000002D397AD4500][000002D397A32300 49] Android_Mali_G76_Vulkan, [000002D397A9A600][000002D397A365C0 49] Android_Mali_G77, [000002D397AD5600][000002D397A3A8C0 49] Android_Mali_G77_Vulkan, [000002D397A9A400][000002D397A16B40 49] Android_Mali_G78, [000002D397AD4D00][000002D397A3EDC0 49] Android_Mali_G78_Vulkan, [000002D397A9B500][000002D397A47080 49] Android_Mali_G710, [000002D397AD6F00][000002D397A4B340 49] Android_Mali_G710_Vulkan, [000002D397A9BE00][000002D398A61600 49] Android_Vulkan_SM5, [000002D397AD5E00][000002D398A658C0 49] Android_PowerVR_G6xxx, [000002D397A98500][000002D398A69B80 49] Android_PowerVR_GT7xxx, [000002D397AD4200][000002D398A6C2C0 49] Android_PowerVR_GE8xxx, [000002D397A9BB00][000002D398A70580 49] Android_PowerVR_GM9xxx, [000002D397AD6500][000002D398A74840 49] Android_PowerVR_GM9xxx_Vulkan, [000002D397A99F00][000002D398A78B00 49] Android_TegraK1, [000002D397AD4A00][000002D397A42D80 49] Android_Unknown_Vulkan, [000002D397A9B900][000002D398A7D000 49] Lumin, [000002D397AD5200][000002D398A852C0 49] Lumin_Desktop, [000002D397A99E00][000002D398A89580 49] HoloLens, 
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+PruebaDLCs 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2122600957)
+PokeAHoleMaterial loaded successfully
+Loaded 0 collections in 0.001992 seconds
+Scanning file cache for directory 'C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Content/Developers/Administrador/Collections/' took 0.00s
+Scanning file cache for directory 'C:/Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Content/Collections/' took 0.00s
+Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+Niagara Debugger Client Initialized | Session: B717FEC242BC317F905F878016C5BE55 | Instance: 0EB67D424974EC958D03509958BEE994 (DESKTOP-QU0IU8S-3024).
+Using Python 3.7.7
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Found projects:
+OIDN starting up
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+OculusInput pre-init called
+23856 objects as part of root set at end of initial load.
+6727072 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Executing Class /Script/UnrealEd.CookCommandlet
+Initializing Editor Engine...
+Initializing Engine...
+UGameplayTagsManager::InitializeManager -  0.000 s
+Initializing FReadOnlyCVARCache
+Creating AISystem for world Untitled
+Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+Saved boot cache 0.05s 103MB C:/Users/Administrador/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Texture streaming: Disabled
+Initializing Editor Engine Completed
+New page: Editor Load
+CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+Mobile HDR setting 1
+Creating asset registry
+Discovering localized assets for cultures: en
+Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+Clearing all cooked content for platform WindowsNoEditor
+Sandbox cleanup took 0.011 seconds for platforms WindowsNoEditor
+
+Shader Library 'Global' (PCD3D_SM5) Stats:
+=================
+Assets: 1, Unique Shadermaps: 191 (19100.00%)
+Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+=== Extended info:
+Minimum number of shaders in shadermap: 1
+Median number of shaders in shadermap: 3
+Maximum number of shaders in shadermap: 264
+Number of shadermaps referencing top 10 most shared shaders:
+    3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+Textual dump saved to '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+=================
+Searching using wildcard: '../../../Engine/Content/*.uasset'
+Searching using wildcard: '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/GeometryMode/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Developer/AnimationSharing/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryProcessing/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/FX/Niagara/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/MotoSynth/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeap/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/VirtualProduction/Takes/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/OpenXR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/OpenXREyeTracker/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/OpenXRHandTracking/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/PostSplashScreen/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Synthesis/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/*.uasset'
+Searching using wildcard: '../../../Engine/Content/*.umap'
+Searching using wildcard: '../../../../../../Users/Administrador/Documents/Unreal Projects/Unreal-Prisma/PruebaDLCs/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/2D/Paper2D/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/GeometryMode/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Developer/AnimationSharing/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/GeometryProcessing/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/FX/Niagara/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/MotoSynth/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeap/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Media/MediaCompositing/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/VirtualProduction/Takes/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/OpenXR/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/OpenXREyeTracker/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/OpenXRHandTracking/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/PostSplashScreen/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Synthesis/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/*.umap'
+Searching using wildcard: '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/*.umap'
+Cooked packages 0 Packages Remain 10522 Total 10522
+Cook Diagnostics: OpenFileHandles=220, VirtualMemory=661MiB
+Cooked packages 50 Packages Remain 10672 Total 10722
+Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.046381 seconds
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_4 has elements that reference missing vertices. MaxVertex=3, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=7, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=11, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_5 has elements that reference missing vertices. MaxVertex=19, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_6 has elements that reference missing vertices. MaxVertex=15, NumModelVertices=0
+Model /Engine/Maps/Entry.Entry:PersistentLevel.ModelComponent_7 has elements that reference missing vertices. MaxVertex=23, NumModelVertices=0
+Missing cached shadermap for MIC_GreystoneHair in PCD3D_SM5, Low, SM5 (DDC key hash: 6110862CE47B8B37F18F443A2734204ADF2C9F3B), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+Missing cached shadermap for MIC_GreystoneHair in PCD3D_SM5, Default, SM5 (DDC key hash: 277F1B9712F0FBB4E98A08076B3FD7B35C32CAC6), compiling. 
+Worker (1/9): shaders left to compile 175
+Worker (2/9): shaders left to compile 165
+Worker (3/9): shaders left to compile 155
+Worker (4/9): shaders left to compile 145
+Worker (5/9): shaders left to compile 135
+Worker (6/9): shaders left to compile 125
+Worker (7/9): shaders left to compile 115
+Worker (8/9): shaders left to compile 105
+Started 80 'Local' shader compile jobs with 'Low' priority
+Submitted 175 shader compile jobs with 'Low' priority
+Missing cached shadermap for MIC_GreystoneFur in PCD3D_SM5, Low, SM5 (DDC key hash: ACD6610C05B1074881FA64C4722D59FD0A26066B), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+Missing cached shadermap for MIC_GreystoneFur in PCD3D_SM5, Default, SM5 (DDC key hash: 8E9D9042EABFE6BEEDA4E9E6768E632160461F52), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+[AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Content\ParagonKallari\Characters\Heroes\Kallari\Meshes\Kallari.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+Missing cached shadermap for Serath_Hair_Holy in PCD3D_SM5, Low, SM5 (DDC key hash: 3C61FB9F30E1D8329FCD7AAD248B9264E450CD6F), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+Missing cached shadermap for Serath_Hair_Holy in PCD3D_SM5, Default, SM5 (DDC key hash: BB32F74746E5B4A172148D9339BF2357CE23C2D7), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonSerath/Characters/Global/Eyes/Textures/EpicQuadPanorama_CC.EpicQuadPanorama_CC', its maximum texture size has been explicitly set to 512.
+[AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Content\ParagonSerath\Characters\Heroes\Serath\Meshes\Serath.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+Building static mesh Floor_400x400...
+Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/Lighting/HDR_ParagonSample.HDR_ParagonSample', its maximum texture size has been explicitly set to 512.
+Missing cached shadermap for Referecnce_DarkSide in PCD3D_SM5, Low, SM5 (DDC key hash: 7D215060ABFBDC4D9B4D410F6B3703EE8E7C60F2), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for Referecnce_DarkSide in PCD3D_SM5, High, SM5 (DDC key hash: F529F42D82E80B0290B3F79D8D7CBF351B1A4942), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for Referecnce_DarkSide in PCD3D_SM5, Default, SM5 (DDC key hash: 0926DC252E63F68C371144CC6A699CDB19B94736), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Generic in PCD3D_SM5, Low, SM5 (DDC key hash: D3A70B42638DAB93E13496E88DE55DAF2B323981), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Generic in PCD3D_SM5, High, SM5 (DDC key hash: B05BD9B613711242D1D9F87C3335606ED18AC80C), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Generic in PCD3D_SM5, Default, SM5 (DDC key hash: 4D699ED6DE5C838B402D8970E5732220A321BB5D), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Evil_InhibGate_Top in PCD3D_SM5, Low, SM5 (DDC key hash: 2C67E51BB76DF8AE71FCE96168AF75D39EB98DBD), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Evil_InhibGate_Top in PCD3D_SM5, High, SM5 (DDC key hash: 33D698BFEAC250818049F064DBFBAEA3EC8F58F2), compiling. 
+Missing cached shadermap for MI_Evil_InhibGate_Top in PCD3D_SM5, Default, SM5 (DDC key hash: EA90FDA53A73372CDB4C17FFAC8576A2225A2325), compiling. 
+Worker (3/9): shaders left to compile 1915
+Started 10 'Local' shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Reference in PCD3D_SM5, Low, SM5 (DDC key hash: DED0E8E2F3D433C2B3D1E34D7C022FC57B34467E), compiling. 
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Reference in PCD3D_SM5, High, SM5 (DDC key hash: 3C8B6FFF33F120ADD69D8FE46A684FBC63A6C7EF), compiling. 
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Reference in PCD3D_SM5, Default, SM5 (DDC key hash: B38D0FF03F14EC575772EFAC207216F95118152A), compiling. 
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for Monolith_DawnCollar_Metal in PCD3D_SM5, Low, SM5 (DDC key hash: AE631AF00BDACE5B7E6C712593554096713F25EF), compiling. 
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for Monolith_DawnCollar_Metal in PCD3D_SM5, High, SM5 (DDC key hash: 0766AF02CB5531D354563EE5BDA429F7B37E50CD), compiling. 
+Missing cached shadermap for Monolith_DawnCollar_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 76E8E2EE8F8701EC6D537839FBEC785DBBD9040F), compiling. 
+Missing cached shadermap for M_Mono_Water_Flow_Down in PCD3D_SM5, Default, SM5 (DDC key hash: 0993835D3B69DCC08DDA383DA0E60F12FC5F9CC1), compiling. 
+Submitted 48 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Stairs in PCD3D_SM5, Low, SM5 (DDC key hash: E255BEBBB9BDDCBA3AFE76584779AD23D781F639), compiling. 
+Missing cached shadermap for M_Dawn_Stairs in PCD3D_SM5, High, SM5 (DDC key hash: D62E17017EAA378654EA2BFBE067F310E9A05AFB), compiling. 
+Worker (2/9): shaders left to compile 2713
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Stairs in PCD3D_SM5, Default, SM5 (DDC key hash: E4945E4DD79E46543E8772E0E0084723494EF396), compiling. 
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Gate_Metal in PCD3D_SM5, Low, SM5 (DDC key hash: 6AFC6F9446085D00A131761325DD62E924D14782), compiling. 
+Missing cached shadermap for M_Dawn_Gate_Metal in PCD3D_SM5, High, SM5 (DDC key hash: 9B188857EC45C0836277B4444FB0A1E930FABFBB), compiling. 
+Worker (1/9): shaders left to compile 3083
+Started 10 'Local' shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Dawn_Gate_Metal in PCD3D_SM5, Default, SM5 (DDC key hash: 5E0B0A231757D03E985CE2619A4DBCC1A93548BC), compiling. 
+Missing cached shadermap for M_HeatherPatches_Inst2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1835CCB94A16AB8D8CC7228A5DFE1636A0155C05), compiling. 
+Submitted 94 shader compile jobs with 'Low' priority
+Mesh SM_Heather_Mesh_Clumps2 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Heather/SM_Heather_Mesh_Clumps2.SM_Heather_Mesh_Clumps2.
+Missing cached shadermap for M_FieldGrass_Inst_01_LOD1 in PCD3D_SM5, Default, SM5 (DDC key hash: 713C71C735933EAAAB8E4013BD9BCFC507FE6E79), compiling. 
+Submitted 94 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_FieldGrass_Inst_01_LOD2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CA8D2BF2AC23D752522FF3EC5D8983FEC7FBED1), compiling. 
+Submitted 94 shader compile jobs with 'Low' priority
+Mesh SM_FieldGrass_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.SM_FieldGrass_01.
+Missing cached shadermap for MM_Marble_Walls_Inst in PCD3D_SM5, Low, SM5 (DDC key hash: 0E5A84B0808CE1DCDCAA6EAA8ECE694BE59F2012), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MM_Marble_Walls_Inst in PCD3D_SM5, High, SM5 (DDC key hash: F37EE1A657805EAC42CA12B35905C9F44763EB51), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MM_Marble_Walls_Inst in PCD3D_SM5, Medium, SM5 (DDC key hash: 233A372EE72D9FE440250B97A2961034A7E3025C), compiling. 
+Worker (8/9): shaders left to compile 3625
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MM_Marble_Walls_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 680BD1607FF2ED35A7854A5C9CEA22C381ADBF79), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Trim in PCD3D_SM5, Low, SM5 (DDC key hash: 75EEE0D7A2081D33C995DFC4BBF7758D62888302), compiling. 
+Worker (7/9): shaders left to compile 3885
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (6/9): shaders left to compile 3875
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Trim in PCD3D_SM5, High, SM5 (DDC key hash: DCB5DAD48875BF7769D555C0D0CCC2EA9ADA14BE), compiling. 
+Worker (5/9): shaders left to compile 4000
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Trim in PCD3D_SM5, Medium, SM5 (DDC key hash: 9E71B450E66A548FD8BD7429C76657A5C962BBDB), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Trim in PCD3D_SM5, Default, SM5 (DDC key hash: 4F46C1CD9E6F2194FD04F8968C36F5398BE6904F), compiling. 
+Missing cached shadermap for M_TerminusGate_Gateway in PCD3D_SM5, Low, SM5 (DDC key hash: ED5944AA991CC26399C41D0AE28E986469C298D5), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Gateway in PCD3D_SM5, High, SM5 (DDC key hash: 4D8FF1A93AEEDD3F0BC410ECF043912086ED1B03), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Gateway in PCD3D_SM5, Medium, SM5 (DDC key hash: 2E47728580A95AFB4F664133C932F2F839FB6BDE), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Gateway in PCD3D_SM5, Default, SM5 (DDC key hash: 0089C91E6EC799DB0CFE35275E5D03AF4BB3F8FE), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Nose in PCD3D_SM5, Low, SM5 (DDC key hash: DE4C36ADAB71077FA4D55A05A1C3DDDA28CCB072), compiling. 
+Missing cached shadermap for M_TerminusGate_Nose in PCD3D_SM5, High, SM5 (DDC key hash: 30A5BCFAE79F9AE0E1D8056336AC188BC32E035E), compiling. 
+Worker (4/9): shaders left to compile 4800
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Nose in PCD3D_SM5, Medium, SM5 (DDC key hash: 34248563BED4A50252053263F9B9E4B11A356587), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_TerminusGate_Nose in PCD3D_SM5, Default, SM5 (DDC key hash: A9A992E5431A3101821345ED8E03205C6BAE7C1E), compiling. 
+Missing cached shadermap for MI_Basewall_Piece_Metal_2 in PCD3D_SM5, Low, SM5 (DDC key hash: 4562AC9046EECFB14737687EEA8C2A5218E31121), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Basewall_Piece_Metal_2 in PCD3D_SM5, High, SM5 (DDC key hash: 07E2D18F9FC1D120E7D35E028E7FC3C9FE709AA7), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Basewall_Piece_Metal_2 in PCD3D_SM5, Medium, SM5 (DDC key hash: BE7E8A5A9A5518DD1E3B1FF08686AC3A4D50E13A), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Basewall_Piece_Metal_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AC54DD36768CF068C59432813570BBCA1014E1DA), compiling. 
+Submitted 135 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Glansgruvan_Rock_Inst in PCD3D_SM5, Low, SM5 (DDC key hash: C2BAD8E615D7B14C98B8615B961F1E262709321E), compiling. 
+Submitted 150 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Glansgruvan_Rock_Inst in PCD3D_SM5, High, SM5 (DDC key hash: 36BC2D2745FE5BA4EB47A2E095AD87D2844693B4), compiling. 
+Submitted 150 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Glansgruvan_Rock_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 38162D8EC0255F430841CD2CCAAE6DED897CC17A), compiling. 
+Submitted 150 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_ParagonLogo_Inst in PCD3D_SM5, Low, SM5 (DDC key hash: 0E22FC6217CB77FEA093D1D6AC911A8D89DA1D2C), compiling. 
+Submitted 190 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_ParagonLogo_Inst in PCD3D_SM5, High, SM5 (DDC key hash: B8F8A9408473666DD228DEE0094C965D600743A8), compiling. 
+Missing cached shadermap for M_ParagonLogo_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 72799DD44DD3724B53E141B6140FAACBCFE69507), compiling. 
+Missing cached shadermap for MI_JungleWall02B_Float in PCD3D_SM5, Default, SM5 (DDC key hash: C11F491B0191A0C6A35AA2F0769D892E9D0B7B68), compiling. 
+Submitted 50 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Waterfloor_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: D54D3BD366D447ADA8883185841F9265E3883B91), compiling. 
+Submitted 80 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Vegetation_Debris_002 in PCD3D_SM5, Default, SM5 (DDC key hash: DD3A7E07CEFFB5B184DBD8FFBEABF8E3BC7AC754), compiling. 
+Submitted 150 shader compile jobs with 'Low' priority
+Mesh SM_Vegetation_Debris_002 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/Vegetation_Debris_002/SM_Vegetation_Debris_002.SM_Vegetation_Debris_002.
+Mesh Tree_Stump_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/Tree_Stump_01/Tree_Stump_01.Tree_Stump_01.
+Worker (3/9): shaders left to compile 6520
+Started 10 'Local' shader compile jobs with 'Low' priority
+Mesh HillTree_Tall_02 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Trees/HillTree_Tall_02/HillTree_Tall_02.HillTree_Tall_02.
+Worker (2/9): shaders left to compile 6510
+Started 10 'Local' shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Tile_LeafPathStones in PCD3D_SM5, Default, SM5 (DDC key hash: D0B7890C802AE79542F1ADC553E46787B94A7917), compiling. 
+Submitted 246 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Yarrow_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 2532AD92EB5BCAB22FDE953221C7164B4DDED84F), compiling. 
+Submitted 94 shader compile jobs with 'Low' priority
+Mesh SM_Yarrow3 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow3.SM_Yarrow3.
+Mesh SM_Yarrow is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Foliage/Flowers/Yarrow/SM_Yarrow.SM_Yarrow.
+Missing cached shadermap for M_FieldScabious_01_Inst02 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D09204DAEBDDD3BAAB1D758EFCBCF9DC263617A), compiling. 
+Submitted 94 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Fern_01_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 8E59EC3A9803E4AB18FBB597FFC842ACFCCC674F), compiling. 
+Submitted 94 shader compile jobs with 'Low' priority
+Mesh Scree_001_B is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_B.Scree_001_B.
+Mesh Scree_001_A is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001_A.Scree_001_A.
+Mesh Scree_001 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Scree001/Scree_001.Scree_001.
+Mesh SM_River_Rock_01 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/River_Rock_01/SM_River_Rock_01.SM_River_Rock_01.
+Mesh SM_MountainRock_Closed is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Mountain_RockFace_002/SM_MountainRock_Closed.SM_MountainRock_Closed.
+Missing cached shadermap for MI_MountainRock in PCD3D_SM5, Default, SM5 (DDC key hash: F5C7F147FCE7B103C5E851E27DD0BCCF3B16EE11), compiling. 
+Submitted 150 shader compile jobs with 'Low' priority
+Mesh Medium_Boulder_LowPoly is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Medium_Boulder_002/Medium_Boulder_LowPoly.Medium_Boulder_LowPoly.
+Mesh Medium_Boulder_001 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Medium_Boulder_001/Medium_Boulder_001.Medium_Boulder_001.
+Mesh LargeVolcanicRock_004 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_004.LargeVolcanicRock_004.
+Mesh LargeVolcanicRock_002 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_002.LargeVolcanicRock_002.
+Mesh LargeVolcanicRock_001 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/Large_Volcanic_Rock_001/LargeVolcanicRock_001.LargeVolcanicRock_001.
+Mesh SM_GroundRevealRock001 is recomputing physics on load. It must be resaved before it will cook deterministically. Please resave /Game/KiteDemo/Environments/Rocks/GroundRevealRock001/SM_GroundRevealRock001.SM_GroundRevealRock001.
+Worker (1/9): shaders left to compile 7178
+Started 10 'Local' shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_JunglePillarBlockPiece02C in PCD3D_SM5, Default, SM5 (DDC key hash: 299DDB0AA59B2A837476FD3A1D0E64D438108B6D), compiling. 
+Submitted 50 shader compile jobs with 'Low' priority
+Worker (6/9): shaders left to compile 7218
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (5/9): shaders left to compile 7208
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (8/9): shaders left to compile 7198
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/9): shaders left to compile 7188
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/9): shaders left to compile 7178
+Started 10 'Local' shader compile jobs with 'Low' priority
+Loading secondary levels for package 'ParagonSample'
+[AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Content\ParagonSerath\Characters\Heroes\Serath\Skins\Tier1\Serath_Val\Meshes\SerathValentine.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+Worker (2/9): shaders left to compile 7168
+Started 10 'Local' shader compile jobs with 'Low' priority
+[AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Content\ParagonSerath\Characters\Heroes\Serath\Skins\Tier1\Serath_Gold\Meshes\SerathGold.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Content\ParagonSerath\Characters\Heroes\Serath\Skins\Tier1\Serath_Future\Meshes\Serath_Future.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+Missing cached shadermap for Serath_HairZ in PCD3D_SM5, Low, SM5 (DDC key hash: EB7BDB0B6A22453775BE86F1549DAF1CB1DDDAB0), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+Missing cached shadermap for Serath_HairZ in PCD3D_SM5, Default, SM5 (DDC key hash: 9ABA651984AB04990D5FD7BA322873610DB4269C), compiling. 
+Submitted 175 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Serath_Eye_Zombie in PCD3D_SM5, Low, SM5 (DDC key hash: F2F30DC499143BD5C7B1834ED75A42DE532E09F1), compiling. 
+Submitted 165 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_Serath_Eye_Zombie in PCD3D_SM5, Default, SM5 (DDC key hash: 9F34A2F3737E19B7B9581BDC0D21260A7E30DF8E), compiling. 
+Submitted 165 shader compile jobs with 'Low' priority
+Worker (3/9): shaders left to compile 7838
+Started 10 'Local' shader compile jobs with 'Low' priority
+[AssetLog] C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Content\ParagonSerath\Characters\Heroes\Serath\Skins\Tier1\Serath_Frost\Meshes\SerathFrost.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+Loading secondary levels for package 'Serath'
+
+
+Script Stack (0 frames):
+
+Windows GetLastError: La operación se completó correctamente. (0)
