@@ -1,2 +1,0 @@
-ticMesh.uexp
-PruebaVideoStreaming/Saved/Logs/PruebaVideoStreaming.log

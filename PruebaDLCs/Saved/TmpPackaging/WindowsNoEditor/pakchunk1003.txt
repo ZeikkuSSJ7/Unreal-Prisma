@@ -1,3 +1,0 @@
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Mapa3\Nivel\ThirdPersonExampleMap3
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Mapa3\Nivel\ThirdPersonExampleMap3_BuiltData
-C:\Users\Administrador\Documents\Unreal Projects\Unreal-Prisma\PruebaDLCs\Saved\Cooked\WindowsNoEditor\PruebaDLCs\Content\DLCs\Mapa3\Png\Mapa3
